@@ -1,0 +1,59 @@
+{
+  "name": "Berachain Mainnet Default Reward Vault List",
+  "protocols": [
+    {
+      "name": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738378765/dapps/hub/hoymyj8bfl3xfczeioch.png",
+      "url": "https://hub.berachain.com",
+      "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
+    }
+  ],
+  "vaults": [
+    {
+      "stakingTokenAddress": "0xde04c469ad658163e2a5e860a03a86b52f6fa8c8000000000000000000000000",
+      "vaultAddress": "0x6649bc987a7c0fb0199c523de1b1b330cd0457a8",
+      "name": "BYUSD | HONEY",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738733620/reward-vaults/icons/c2q60zif1cetllqip0a6.png",
+      "url": "https://hub.berachain.com/pools/0xde04c469ad658163e2a5e860a03a86b52f6fa8c8000000000000000000000000/details/",
+      "description": "Acquired by depositing liquidity into the BYUSD / HONEY Pool "
+    },
+    {
+      "stakingTokenAddress": "0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4",
+      "vaultAddress": "0x17376ad6167a5592fbeaa42e6068c132474a513d",
+      "name": "WETH | WBERA",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738733618/reward-vaults/icons/cmiqewcekww0ckhqoe9d.png",
+      "url": "https://hub.berachain.com/pools/0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4000200000000000000000003/details/"
+    },
+    {
+      "stakingTokenAddress": "0x38fdd999fe8783037db1bbfe465759e312f2d809",
+      "vaultAddress": "0x086f82fa0ca310cc835a9db4f53697687ef149c7",
+      "name": "WBTC | WBERA",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://hub.berachain.com/pools/0x38fdd999fe8783037db1bbfe465759e312f2d809000200000000000000000004/details/"
+    },
+    {
+      "stakingTokenAddress": "0xf961a8f6d8c69e7321e78d254ecafbcc3a637621",
+      "vaultAddress": "0xf99be47baf0c22b7eb5eac42c8d91b9942dc7e84",
+      "name": "USDC.e | HONEY",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738378469/reward-vaults/icons/oqmqj7c4707nobigirw5.png",
+      "url": "https://hub.berachain.com/pools/0xf961a8f6d8c69e7321e78d254ecafbcc3a637621000000000000000000000001/details/"
+    },
+    {
+      "stakingTokenAddress": "0x2c4a603a2aa5596287a06886862dc29d56dbc354",
+      "vaultAddress": "0xc2baa8443cda8ebe51a640905a8e6bc4e1f9872c",
+      "name": "WBERA | HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738378469/reward-vaults/icons/soy9mfpovb1odtby9p02.png",
+      "protocol": "HUB",
+      "url": "https://hub.berachain.com/pools/0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002/details/"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
