@@ -93,3 +93,9 @@ Please make additions to this repo by 1) forking the repo and 2) submitting a Pu
 - Upload assets to the `assets/` directory
 - Use PNG format with transparent background
 - Recommended size: 256x256 pixels
+
+### Validating Lists
+
+```bash
+pnpm run validate
+```

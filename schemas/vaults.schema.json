@@ -1,0 +1,48 @@
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "protocols": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "logoURI": { "type": "string", "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$" },
+          "url": { "type": "string", "pattern": "^(https://[^\\s]+)$" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "vaults": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "stakingTokenAddress": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
+          "vaultAddress": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
+          "name": { "type": "string", "minLength": 1 },
+          "protocol": { "type": "string", "minLength": 1 },
+          "logoURI": { "type": "string", "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$" },
+          "url": { "type": "string", "pattern": "^(https://[^\\s]+)$" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "version": {
+      "type": "object",
+      "properties": {
+        "major": { "type": "integer" },
+        "minor": { "type": "integer" },
+        "patch": { "type": "integer" }
+      },
+      "required": ["major", "minor", "patch"]
+    }
+  },
+  "required": ["name", "protocols", "vaults", "version"]
+}
