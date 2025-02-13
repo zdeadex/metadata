@@ -23,6 +23,8 @@ pnpm validate;
 
 ## Contributing
 
+Please make sure to read [Code of Conduct](CODE_OF_CONDUCT.md).
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more instructions on how to contribute to the Berachain Metadata.
 
 ## Validating Lists
