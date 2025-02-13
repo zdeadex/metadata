@@ -11,13 +11,13 @@ This repository contains the default lists for Berachain's interfaces, including
 - `src/tokens/`: Token lists for different networks
 - `src/vaults/`: Vault lists for different networks
 - `src/validators/`: Validator lists for different networks
-- `assets/`: Image assets for tokens, vaults, and validators
+- `src/assets/`: Image assets for tokens, vaults, and validators
 
 ## Contributing
 
 Please make additions to this repo by 1) forking the repo and 2) submitting a Pull Request. Please note that:
 
-- Submitting a PR does not guarantee addition to the default lists
+- Submitting a PR _DOES NOT_ guarantee addition to the lists
 - All PRs should include relevant assets in the `assets/` directory
 
 ### Adding a Token
