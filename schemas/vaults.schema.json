@@ -1,4 +1,3 @@
-
 {
   "$schema": "http://json-schema.org/draft-07/schema",
   "type": "object",
@@ -12,10 +11,21 @@
       "items": {
         "type": "object",
         "properties": {
-          "name": { "type": "string", "minLength": 1 },
-          "logoURI": { "type": "string", "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$" },
-          "url": { "type": "string", "pattern": "^(https://[^\\s]+)$" },
-          "description": { "type": "string" }
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "logoURI": {
+            "type": "string",
+            "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$"
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^(https://[^\\s]+)$"
+          },
+          "description": {
+            "type": "string"
+          }
         }
       }
     },
@@ -24,22 +34,48 @@
       "items": {
         "type": "object",
         "properties": {
-          "stakingTokenAddress": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
-          "vaultAddress": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
-          "name": { "type": "string", "minLength": 1 },
-          "protocol": { "type": "string", "minLength": 1 },
-          "logoURI": { "type": "string", "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$" },
-          "url": { "type": "string", "pattern": "^(https://[^\\s]+)$" },
-          "description": { "type": "string" }
+          "stakingTokenAddress": {
+            "type": "string",
+            "pattern": "^0x[a-fA-F0-9]{40}$"
+          },
+          "vaultAddress": {
+            "type": "string",
+            "pattern": "^0x[a-fA-F0-9]{40}$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "protocol": {
+            "type": "string",
+            "minLength": 1
+          },
+          "logoURI": {
+            "type": "string",
+            "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$"
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^(https://[^\\s]+)$"
+          },
+          "description": {
+            "type": "string"
+          }
         }
       }
     },
     "version": {
       "type": "object",
       "properties": {
-        "major": { "type": "integer" },
-        "minor": { "type": "integer" },
-        "patch": { "type": "integer" }
+        "major": {
+          "type": "integer"
+        },
+        "minor": {
+          "type": "integer"
+        },
+        "patch": {
+          "type": "integer"
+        }
       },
       "required": ["major", "minor", "patch"]
     }

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write \"(src|schemas)/**/*.json\"",
     "validate:tokens": "ajv validate -s schemas/tokens.schema.json -d src/tokens/**/*.json",
     "validate:validators": "ajv validate -s schemas/validators.schema.json -d src/validators/**/*.json",
     "validate:vaults": "ajv validate -s schemas/vaults.schema.json -d src/vaults/**/*.json",
@@ -14,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "ajv-cli": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.0"
   }
 }
