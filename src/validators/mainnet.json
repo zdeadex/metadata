@@ -11,7 +11,7 @@
     },
     {
       "id": "0x832153bf3e09b9cab14414425a0ebaeb889e21d20872ebb990ed9a6102d7dc7f3017d4689f931a8e96d918bdeb184e1b",
-      "logoURI": "https://raw.githubusercontent.com/nodeinfra/publicinfo/refs/heads/main/bgtscan.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738890946/src/validators/mainnet/u5hysssn1bjb5mkqjvgn.png",
       "name": "BGTScan",
       "description": "🐻⛓ on-chain BGT analytics, powered by Nodeinfra",
       "website": "https://bgtscan.com",
@@ -26,10 +26,18 @@
       "twitter": "https://www.twitter.com/StakeusXyz"
     },
     {
+      "id": "0x84acfd38a13af12add8d82e1ef0842c4dfc1e4175fae5b8ab73770f9050cbf673cafdbf6d8ab679fe9ea13208f50b485",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739223283/validators/icons/vpvgcwpww2rifhogektb.jpg",
+      "name": "Smilee Finance",
+      "description": "Generate Awesome Yields with gBERA, the Liquid Staking Token that plays Proof of Liquidity for you.",
+      "website": "https://app.smilee.finance",
+      "twitter": "https://x.com/SmileeFinance"
+    },
+    {
       "id": "0x97266c94c490662479a9188b070c86e505df4f167016883af4114c8c1a71429e8f270c0c2f1b74375880f81828b768c0",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738875968/src/validators/mainnet/1xp_logo_symbol_black.png",
-      "name": "1XP, Inc",
-      "description": "We are providing faucet for testnet BERA. You can have faucet via 1XP Community discord(https://discord.gg/1XP). Have fun with it.",
+      "name": "1XP X 0base.vc",
+      "description": "1XP secures the future of economic autonomy. With top-tier infrastructure and deep governance expertise, we power networks that enable true decentralization. Stake with experience. Stake with 1XP.",
       "website": "https://1xp.com",
       "twitter": "https://x.com/1XP_Inc"
     },
@@ -107,7 +115,7 @@
     },
     {
       "id": "0xa769858cabcbe2fa239997e676e378f2037a679a1cf674679c40e410ffa9e72921781c24af7cc79969361559e88615de",
-      "logoURI": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738889627/src/validators/mainnet/utguxxdytjhs7dy317qw.png",
       "name": "Coinage x DAIC",
       "description": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)",
       "website": "https://daic.capital",
@@ -124,7 +132,7 @@
     {
       "id": "0x89233d54cc54e67cbab9493af37bcbedaa9def92c14637694bf88f675b2ccd0a6c98a8dde009d6d80f515f11a8845517",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pops.png",
-      "name": "P-OPS",
+      "name": "P-OPS Team",
       "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
       "website": "https://pops.one",
       "twitter": "https://twitter.com/POpsTeam1"
@@ -227,8 +235,8 @@
     },
     {
       "id": "0xa14fa37a1d4c65326bf091d3bb0e5607fde8946471ed923e6815077fac7282d89820dd4f8765e4085ca8247fb99ecb6b",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
-      "name": "Assymetric Research",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
+      "name": "Asymmetric Research",
       "description": "",
       "website": "https://www.asymmetric.re",
       "twitter": ""
@@ -283,7 +291,7 @@
     },
     {
       "id": "0xa47aa6bd157dfa6ab6f411384a662c3d4d4f8745217ea8198470d6f3135bd71958fd824256fdbf16b21494ec3080b7ee",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
       "name": "BitGo",
       "description": "",
       "website": "https://www.bitgo.com",
@@ -291,7 +299,7 @@
     },
     {
       "id": "0x89543c3e50251ae355835484faf7cb38dacfca943b97fef9c9ee1e47248258a7198da417bf8fc6771fa7ef16a8adec0f",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
       "name": "UFN",
       "description": "",
       "website": "",
@@ -299,7 +307,7 @@
     },
     {
       "id": "0x83fd53710b75c2115bd0aac128b739eb9fa9e262603dacdf834030abb1bf4c8a6c00bb72b314c123d77f4ff40cd4d49a",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
       "name": "BicroStrategy",
       "description": "",
       "website": "",
@@ -307,7 +315,7 @@
     },
     {
       "id": "0x83d0f90cdedaac1450c8dc08cfa644ae02f5918572041c2fca7df8b55336682cb5edbccadd6e77129de425844e147d02",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
       "name": "wallahi",
       "description": "",
       "website": "",
