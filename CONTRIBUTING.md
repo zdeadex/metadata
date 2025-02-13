@@ -87,3 +87,6 @@ PLEASE NOTE:
 - Upload assets to the `assets/` directory
 - Use PNG or JPG format with solid background - Other formats are not supported
 - Recommended size: 512x512 pixels
+
+![Guidelines](README/bueno-nobueno.jpg)
+
