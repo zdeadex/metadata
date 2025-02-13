@@ -1,7 +1,6 @@
 {
-  "name": "Berachain Bartio Default Token List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": ["mainnet"],
+  "name": "Berachain Mainnet Default Token List",
+  "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739450224/foundation/oe6damqveywiebwxeelf.png",
   "tags": {
     "stablecoin": {
       "name": "Stablecoin",
@@ -10,25 +9,8 @@
     "featured": {
       "name": "Featured",
       "description": "Tokens that are featured"
-    },
-    "debt": {
-      "name": "Debt Token",
-      "description": "Tokens that are representing debt"
-    },
-    "supply": {
-      "name": "Supply Token",
-      "description": "Tokens that are representing honey supply"
-    },
-    "deposit": {
-      "name": "Deposit Token",
-      "description": "Tokens that can be deposited in Bend"
-    },
-    "rewardToken": {
-      "name": "Reward Token",
-      "description": "Tokens that are used for vault deposits to earn BGT rewards"
     }
   },
-
   "tokens": [
     {
       "chainId": 80094,
@@ -136,10 +118,5 @@
       "name": "iBGT",
       "tags": []
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }

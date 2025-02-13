@@ -10,13 +10,6 @@
       "type": "string",
       "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$"
     },
-    "keywords": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "minItems": 1
-    },
     "tags": {
       "type": "object",
       "additionalProperties": {
@@ -72,23 +65,8 @@
         }
       },
       "minItems": 1
-    },
-    "version": {
-      "type": "object",
-      "properties": {
-        "major": {
-          "type": "integer"
-        },
-        "minor": {
-          "type": "integer"
-        },
-        "patch": {
-          "type": "integer"
-        }
-      },
-      "required": ["major", "minor", "patch"]
     }
   },
-  "required": ["name", "logoURI", "keywords", "tags", "tokens"],
+  "required": ["name", "logoURI", "tags", "tokens"],
   "additionalProperties": false
 }
