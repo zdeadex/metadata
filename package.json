@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "format": "prettier --write \"(src|schemas)/**/*.json\"",
     "validate:tokens": "ajv validate -s schemas/tokens.schema.json -d src/tokens/**/*.json",
     "validate:validators": "ajv validate -s schemas/validators.schema.json -d src/validators/**/*.json",
@@ -18,5 +19,9 @@
   },
   "devDependencies": {
     "prettier": "^3.5.0"
-  }
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@8.15.0"
 }
