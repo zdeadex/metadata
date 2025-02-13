@@ -227,7 +227,7 @@
     },
     {
       "id": "0xa14fa37a1d4c65326bf091d3bb0e5607fde8946471ed923e6815077fac7282d89820dd4f8765e4085ca8247fb99ecb6b",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
       "name": "Assymetric Research",
       "description": "",
       "website": "https://www.asymmetric.re",
@@ -283,7 +283,7 @@
     },
     {
       "id": "0xa47aa6bd157dfa6ab6f411384a662c3d4d4f8745217ea8198470d6f3135bd71958fd824256fdbf16b21494ec3080b7ee",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
       "name": "BitGo",
       "description": "",
       "website": "https://www.bitgo.com",
@@ -291,7 +291,7 @@
     },
     {
       "id": "0x89543c3e50251ae355835484faf7cb38dacfca943b97fef9c9ee1e47248258a7198da417bf8fc6771fa7ef16a8adec0f",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
       "name": "UFN",
       "description": "",
       "website": "",
@@ -299,7 +299,7 @@
     },
     {
       "id": "0x83fd53710b75c2115bd0aac128b739eb9fa9e262603dacdf834030abb1bf4c8a6c00bb72b314c123d77f4ff40cd4d49a",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
       "name": "BicroStrategy",
       "description": "",
       "website": "",
@@ -307,11 +307,16 @@
     },
     {
       "id": "0x83d0f90cdedaac1450c8dc08cfa644ae02f5918572041c2fca7df8b55336682cb5edbccadd6e77129de425844e147d02",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ghost.png",
       "name": "wallahi",
       "description": "",
       "website": "",
       "twitter": ""
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
