@@ -5,20 +5,30 @@
   "main": "index.js",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
-    "format": "prettier --write \"(src|schemas)/**/*.json\"",
+    "format": "biome format --write \"(src|schemas)/**/*.json\"",
     "validate:tokens": "ajv validate -s schemas/tokens.schema.json -d src/tokens/**/*.json",
     "validate:validators": "ajv validate -s schemas/validators.schema.json -d src/validators/**/*.json",
     "validate:vaults": "ajv validate -s schemas/vaults.schema.json -d src/vaults/**/*.json",
-    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults"
+    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults",
+    "lint": "biome lint .",
+    "check": "biome check ."
   },
-  "keywords": ["berachain", "metadata", "tokens", "validators", "vaults"],
+  "keywords": [
+    "berachain",
+    "metadata",
+    "tokens",
+    "validators",
+    "vaults"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ajv-cli": "^5.0.0"
   },
   "devDependencies": {
-    "prettier": "^3.5.0"
+    "ajv-cli": "^5.0.0",
+    "biome": "^0.3.3",
+    "prettier": "^3.2.5"
   },
   "engines": {
     "node": ">=20"
