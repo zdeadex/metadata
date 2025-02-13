@@ -14,7 +14,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version-file: '.nvmrc'
-        cache: 'pnpm'
 
     - name: Setup pnpm
       uses: pnpm/action-setup@v2
@@ -29,9 +28,9 @@ jobs:
       
     - name: Validate JSON files
       run: |
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/tokens/*.json"
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/vaults/*.json"
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/validators/*.json"
+        pnpm validate:tokens
+        pnpm validate:vaults
+        pnpm validate:validators
 
     - name: Check formatting
       run: pnpm format --check
