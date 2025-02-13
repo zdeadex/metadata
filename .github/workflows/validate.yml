@@ -28,9 +28,9 @@ jobs:
       
     - name: Validate JSON files
       run: |
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/tokens/*.json"
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/vaults/*.json"
-        npx ajv-cli validate -s schemas/tokens.schema.json -d "src/validators/*.json"
+        pnpm validate:tokens
+        pnpm validate:vaults
+        pnpm validate:validators
 
     - name: Check formatting
       run: pnpm format --check
