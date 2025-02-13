@@ -10,7 +10,7 @@
     "validate:vaults": "ajv validate -s schemas/vaults.schema.json -d src/vaults/**/*.json",
     "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults"
   },
-  "keywords": [],
+  "keywords": ["berachain", "metadata", "tokens", "validators", "vaults"],
   "author": "",
   "license": "ISC",
   "dependencies": {
