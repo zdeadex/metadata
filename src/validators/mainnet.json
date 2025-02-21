@@ -67,9 +67,9 @@
     },
     {
       "id": "0x98111a6ee569f1be005551d8c76e042aabcb5bf4c491d177445a2b5fb30dedc7bf6db39e387831c6739bde4129c6ada5",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738876217/src/validators/mainnet/s9hb3vmvp1cx0ctg0p6n.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/StakeLab.png",
       "name": "StakeLab",
-      "description": "Staking and relaying Hub for Cosmos ecosystem",
+      "description": "Grow your assets - app.stakelab.zone/stake/berachain",
       "website": "https://www.stakelab.zone",
       "twitter": "https://x.com/StakeLab"
     },
