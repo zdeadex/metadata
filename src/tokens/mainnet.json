@@ -155,6 +155,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xBaadCC2962417C01Af99fb2B7C75706B9bd6Babe.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb",
+      "symbol": "stBGT", 
+      "name": "stBGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb.png",
+      "tags": []
     }
   ]
 }
