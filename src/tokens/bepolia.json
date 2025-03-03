@@ -1,0 +1,52 @@
+{
+  "name": "Berachain Bepolia Token List",
+  "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739450224/foundation/oe6damqveywiebwxeelf.png",
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "featured": {
+      "name": "Featured",
+      "description": "Tokens that are featured"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 80069,
+      "address": "0x6969696969696969696969696969696969696969",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/v1717773645/src/assets/wbera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80069,
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BERA",
+      "name": "Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/v1717773645/src/assets/bera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80069,
+      "address": "0x289274787bAF083C15A45a174b7a8e44F0720660",
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/v1717773645/src/assets/bgt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80069,
+      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/v1717773645/src/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
+    }
+  ]
+}
