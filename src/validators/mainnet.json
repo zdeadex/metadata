@@ -352,6 +352,22 @@
       "description": "The Empty Jar is used for THJ internal and experimental projects. Do not expect this validator to offer competitive incentives.",
       "website": "https://www.0xhoneyjar.xyz/",
       "twitter": "https://twitter.com/0xhoneyjar"
-    }
+    },
+    {
+      "id": "0x89cbd542c737cca4bc33f1ea5084a857a7620042fe37fd326ecf5aeb61f2ce096043cd0ed57ba44693cf606978b566ba",
+      "logoURI": "https://res.cloudinary.com/djrskw41l/image/upload/v1741091839/beradrome_x_apdao.png",
+      "name": "Beradrome X ApDAO",
+      "description": "Joint validator of Beradrome and Apiology DAO. Powered by fatBERA",
+      "website": "https://beradrome.com/",
+      "twitter": "https://twitter.com/beradrome"
+    },
+    {
+      "id": "0xb82a791d7c3d72efa6759e0250785346266d6c70ed881424ec63ad4d060904983bc57903fa133a9bc00c2d6f9b12964d",
+      "logoURI": "https://res.cloudinary.com/djrskw41l/image/upload/v1741092769/berabaddies.png",
+      "name": "Berabaddies",
+      "description": "Validator for the girlies",
+      "website": "https://x.com/berabaddies",
+      "twitter": "https://x.com/berabaddies"
+    }    
   ]
 }
