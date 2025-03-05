@@ -164,6 +164,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227",
+      "symbol": "BITCOIN", 
+      "name": "HarryPotterObamaSonic10Inu",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227.png",
+      "tags": []
     }
   ]
 }
