@@ -247,6 +247,7 @@
       "symbol": "stBTC",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/50978/large/a.jpg?1730208372",
+      "tags": [],
       "extensions": {
         "coingeckoId": "lorenzo-stbtc"
       }
@@ -256,6 +257,7 @@
       "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b",
       "name": "Wrapped aBTC",
       "symbol": "waBTC",
+      "tags": [],
       "decimals": 18
     },
     {
@@ -263,6 +265,7 @@
       "address": "0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E",
       "name": "pumpBTC.bera",
       "symbol": "pumpBTC.bera",
+      "tags": [],
       "decimals": 8
     },
     {
@@ -272,6 +275,7 @@
       "symbol": "uniBTC",
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39599/large/uniBTC_200px.png?1723064455",
+      "tags": [],
       "extensions": {
         "coingeckoId": "universal-btc"
       }
@@ -283,6 +287,7 @@
       "symbol": "LBTC",
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872",
+      "tags": [],
       "extensions": {
         "coingeckoId": "lombard-staked-btc",
         "pythPriceId": "0x8f257aab6e7698bb92b15511915e593d6f8eae914452f781874754b03d0c612b"
@@ -295,6 +300,7 @@
       "symbol": "FBTC",
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39182/large/fbtc.png?1740123952",
+      "tags": [],
       "extensions": {
         "coingeckoId": "ignition-fbtc"
       }
@@ -304,35 +310,40 @@
       "address": "0x9B2316cfe980515de7430F1c4E831B89a5921137",
       "name": "CIAN yield layer rsETH",
       "symbol": "ylrsETH",
-      "decimals": 18
+      "decimals": 18,
+      "tags": []
     },
     {
       "chainId": 80094,
       "address": "0xdCB3D91555385DaE23e6B966b5626aa7A75Be940",
       "name": "CIAN yield layer pumpBTC",
       "symbol": "ylpumpBTC",
-      "decimals": 8
+      "decimals": 8,
+      "tags": []
     },
     {
       "chainId": 80094,
       "address": "0xE946Dd7d03F6F5C440F68c84808Ca88d26475FC5",
       "name": "CIAN yield layer BTCLST",
       "symbol": "ylBTCLST",
-      "decimals": 8
+      "decimals": 8,
+      "tags": []
     },
     {
       "chainId": 80094,
       "address": "0x907883da917ca9750ad202ff6395C4C6aB14e60E",
       "name": "CIAN yield layer uniBTC",
       "symbol": "yluniBTC",
-      "decimals": 8
+      "decimals": 8,
+      "tags": []
     },
     {
       "chainId": 80094,
       "address": "0xa958090601E21A82e9873042652e35891D945a8C",
       "name": "CIAN yield layer stETH",
       "symbol": "ylstETH",
-      "decimals": 18
+      "decimals": 18,
+      "tags": []
     },
     {
       "chainId": 80094,
@@ -344,7 +355,8 @@
       "extensions": {
         "coingeckoId": "magic-internet-money",
         "pythPriceId": "0x7aa41f6ee464616f3cbc469fddfd7e63d8db319b7bd585cc95b24c29c9172916"
-      }
+      },
+      "tags": []
     },
     {
       "chainId": 80094,
@@ -356,7 +368,8 @@
       "extensions": {
         "coingeckoId": "restaked-swell-eth",
         "pythPriceId": "0x17e349391a4d8362706ec4126c2fa42047601cb71c1063e38ca305fab9b0ec4d"
-      }
+      },
+      "tags": []
     },
     {
       "chainId": 80094,
@@ -368,7 +381,8 @@
       "extensions": {
         "coingeckoId": "kelp-dao-restaked-eth",
         "pythPriceId": "0x0caec284d34d836ca325cf7b3256c078c597bc052fbd3c0283d52b581d68d71f"
-      }
+      },
+      "tags": []
     },
     {
       "chainId": 80094,
