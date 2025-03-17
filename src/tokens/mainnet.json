@@ -340,6 +340,7 @@
       "name": "Magic Internet Money",
       "symbol": "MIM",
       "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/16786/large/mimlogopng.png?1696516358",
       "extensions": {
         "coingeckoId": "magic-internet-money",
         "pythPriceId": "0x7aa41f6ee464616f3cbc469fddfd7e63d8db319b7bd585cc95b24c29c9172916"
