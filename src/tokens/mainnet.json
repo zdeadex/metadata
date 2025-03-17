@@ -223,7 +223,7 @@
       "name": "Resolv USD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40008/small/USR_LOGO.png",
-      "tags": ["stablecoin", "Resolv"],
+      "tags": ["stablecoin"],
       "extensions": {
         "coingeckoId": "resolv-usr"
       }
@@ -235,7 +235,7 @@
       "name": "Resolv Liquidity Provider Token",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/40017/standard/orangeLogo..png",
-      "tags": ["Resolv"],
+      "tags": [],
       "extensions": {
         "coingeckoId": "resolv-rlp"
       }
