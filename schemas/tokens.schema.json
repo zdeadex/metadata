@@ -1,7 +1,11 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
+    "$schema": {
+      "type": "string",
+      "pattern": "^\\.\\./.+\\.schema\\.json$"
+    },
     "name": {
       "type": "string",
       "minLength": 1
@@ -68,6 +72,6 @@
       "minItems": 1
     }
   },
-  "required": ["name", "logoURI", "tags", "tokens"],
+  "required": ["name", "logoURI", "tags", "tokens", "$schema"],
   "additionalProperties": false
 }

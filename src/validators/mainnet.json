@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/validators.schema.json",
   "name": "Berachain Mainnet Validator List",
   "validators": [
     {
