@@ -8,7 +8,7 @@
     },
     "logoURI": {
       "type": "string",
-      "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$"
+      "pattern": "^(https://raw.githubusercontent.com/berachain/metadata/[^\\s]+|https://(assets|coin-images).coingecko.com/[^\\s]+|https://res.cloudinary.com/duv0g402y/[^\\s]+)$"
     },
     "tags": {
       "type": "object",
@@ -51,7 +51,7 @@
           },
           "logoURI": {
             "type": "string",
-            "pattern": "^(ipfs://[a-zA-Z0-9]+|https://[^\\s]+)$"
+            "pattern": "^(https://raw.githubusercontent.com/berachain/metadata/[^\\s]+|https://(assets|coin-images).coingecko.com/[^\\s]+|https://res.cloudinary.com/duv0g402y/[^\\s]+)$"
           },
           "base64": {
             "type": "string"
@@ -62,7 +62,8 @@
               "type": "string"
             }
           }
-        }
+        },
+        "required": ["address", "chainId", "name", "symbol", "decimals"]
       },
       "minItems": 1
     }
