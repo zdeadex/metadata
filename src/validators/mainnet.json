@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/validators.schema.json",
   "name": "Berachain Mainnet Validator List",
   "validators": [
     {
@@ -259,7 +260,7 @@
     },
     {
       "id": "0xb255e317f7e6415eab053180c8e36b5f6312c1e6ee1e884a26c490aa4121595574656ed89c83e0d6afd5e2b33c00b101",
-      "logoURI": "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/twitter.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742293903/validators/icons/75050da2-27ea-4485-b981-51d37b66cd24.png",
       "name": "StakeTab",
       "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem. Our experience in developing Web3 services since 2017 enables us to create best-in-class, data-rich products for each customer.",
       "website": "https://staketab.com/",

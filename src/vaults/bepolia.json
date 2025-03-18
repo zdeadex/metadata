@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/vaults.schema.json",
   "name": "Berachain Bepolia Reward Vault List",
   "protocols": [
     {

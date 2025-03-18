@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/tokens.schema.json",
   "name": "Berachain Mainnet Default Token List",
   "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739450224/foundation/oe6damqveywiebwxeelf.png",
   "tags": {

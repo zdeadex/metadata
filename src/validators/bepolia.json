@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/validators.schema.json",
   "name": "Berachain Bepolia Validator List",
   "validators": []
 }
