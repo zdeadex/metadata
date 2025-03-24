@@ -408,6 +408,15 @@
       "extensions": {
         "coingeckoId": "wrapped-gbera"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21",
+      "name": "Beraplug",
+      "symbol": "PLUG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21.png",
+      "tags": []
     }
   ]
 }
