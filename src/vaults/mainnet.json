@@ -57,7 +57,8 @@
       "name": "WBERA | wgBERA",
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x567f32E86BE3e3963CdBc1887b5043B701f113d9.png",
       "protocol": "Smilee",
-      "url": "https://hub.berachain.com/pools/0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002/details/"
+      "url": "https://app.smilee.finance/gbera",
+      "description": "The stable pool wgBERA-BERA, including the official Liquid Staking Token from Smilee Finance."
     }
   ]
 }
