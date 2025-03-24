@@ -387,6 +387,18 @@
     },
     {
       "chainId": 80094,
+      "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+      "name": "Nectar",
+      "symbol": "NECT",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54231/large/NECT_%281%29.png?1738861282",
+      "tags": ["stablecoin"],
+      "extensions": {
+        "coingeckoId": "nectar"
+      }
+    },
+    {
+      "chainId": 80094,
       "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2",
       "name": "gBERA Token",
       "symbol": "gBERA",
