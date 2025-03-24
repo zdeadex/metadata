@@ -1,4 +1,5 @@
 {
+  "$schema": "../../schemas/validators.schema.json",
   "name": "Berachain Mainnet Validator List",
   "validators": [
     {
@@ -123,7 +124,7 @@
     },
     {
       "id": "0x8db0c2f3475fbe90310e7b2ed608546dae7aa5d0fe7f3d2775c2e18ab0e87368bc8c670de021f7740f2f82e6d54a8131",
-      "logoURI": "https://raw.githubusercontent.com/noders-team/brand-kit/refs/heads/main/logo/noders_logo_1024.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1741270208/src/validators/mainnet/skg8f4nk3qlve7ivwmyj.png",
       "name": "[NODERS]",
       "description": "Professional blockchain validator and web3 developer team",
       "website": "https://noders.team",
@@ -194,6 +195,14 @@
       "twitter": "https://twitter.com/KodiakFi"
     },
     {
+      "id": "0xb38e22a9df8a095a3554c1a7deabb9e09faddbb6a801c7d3efe9d61f33f9f1a2e80a1ca8b90908b22e4e4b7a61715005",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "name": "Kodiak",
+      "description": "Native Liquidity Hub",
+      "website": "https://www.kodiak.finance",
+      "twitter": "https://twitter.com/KodiakFi"
+    },
+    {
       "id": "0x89884fc95abcb82736d768fc8ad4fdf4cb2112496974ae05440d835d0e93216643ae212b365fb6d9d2501d76d0925ef3",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/TTT.png",
       "name": "TTT 🇻🇳",
@@ -219,7 +228,7 @@
     },
     {
       "id": "0xab98ea73f3afab04154829f8d12a537cbf31a8b08f7f8e3870f4902001f0011234ed8f9218b40b4ed732d11d889f609d",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/chorus_one.svg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742396938/src/validators/mainnet/jjcmrrzgg8z8s5atwwdu.png",
       "name": "ChorusOne",
       "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
       "website": "https://chorus.one",
@@ -251,7 +260,7 @@
     },
     {
       "id": "0xb255e317f7e6415eab053180c8e36b5f6312c1e6ee1e884a26c490aa4121595574656ed89c83e0d6afd5e2b33c00b101",
-      "logoURI": "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/twitter.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742293903/validators/icons/75050da2-27ea-4485-b981-51d37b66cd24.png",
       "name": "StakeTab",
       "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem. Our experience in developing Web3 services since 2017 enables us to create best-in-class, data-rich products for each customer.",
       "website": "https://staketab.com/",
@@ -332,7 +341,7 @@
     {
       "id": "0x928d6f66bfd9cb1ef18da6843ad9db6c1b6ec7e3093705c95224e8f20232f243e7a627d09144360d4c1775d8fafdb0e7",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1739968715/src/validators/mainnet/mzekeibmcpshwx0tqbyj.png",
-      "name": "Luganodes powered by Infrared",
+      "name": "Infrared by Luganodes",
       "description": "Swiss-operated, non-custodial, institutional staking provider with $3Bn+ in assets, supporting 50+ PoS networks. This validator node is operated with Infrared Finance.",
       "website": "https://luganodes.com",
       "twitter": "https://x.com/luganodes"
@@ -352,6 +361,54 @@
       "description": "The Empty Jar is used for THJ internal and experimental projects. Do not expect this validator to offer competitive incentives.",
       "website": "https://www.0xhoneyjar.xyz/",
       "twitter": "https://twitter.com/0xhoneyjar"
+    },
+    {
+      "id": "0x89cbd542c737cca4bc33f1ea5084a857a7620042fe37fd326ecf5aeb61f2ce096043cd0ed57ba44693cf606978b566ba",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1741180084/src/validators/mainnet/iveonwrot3u4wjbaqjcy.png",
+      "name": "Beradrome X ApDAO",
+      "description": "Joint validator of Beradrome and Apiology DAO. Powered by fatBERA",
+      "website": "https://beradrome.com/",
+      "twitter": "https://twitter.com/beradrome"
+    },
+    {
+      "id": "0xb82a791d7c3d72efa6759e0250785346266d6c70ed881424ec63ad4d060904983bc57903fa133a9bc00c2d6f9b12964d",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1741180088/src/validators/mainnet/rmzwnuyzpwn0eyjxlasw.png",
+      "name": "Berabaddies",
+      "description": "Validator for the girlies",
+      "website": "https://x.com/berabaddies",
+      "twitter": "https://x.com/berabaddies"
+    },
+    {
+      "id": "0x96652bba2f2f3b6b4fcfdfe9847f6a5604965d0ebac37c1f0c3774da0866140ab69734feec0eb0761f8e08d809c9e12b",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1741706187/src/validators/mainnet/jldsbhu8izidlqdk2py3.png",
+      "name": "SNZPool",
+      "description": "SNZPool is a professional technology service provider for PoS Nodes",
+      "website": "https://snzholding.com",
+      "twitter": "https://x.com/snzholding"
+    },
+    {
+      "id": "0x892e8d2225cebeed25e54a59f4167610704fc507170a7b6532584ffa7f66c1dda20c83a2f148fb5f7ec614f340edba60",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742396594/src/validators/mainnet/rdjsybn1acmkycqauvfo.png",
+      "name": "P2P.org",
+      "description": "P2P.org is a leading non-custodial institutional staking provider. Stake with us for a secure, reliable and simple service.",
+      "website": "https://www.p2p.org",
+      "twitter": "https://x.com/P2Pvalidator"
+    },
+    {
+      "id": "0x875aaf00241b14ccd86176e4baed170df6735529afd0f38f01ecfe881cbb613058922a0372814b967e3ae9e880d88658",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742397042/src/validators/mainnet/lvm30zmhbwwjavy8wofu.png",
+      "name": "Infrared by Pier Two",
+      "description": "This Pier Two validator is operated Infrared. Pier Two is an Australian-based, APAC-focused institutional staking provider. Operating highly performant hybrid cloud and bare metal infrastructure, with zonal redundancy. Our spirit bears are Koala Bears.",
+      "website": "https://piertwo.com/",
+      "twitter": "https://x.com/piertwo_com"
+    },
+    {
+      "id": "0x998adf736d60eecdfd3ab5136a779aa23235c44bb6de08def2069f73e946de963b35a68d5a66d611d3a7cd45035dca8f",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/coinsummer.png",
+      "name": "Infrared by CoinSummer Labs",
+      "description": "Backed by crypto-native degens, CoinSummer is a trusted liquidity provider, staking validator, and AVS operator supporting the crypto and DeFi evolution.",
+      "website": "https://coinsummer.io",
+      "twitter": "https://twitter.com/CoinSummerLabs"
     }
   ]
 }
