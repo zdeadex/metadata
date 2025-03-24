@@ -9,6 +9,12 @@
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
+      "name": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742848966/reward-vaults/icons/daaf3ed9-9779-4854-bc99-6ad21ff42852.png",
+      "url": "https://app.burrbear.io/",
+      "description": ""
+    },
+    {
       "name": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742841699/reward-vaults/icons/81d1ee15-aead-4395-be9b-cf9e52a704f0.png",
       "url": "https://app.kodiak.finance/",
@@ -83,7 +89,7 @@
     {
       "stakingTokenAddress": "0xE416C064946112c1626D6700D1081a750B1B1Dd7",
       "vaultAddress": "0x4974Ee5f484a3c05F181Aeb380cd7C411dd79c0E",
-      "name": "NECT | wgBERA",
+      "name": "Smilee - NECT | wgBERA",
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xE416C064946112c1626D6700D1081a750B1B1Dd7.png",
       "protocol": "BurrBear",
       "url": "https://app.burrbear.io/#/berachain/pool/0xe416c064946112c1626d6700d1081a750b1b1dd7000200000000000000000008",
@@ -92,7 +98,7 @@
     {
       "stakingTokenAddress": "0x567f32E86BE3e3963CdBc1887b5043B701f113d9",
       "vaultAddress": "0x1Fe3C13B009eCfCe196E480180Db5f8990FFf5Fe",
-      "name": "WBERA | wgBERA",
+      "name": "Smilee - WBERA | wgBERA",
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x567f32E86BE3e3963CdBc1887b5043B701f113d9.png",
       "protocol": "BurrBear",
       "url": "https://app.burrbear.io/#/berachain/pool/0x567f32e86be3e3963cdbc1887b5043b701f113d9000000000000000000000006",
@@ -355,19 +361,19 @@
       "stakingTokenAddress": "0x7CeBCc76A2faecC0aE378b340815fcbb71eC1Fe0",
       "vaultAddress": "0xc196d595dece185ea39f8e1c3ce07a274ac31985",
       "name": "Avalon Labs - USDa | sUSDa",
-      "protocol": "Avalon Labs",
+      "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742838273/Ecosystem/rg1yb9jyfthwpg4prrln.avif",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x7cebcc76a2faecc0ae378b340815fcbb71ec1fe0?farm=0xc196d595dece185ea39f8e1c3ce07a274ac31985&chain=berachain_mainnet",
-      "owner": "Kodiak"
+      "owner": "Avalon Labs"
     },
     {
       "stakingTokenAddress": "0x2CaFe99dB26Cf86Ae8587F5934830d25aD5C3Cb3",
       "vaultAddress": "0x524FC4F013d66E9fED424e58C5ada7d5B139761d",
       "name": "HPOS10I - WBERA | BITCOIN",
-      "protocol": "HarryPotterObamaSonic10inu ($BITCOIN)",
+      "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742838273/Ecosystem/i4paodhr59anubt8rvlj.png",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x2CaFe99dB26Cf86Ae8587F5934830d25aD5C3Cb3?chain=berachain_mainnet",
-      "owner": "Kodiak"
+      "owner": "HarryPotterObamaSonic10inu ($BITCOIN)"
     },
     {
       "stakingTokenAddress": "0xb5D46214F4ec7f910CB433E412d32ee817986E90",
