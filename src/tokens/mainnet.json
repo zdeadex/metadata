@@ -408,6 +408,167 @@
       "extensions": {
         "coingeckoId": "wrapped-gbera"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
+      "extensions": {
+        "coingeckoId": "solv-btc"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640",
+      "extensions": {
+        "coingeckoId": "solv-protocol-solvbtc-bbn"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+      "name": "StakeStone Bitcoin",
+      "symbol": "SBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 80094,
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672",
+      "extensions": {
+        "coingeckoId": "stakestone-ether",
+        "pythPriceId": "0x4dcc2fb96fb89a802ef9712f6bd2246d3607cf95ca5540cb24490d37003f8c46"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+      "name": "Berachain Staked ETH",
+      "symbol": "beraETH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54260/large/beraETH.png?1738952010",
+      "extensions": {
+        "coingeckoId": "berachain-staked-eth",
+        "pythPriceId": "0x9d4294bbcd1174d6f2003ec365831e64cc31d9f6f15a2b85399db8d5000960f6"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+      "name": "USDa",
+      "symbol": "USDa",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51599/large/SUSDA.png?1731604761",
+      "extensions": {
+        "coingeckoId": "usda-2",
+        "pythPriceId": "0x3a1050a3c03354c94ed44acf808327f05b7f9d610f38644684f5ce4796cce27b"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f",
+      "name": "USDa saving token",
+      "symbol": "sUSDa",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51821/large/USDA.png?1732035172",
+      "extensions": {
+        "coingeckoId": "susda"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+      "name": "Reservoir Stablecoin",
+      "symbol": "rUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 80094,
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+      "extensions": {
+        "coingeckoId": "ethena-usde",
+        "pythPriceId": "0x6ec879b1e9963de5ee97e9c8710b742d6228252a5e2ca12d4ae81d7fe5ee8c5d"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680",
+      "extensions": {
+        "coingeckoId": "ethena-staked-usde",
+        "pythPriceId": "0xca3ba9a619a4b3755c10ac7d5e760275aa95e9823d38a84fedd416856cdba37c"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
+      "extensions": {
+        "coingeckoId": "wrapped-eeth",
+        "pythPriceId": "0x9ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad395"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+      "name": "Olympus",
+      "symbol": "OHM",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1696514169",
+      "extensions": {
+        "coingeckoId": "olympus",
+        "pythPriceId": "0x3a8c0214e4fb7f1dd7792ed4d5b2971372e52f088fcd9cc02309253cbdc4a70e"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x09d9420332bff75522a45fcff4855f82a0a3ff50",
+      "name": "Dinero OFT",
+      "symbol": "DINERO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39341/large/dinero.jpg?1721807902",
+      "extensions": {
+        "coingeckoId": "dinero-2"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21",
+      "name": "Beraplug",
+      "symbol": "PLUG",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742842694/reward-vaults/icons/2b72ffe3-0566-4188-aeb0-516c87b504c9.png"
+    },
+    {
+      "chainId": 80094,
+      "address": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5",
+      "name": "henlo",
+      "symbol": "HENLO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54719/large/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
+      "extensions": {
+        "coingeckoId": "henlo-3"
+      }
     }
   ]
 }
