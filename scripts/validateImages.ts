@@ -186,5 +186,5 @@ const validateMetadataImages = () => {
 
 // Initialize
 // ================================================================
-// validateAssetsImages();
+validateAssetsImages();
 validateMetadataImages();
