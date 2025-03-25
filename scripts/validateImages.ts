@@ -68,7 +68,22 @@ const checkImagesInFolder = () => {
             const dimensions = getImageDimensions(fullPath);
             const relativePath = path.relative(FOLDER_PATH, fullPath);
 
-            if (!dimensions || dimensions.width < 1024 || dimensions.height < 1024) {
+            // Validate file names
+            if (relativePath.includes('tokens')) {
+              const tokenRegex = /^0x[0-9a-f]{40}$/i;
+              if (!tokenRegex.test(relativePath.replace(ext, '').replace('tokens/', ''))) {
+                console.error(`${relativePath}: Invalid file name! Must be a valid token address.`);
+                process.exit(1); // Force exit with error code 1 to fail CI
+              }
+            } else if (relativePath.includes('validators')) {
+              const validatorRegex = /^0x[0-9a-f]{96}$/i;
+              if (!validatorRegex.test(relativePath.replace(ext, '').replace('validators/', ''))) {
+                console.error(`${relativePath}: Invalid file name! Must be a valid validator pubkye address.`);
+                process.exit(1); // Force exit with error code 1 to fail CI
+              }
+            }
+
+            if (!dimensions || dimensions.width < 1024 || dimensions.height < 1024 || dimensions?.width !== dimensions?.height) {
               console.error(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})!`);
               process.exit(1); // Force exit with error code 1 to fail CI
             }
