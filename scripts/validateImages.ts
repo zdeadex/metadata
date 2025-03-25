@@ -5,7 +5,9 @@ import path from 'path';
 
 // Config
 // ================================================================
-const FOLDER_PATH = path.join(__dirname, '../src/assets');
+const METADATA_FOLDER = 'src';
+const FOLDER_PATH = path.join(__dirname, `../${METADATA_FOLDER}/assets`);
+const METADATA_FOLDER_EXCLUDED = ['assets'];
 
 // Functions
 // ================================================================
@@ -50,7 +52,7 @@ const getImageDimensions = (imagePath: string): { width: number, height: number 
 /**
  * Checks all images in the assets folder for valid dimensions
  */
-const checkImagesInFolder = () => {
+const validateAssetsImages = () => {
     // Recursive function to process files in a directory
     const processDirectory = (dirPath: string) => {
       const entries = fs.readdirSync(dirPath, { withFileTypes: true });
@@ -101,6 +103,78 @@ const checkImagesInFolder = () => {
     processDirectory(FOLDER_PATH);
 };
 
+/**
+ * Checks all images in the metadata folder for valid dimensions
+ */
+const validateMetadataImages = () => {
+  // Get all the folder in the src folder excludingt the 'METADATA_FOLDER_EXCLUDES' folder
+  const folders = fs.readdirSync(path.join(__dirname, `../${METADATA_FOLDER}`), { withFileTypes: true })
+    .filter(entry => entry.isDirectory() && !METADATA_FOLDER_EXCLUDED.includes(entry.name))
+    .map(entry => entry.name);
+
+  // Get all json file in all folders
+  let jsonMetadata: {
+    [key: string]: {
+      [key: string]: any
+    }
+  } = {};
+  for (const folder of folders) { 
+    const jsonFiles = fs.readdirSync(path.join(__dirname, `../${METADATA_FOLDER}/${folder}`), { withFileTypes: true })
+      .filter(entry => entry.isFile() && entry.name.endsWith('.json'))
+      .map(entry => {
+        const file = `${folder}/${entry.name}`;
+        const content = JSON.parse(fs.readFileSync(path.join(__dirname, `../${METADATA_FOLDER}/${file}`), 'utf8'))?.[folder];
+
+        if (!jsonMetadata[folder]) {
+          jsonMetadata[folder] = {};
+        }
+        jsonMetadata[folder][`${entry.name}`] = content;
+
+        return {
+          folder,
+          file,
+          content
+        };
+      });
+  }
+
+  // Validate all images in the assets folder from metadata
+  Object.keys(jsonMetadata).forEach(key => {
+    if (key === 'tokens') {
+      Object.keys(jsonMetadata[key]).forEach(file => {
+        jsonMetadata[key][file].forEach(token => {
+          const tokenFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/tokens/${token.address}`);
+          if (!fs.existsSync(`${tokenFilePath}.png`) && !fs.existsSync(`${tokenFilePath}.jpg`) && !fs.existsSync(`${tokenFilePath}.jpeg`)) {
+            console.error(`${token.address}:\nToken file not found in assets folder!`);
+            process.exit(1); // Force exit with error code 1 to fail CI
+          }
+        });
+      });
+    } else if (key === 'validators') {
+      Object.keys(jsonMetadata[key]).forEach(file => {
+        jsonMetadata[key][file].forEach(validator => {
+          const validatorFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/validators/${validator.id}`);
+          if (!fs.existsSync(`${validatorFilePath}.png`) && !fs.existsSync(`${validatorFilePath}.jpg`) && !fs.existsSync(`${validatorFilePath}.jpeg`)) {
+            console.error(`${validator.id}:\nValidator file not found in assets folder!`);
+            process.exit(1); // Force exit with error code 1 to fail CI
+          }
+        });
+      });
+    } else if (key === 'vaults') {
+      Object.keys(jsonMetadata[key]).forEach(file => {
+        jsonMetadata[key][file].forEach(vault => {
+          const vaultFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/tokens/${vault.stakingTokenAddress}`);
+          if (!fs.existsSync(`${vaultFilePath}.png`) && !fs.existsSync(`${vaultFilePath}.jpg`) && !fs.existsSync(`${vaultFilePath}.jpeg`)) {
+            console.error(`${vault.stakingTokenAddress}:\nVault file not found in assets folder!`);
+            process.exit(1); // Force exit with error code 1 to fail CI
+          }
+        });
+      });
+    }
+  });
+};
+
 // Initialize
 // ================================================================
-checkImagesInFolder();
+validateAssetsImages();
+validateMetadataImages();
