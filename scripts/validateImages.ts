@@ -53,6 +53,8 @@ const getImageDimensions = (imagePath: string): { width: number, height: number 
  * Checks all images in the assets folder for valid dimensions
  */
 const validateAssetsImages = () => {
+    let errors: string[] = [];
+
     // Recursive function to process files in a directory
     const processDirectory = (dirPath: string) => {
       const entries = fs.readdirSync(dirPath, { withFileTypes: true });
@@ -74,22 +76,19 @@ const validateAssetsImages = () => {
             if (relativePath.includes('tokens')) {
               const tokenRegex = /^0x[0-9a-f]{40}$/i;
               if (!tokenRegex.test(relativePath.replace(ext, '').replace('tokens/', ''))) {
-                console.error(`${relativePath}: Invalid file name! Must be a valid token address.`);
-                process.exit(1); // Force exit with error code 1 to fail CI
+                errors.push(`${relativePath}: Invalid file name! Must be a valid token address.`);
               }
             } else if (relativePath.includes('validators')) {
               const validatorRegex = /^0x[0-9a-f]{96}$/i;
               if (!validatorRegex.test(relativePath.replace(ext, '').replace('validators/', ''))) {
-                console.error(`${relativePath}: Invalid file name! Must be a valid validator pubkye address.`);
-                process.exit(1); // Force exit with error code 1 to fail CI
+                errors.push(`${relativePath}: Invalid file name! Must be a valid validator pubkey address.`);
               }
             }
 
             if (!dimensions || dimensions.width < 1024 || dimensions.height < 1024 || dimensions?.width !== dimensions?.height) {
-              console.error(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})!`);
-              process.exit(1); // Force exit with error code 1 to fail CI
+              errors.push(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})!`);
             }
-          } else if (['.DS_Store'].includes(ext)) {
+          } else if (['.DS_Store'].includes(entry.name)) {
             // Do nothing
           } else {
             console.error(`${fullPath}: Unsupported file type!`);
@@ -101,12 +100,20 @@ const validateAssetsImages = () => {
 
     // Start processing from root folder
     processDirectory(FOLDER_PATH);
+
+    if (errors.length > 0) {
+      console.error(`${errors.length} Errors found in assets folder:`);
+      errors.forEach(error => console.error(error));
+      process.exit(1); // Force exit with error code 1 to fail CI
+    }
 };
 
 /**
  * Checks all images in the metadata folder for valid dimensions
  */
 const validateMetadataImages = () => {
+  let errors: string[] = [];
+
   // Get all the folder in the src folder excludingt the 'METADATA_FOLDER_EXCLUDES' folder
   const folders = fs.readdirSync(path.join(__dirname, `../${METADATA_FOLDER}`), { withFileTypes: true })
     .filter(entry => entry.isDirectory() && !METADATA_FOLDER_EXCLUDED.includes(entry.name))
@@ -145,8 +152,7 @@ const validateMetadataImages = () => {
         jsonMetadata[key][file].forEach(token => {
           const tokenFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/tokens/${token.address}`);
           if (!fs.existsSync(`${tokenFilePath}.png`) && !fs.existsSync(`${tokenFilePath}.jpg`) && !fs.existsSync(`${tokenFilePath}.jpeg`)) {
-            console.error(`${token.address}:\nToken file not found in assets folder!`);
-            process.exit(1); // Force exit with error code 1 to fail CI
+            errors.push(`${token.address}:\nToken file not found in assets/tokens folder!`);
           }
         });
       });
@@ -155,8 +161,7 @@ const validateMetadataImages = () => {
         jsonMetadata[key][file].forEach(validator => {
           const validatorFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/validators/${validator.id}`);
           if (!fs.existsSync(`${validatorFilePath}.png`) && !fs.existsSync(`${validatorFilePath}.jpg`) && !fs.existsSync(`${validatorFilePath}.jpeg`)) {
-            console.error(`${validator.id}:\nValidator file not found in assets folder!`);
-            process.exit(1); // Force exit with error code 1 to fail CI
+            errors.push(`${validator.id}:\nValidator file not found in assets/validators folder!`);
           }
         });
       });
@@ -165,16 +170,21 @@ const validateMetadataImages = () => {
         jsonMetadata[key][file].forEach(vault => {
           const vaultFilePath = path.join(__dirname, `../${METADATA_FOLDER}/assets/tokens/${vault.stakingTokenAddress}`);
           if (!fs.existsSync(`${vaultFilePath}.png`) && !fs.existsSync(`${vaultFilePath}.jpg`) && !fs.existsSync(`${vaultFilePath}.jpeg`)) {
-            console.error(`${vault.stakingTokenAddress}:\nVault file not found in assets folder!`);
-            process.exit(1); // Force exit with error code 1 to fail CI
+            errors.push(`${vault.stakingTokenAddress}:\nVault file not found in assets/tokens folder!`);
           }
         });
       });
     }
   });
+
+  if (errors.length > 0) {
+    console.error(`${errors.length} Errors found in metadata images:`);
+    errors.forEach(error => console.error(error));
+    process.exit(1); // Force exit with error code 1 to fail CI
+  }
 };
 
 // Initialize
 // ================================================================
-validateAssetsImages();
+// validateAssetsImages();
 validateMetadataImages();
