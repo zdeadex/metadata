@@ -423,6 +423,15 @@
     },
     {
       "chainId": 80094,
+      "address": "0x231A6BD8eB88Cfa42776B7Ac575CeCAf82bf1E21",
+      "name": "Beraplug",
+      "symbol": "PLUG",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743017404/tokens/pj0avz3gekjw6ih76xjv.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
       "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
       "name": "Solv BTC",
       "symbol": "SolvBTC",
@@ -562,14 +571,6 @@
       "extensions": {
         "coingeckoId": "dinero-2"
       }
-    },
-    {
-      "chainId": 80094,
-      "address": "0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21",
-      "name": "Beraplug",
-      "symbol": "PLUG",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1742842694/reward-vaults/icons/2b72ffe3-0566-4188-aeb0-516c87b504c9.png"
     },
     {
       "chainId": 80094,
