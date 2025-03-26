@@ -184,7 +184,7 @@
       "symbol": "ARTIO",
       "name": "Artio",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742832647/src/tokens/mainnet/gpc5hdwqthlitsuj9ine.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743021469/tokens/eygclwqlzatgbbyjkdzz.png",
       "tags": []
     },
     {
@@ -211,7 +211,7 @@
       "symbol": "BITCOIN",
       "name": "HarryPotterObamaSonic10Inu",
       "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742834240/src/tokens/mainnet/stgf8st6pfjy6wsdxtrz.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743021359/tokens/x4tefm7msvwzj57ismsz.png",
       "tags": [],
       "extensions": {
         "coingeckoId": "harrypotterobamasonic10in"
@@ -223,7 +223,7 @@
       "symbol": "USR",
       "name": "Resolv USD",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/40008/large/USR_LOGO.png?1725222638",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743020794/tokens/c1lf9aq8svu5yvm0qusc.png",
       "tags": ["stablecoin"],
       "extensions": {
         "coingeckoId": "resolv-usr"
@@ -235,7 +235,7 @@
       "symbol": "RLP",
       "name": "Resolv Liquidity Provider Token",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/40017/large/orangeLogo..png?1725344586",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743020925/tokens/cwpaoz5qjaetleciqpfr.png",
       "tags": [],
       "extensions": {
         "coingeckoId": "resolv-rlp"
@@ -498,7 +498,7 @@
       "name": "USDe",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743021263/tokens/vtfyhwt1bjcygv4uhwvh.png",
       "extensions": {
         "coingeckoId": "ethena-usde",
         "pythPriceId": "0x6ec879b1e9963de5ee97e9c8710b742d6228252a5e2ca12d4ae81d7fe5ee8c5d"

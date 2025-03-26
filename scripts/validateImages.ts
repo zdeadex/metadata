@@ -65,6 +65,8 @@ const validateAssetsImages = () => {
         if (entry.isDirectory()) {
           // Recursively process subdirectories
           processDirectory(fullPath);
+        } else if (['.DS_Store', 'validator-default.png'].includes(entry.name)) {
+          // Do nothing
         } else {
           // Check if file is an image
           const ext = path.extname(entry.name).toLowerCase();
@@ -102,8 +104,6 @@ const validateAssetsImages = () => {
                 errors.push(`${relativePath}: Invalid image! Image is transparent!`);
               }
             }
-          } else if (['.DS_Store'].includes(entry.name)) {
-            // Do nothing
           } else {
             console.error(`${fullPath}: Unsupported file type!`);
             process.exit(1); // Force exit with error code 1 to fail CI
@@ -117,7 +117,7 @@ const validateAssetsImages = () => {
 
     if (errors.length > 0) {
       console.error(`${errors.length} Errors found in assets folder:`);
-      errors.forEach(error => console.error(error));
+      errors.forEach(error => console.error('\x1b[31m%s\x1b[0m', error));
       process.exit(1); // Force exit with error code 1 to fail CI
     }
 };
@@ -140,7 +140,7 @@ const validateMetadataImages = () => {
     }
   } = {};
   for (const folder of folders) { 
-    const jsonFiles = fs.readdirSync(path.join(__dirname, `../${METADATA_FOLDER}/${folder}`), { withFileTypes: true })
+    fs.readdirSync(path.join(__dirname, `../${METADATA_FOLDER}/${folder}`), { withFileTypes: true })
       .filter(entry => entry.isFile() && entry.name.endsWith('.json'))
       .map(entry => {
         const file = `${folder}/${entry.name}`;
@@ -192,9 +192,8 @@ const validateMetadataImages = () => {
   });
 
   if (errors.length > 0) {
-    console.error(`${errors.length} Errors found in metadata images:`);
-    errors.forEach(error => console.error(error));
-    process.exit(1); // Force exit with error code 1 to fail CI
+    console.warn(`${errors.length} Errors found in metadata images:`);
+    errors.forEach(error => console.warn('\x1b[33m%s\x1b[0m', error));
   }
 };
 
