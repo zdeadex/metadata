@@ -192,7 +192,7 @@ const validateMetadataImages = () => {
   });
 
   if (errors.length > 0) {
-    console.warn(`${errors.length} Errors found in metadata images:`);
+    console.warn(`${errors.length} Errors found in metadata:`);
     errors.forEach(error => console.warn('\x1b[33m%s\x1b[0m', error));
   }
 };

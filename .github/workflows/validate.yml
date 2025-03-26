@@ -31,6 +31,7 @@ jobs:
         pnpm validate:tokens
         pnpm validate:vaults
         pnpm validate:validators
+        pnpm validate:images
 
     - name: Check formatting
       run: pnpm format --check
