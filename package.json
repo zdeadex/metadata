@@ -9,7 +9,8 @@
     "validate:tokens": "ajv validate -s schemas/tokens.schema.json -d src/tokens/**/*.json",
     "validate:validators": "ajv validate -s schemas/validators.schema.json -d src/validators/**/*.json",
     "validate:vaults": "ajv validate -s schemas/vaults.schema.json -d src/vaults/**/*.json",
-    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults",
+    "validate:images": "tsx scripts/validateImages.ts",
+    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults && pnpm run validate:images",
     "lint": "biome lint .",
     "check": "biome check ."
   },
@@ -26,9 +27,11 @@
     "ajv-cli": "^5.0.0"
   },
   "devDependencies": {
+    "@types/node": "^22.13.13",
     "ajv-cli": "^5.0.0",
     "biome": "^0.3.3",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "tsx": "^4.19.3"
   },
   "engines": {
     "node": ">=20"
