@@ -162,6 +162,18 @@
     },
     {
       "chainId": 80094,
+      "address": "0xFf9c599D51C407A45D631c6e89cB047Efb88AeF6",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/5d0be1c9bd3546a85e1c806ae40f9f5f1dce342f/src/assets/tokens/0xff9c599d51c407a45d631c6e89cb047efb88aef6.png",
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "pendle"
+      }
+    },
+    {
+      "chainId": 80094,
       "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739455320/tokens/yxqyrtpt4x6ldudyxktd.png",
