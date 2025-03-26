@@ -84,9 +84,23 @@ const validateAssetsImages = () => {
                 errors.push(`${relativePath}: Invalid file name! Must be a valid validator pubkey address.`);
               }
             }
-
+            
+            // Validate dimensions
             if (!dimensions || dimensions.width < 1024 || dimensions.height < 1024 || dimensions?.width !== dimensions?.height) {
               errors.push(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})!`);
+            }
+
+            // if extension is png, check if the top left, top right, bottom left, bottom right pixel is transparent
+            if (ext === '.png' && dimensions) {
+              const buffer = fs.readFileSync(fullPath);
+              const topLeftPixel = buffer.readUInt32BE(0);
+              const topRightPixel = buffer.readUInt32BE(dimensions.width - 1);
+              const bottomLeftPixel = buffer.readUInt32BE((dimensions.width * (dimensions.height - 1)) % buffer.length);
+              const bottomRightPixel = buffer.readUInt32BE(Math.min((dimensions.width * dimensions.height - 1), buffer.length - 4));
+
+              if (topLeftPixel === 0x00000000 || topRightPixel === 0x00000000 || bottomLeftPixel === 0x00000000 || bottomRightPixel === 0x00000000) {
+                errors.push(`${relativePath}: Invalid image! Image is transparent!`);
+              }
             }
           } else if (['.DS_Store'].includes(entry.name)) {
             // Do nothing
