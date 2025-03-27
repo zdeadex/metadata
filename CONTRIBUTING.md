@@ -26,6 +26,13 @@ PLEASE NOTE:
 }
 ```
 
+> **NOTE:** If addeding an image make it in the same name as the `address`:
+
+_Example:_
+```
+src/assets/tokens/0x688e72142674041f8f6Af4c808a4045cA1D6aC82.png
+```
+
 #### Required Fields:
 
 - `chainId`: Chain ID of the network (`80094` for mainnet)
@@ -51,6 +58,13 @@ PLEASE NOTE:
 }
 ```
 
+> **NOTE:** If addeding an image make it in the same name as the `stakingTokenAddress`:
+
+_Example:_
+```
+src/assets/tokens/0x2c4a603a2aa5596287a06886862dc29d56dbc354.png
+```
+
 #### Required Fields:
 
 - `stakingTokenAddress`: Address of the token being staked
@@ -73,6 +87,13 @@ PLEASE NOTE:
 }
 ```
 
+> **NOTE:** If addeding an image make it in the same name as the `id`:
+
+_Example:_
+```
+src/assets/validators/0x960052c5509caa280218f3ecf3da7ba5bf4ec20b97e6c52700dd93515ef4e963813aa92a8731c9e137b1027dbc77102f.png
+```
+
 #### Required Fields:
 
 - `id`: Validator public key
@@ -85,8 +106,8 @@ PLEASE NOTE:
 ### Asset Guidelines
 
 - Upload assets to the `assets/` directory
-- Use PNG or JPG format with solid background - Other formats are not supported
-- Recommended size: 512x512 pixels
+- Use PNG or JPG format with solid background (no transparency) - Other formats are not supported
+- Size needs to be: 1024x1024 pixels
 
 ![Guidelines](README/bueno-nobueno.jpg)
 
