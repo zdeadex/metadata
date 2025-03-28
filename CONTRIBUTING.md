@@ -87,7 +87,7 @@ src/assets/tokens/0x2c4a603a2aa5596287a06886862dc29d56dbc354.png
 }
 ```
 
-> **NOTE:** If addeding an image make it in the same name as the `id`:
+> **NOTE:** If adding an image, give it the same name as the `id`:
 
 _Example:_
 ```
