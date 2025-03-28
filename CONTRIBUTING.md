@@ -58,7 +58,7 @@ src/assets/tokens/0x688e72142674041f8f6Af4c808a4045cA1D6aC82.png
 }
 ```
 
-> **NOTE:** If addeding an image make it in the same name as the `stakingTokenAddress`:
+> **NOTE:** If adding an image, give it the same name as the `stakingTokenAddress`:
 
 _Example:_
 ```
