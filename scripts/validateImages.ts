@@ -89,7 +89,7 @@ const validateAssetsImages = () => {
             
             // Validate dimensions
             if (!dimensions || dimensions.width < 1024 || dimensions.height < 1024 || dimensions?.width !== dimensions?.height) {
-              errors.push(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})!`);
+              errors.push(`${relativePath}: Invalid (Dimensions: ${dimensions?.width}x${dimensions?.height})! Must be 1024x1024 pixels.`);
             }
 
             // if extension is png, check if the top left, top right, bottom left, bottom right pixel is transparent
@@ -101,7 +101,7 @@ const validateAssetsImages = () => {
               const bottomRightPixel = buffer.readUInt32BE(Math.min((dimensions.width * dimensions.height - 1), buffer.length - 4));
 
               if (topLeftPixel === 0x00000000 || topRightPixel === 0x00000000 || bottomLeftPixel === 0x00000000 || bottomRightPixel === 0x00000000) {
-                errors.push(`${relativePath}: Invalid image! Image is transparent!`);
+                errors.push(`${relativePath}: Invalid image! Image cannot be transparent!`);
               }
             }
           } else {
