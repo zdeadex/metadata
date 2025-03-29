@@ -10,7 +10,8 @@
     "validate:validators": "ajv validate -s schemas/validators.schema.json -d src/validators/**/*.json",
     "validate:vaults": "ajv validate -s schemas/vaults.schema.json -d src/vaults/**/*.json",
     "validate:images": "tsx scripts/validateImages.ts",
-    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults && pnpm run validate:images",
+    "validate:json": "tsx scripts/validateJSON.ts",
+    "validate": "pnpm run validate:tokens && pnpm run validate:validators && pnpm run validate:vaults && pnpm run validate:images && pnpm run validate:json",
     "lint": "biome lint .",
     "check": "biome check ."
   },
