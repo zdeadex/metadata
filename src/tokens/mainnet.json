@@ -644,6 +644,18 @@
       "extensions": {
         "coingeckoId": "yeet"
       }
-    }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xf9ee98099f5078078bb8e17e6b4a4f95137e2037",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30645/large/QLLK8pmR_400x400.jpg",
+      "symbol": "EQB",
+      "name": "Equilibria Token",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "equilibria-finance"
+      }
+    },
   ]
 }
