@@ -28,6 +28,7 @@ jobs:
       
     - name: Validate JSON files
       run: |
+        pnpm validate:json
         pnpm validate:tokens
         pnpm validate:vaults
         pnpm validate:validators
