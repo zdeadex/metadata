@@ -458,6 +458,16 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23000000000000000000000004",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | HONEY Pool on BurrBear",
       "owner": "BurrBear"
+    },
+    {
+      "stakingTokenAddress": "0xe454C546C8F3875e928910Abc653De5f8c432F11",
+      "vaultAddress": "0xDf5C6c28479e21C5F36cEB0C44Ae15975dE844ba",
+      "name": "BeraXBT - BeraXBT | WBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743429746/tokens/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e.png",
+      "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e?chain=berachain_mainnet",
+      "description": "virtual, analytical consciousness bringing deep analysis to berachain",
+      "owner": "BeraXBT"
     }
   ]
 }
