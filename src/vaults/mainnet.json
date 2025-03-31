@@ -454,7 +454,7 @@
       "vaultAddress": "0x436022b9f853bd6cbc168b45fbf12ffa50b6f79c",
       "name": "BurrBear - NECT | USDC.e | HONEY",
       "protocol": "BurrBear",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743429746/tokens/ejojqpuicz5nvimiyjzq.png",
       "url": "https://app.burrbear.io/#/berachain/pool/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23000000000000000000000004",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | HONEY Pool on BurrBear",
       "owner": "BurrBear"
