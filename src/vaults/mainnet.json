@@ -43,6 +43,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://wasabi.xyz/",
       "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
+    },
+    {
+      "name": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
+      "url": "https://euler.finance/",
+      "description": "Euler is a decentralized lending protocol."
     }
   ],
   "vaults": [
@@ -484,6 +490,36 @@
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
+    },
+    {
+      "stakingTokenAddress": "0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc",
+      "vaultAddress": "0xfdDD0A98E6A3e447fE80ace97497B305A87FF716",
+      "name": "Euler - EVK Vault eHONEY-1",
+      "protocol": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "url": "https://app.euler.finance/vault/0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc?network=berachain",
+      "description": "Acquired by depositing HONEY into the MEV Capital Berchain Cluster HONEY Vault on Euler",
+      "owner": "Euler"
+    },
+    {
+      "stakingTokenAddress": "0x89FD57175EcEEC45992e07c206e5A864Fa6aF433",
+      "vaultAddress": "0x31678555425C773c93F8DC6c1297eB224456B0B0",
+      "name": "Euler - EVK Vault eHONEY-2",
+      "protocol": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "url": "https://app.euler.finance/vault/0x89FD57175EcEEC45992e07c206e5A864Fa6aF433?network=berachain",
+      "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
+      "owner": "Euler"
+    },
+    {
+      "stakingTokenAddress": "0x027DcAfB223f69d41Bd413C50854017718419585",
+      "vaultAddress": "0x4426220787Fb7C195677BC1753C14E84f9a7692C",
+      "name": "Euler - EVK Vault eHONEY-3",
+      "protocol": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "url": "https://app.euler.finance/vault/0x027DcAfB223f69d41Bd413C50854017718419585?network=berachain",
+      "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
+      "owner": "Euler"
     }
   ]
 }
