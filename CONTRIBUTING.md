@@ -74,6 +74,8 @@ src/assets/tokens/0x2c4a603a2aa5596287a06886862dc29d56dbc354.png
 - `logoURI`: Path to vault icon
 - `protocol`: Protocol name
 - `url`: Hub URL for the vault
+- `description`: A small text about how to get the staking token, more details in the section below
+
 
 #### Vault Description
 
