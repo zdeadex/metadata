@@ -40,7 +40,7 @@
     },
     {
       "name": "Wasabi",
-      "logoURI": "~/src/assets/protocols/wasabi.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://wasabi.xyz/",
       "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
     }
@@ -470,7 +470,7 @@
       "vaultAddress": "0x4eA84882228a5C881675151E951235e45256a484",
       "name": "Wasabi - sWBERA",
       "protocol": "Wasabi",
-      "logoURI": "~/src/assets/tokens/0xc95ab9eff8fb48760703c74416764b8f898afa1b.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451864/tokens/oahudbpuy2h7mooma5wv.png",
       "url": "https://app.wasabi.xyz/earn?vault=sWBERA&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
@@ -480,7 +480,7 @@
       "vaultAddress": "0x49FCaA48e59e3d634Ae6c6953cc30ce953Dfba2c",
       "name": "Wasabi - sHONEY",
       "protocol": "Wasabi",
-      "logoURI": "~/src/assets/tokens/0xd948212f077e552533158becbc1882c1b19c40fe.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
