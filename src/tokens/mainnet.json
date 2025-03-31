@@ -660,6 +660,18 @@
       "extensions": {
         "coingeckoId": "holdstation"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+      "name": "BeramoniumCoin",
+      "symbol": "BERAMO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54529/large/_BERAMO_logo.png?1740168354",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "beramoniumcoin"
+      }
     }
   ]
 }
