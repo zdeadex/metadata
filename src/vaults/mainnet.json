@@ -484,6 +484,16 @@
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
+    },
+    {
+      "stakingTokenAddress": "0x273c832797Bfda1C0826a786670D041282Bd6aFc",
+      "vaultAddress": "0x5540e29749f6c8f5dcf49fcc17c67e97a8e7335b",
+      "name": "Kuma - Trade Rewards",
+      "protocol": "Kuma",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
+      "url": "https://exchange.kuma.bid/rewards/taker",
+      "description": "Earned by trading on the Kuma Perps DEX",
+      "owner": "Kuma"
     }
   ]
 }
