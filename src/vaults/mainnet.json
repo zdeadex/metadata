@@ -582,11 +582,12 @@
       "vaultAddress": "0xaf0C4454bb84C64B5c6ef9292B1527C5dFD2F8B7",
       "name": "Wasabee - WETH | WBERA",
       "protocol": "Wasabee",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xEC06041013b3a97c58b9ab61eAE9079Bc594EdA3.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743534776/tokens/nee2adg8gdaatapv9scu.png",
       "url": "https://wasabee.honeypotfinance.xyz/vault/0xec06041013b3a97c58b9ab61eae9079bc594eda3",
       "description": "Acquired by depositing liquidity into the WETH | WBERA Pool on Wasabee",
       "owner": "Wasabee"
     },
+    {
       "stakingTokenAddress": "0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc",
       "vaultAddress": "0xfdDD0A98E6A3e447fE80ace97497B305A87FF716",
       "name": "Euler - EVK Vault eHONEY-1",
