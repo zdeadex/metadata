@@ -55,6 +55,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510327/tokens/rvut4vnjcic8k9f5oaty.png",
       "url": "https://www.d8x.exchange/",
       "description": "D8X powers leveraged trading for the Berachain Ecosystem on DEXs like MadHoney.fi"
+    },
+    {
+      "name": "Wasabee",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/protocols/wasabee.png",
+      "url": "https://wasabee.xyz/",
+      "description": "Wasabee is a meme DEX for the Berachain ecosystem"
     }
   ],
   "vaults": [
@@ -516,6 +522,16 @@
       "url": "https://app.madhoney.fi/vault",
       "description": "Acquired by depositing liquidity into the NECT | HONEY Pool on a D8X powered DEX like MadHoney.fi",
       "owner": "D8X"
+    },
+    {
+      "stakingTokenAddress": "0xEC06041013b3a97c58b9ab61eAE9079Bc594EdA3",
+      "vaultAddress": "0xaf0C4454bb84C64B5c6ef9292B1527C5dFD2F8B7",
+      "name": "Wasabee - WETH | WBERA",
+      "protocol": "Wasabee",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xEC06041013b3a97c58b9ab61eAE9079Bc594EdA3.png",
+      "url": "https://wasabee.honeypotfinance.xyz/vault/0xec06041013b3a97c58b9ab61eae9079bc594eda3",
+      "description": "Acquired by depositing liquidity into the WETH | WBERA Pool on Wasabee",
+      "owner": "Wasabee"
     }
   ]
 }
