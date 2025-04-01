@@ -69,6 +69,12 @@
       "description": "bro.trade is a community-driven, decentralized cryptocurrency trading platform specializing in perpetual futures (perps)."
     },
     {
+      "name": "Wasabee",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/protocols/wasabee.png",
+      "url": "https://wasabee.xyz/",
+      "description": "Wasabee is a meme DEX for the Berachain ecosystem"
+    },
+    {
       "name": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://euler.finance/",
@@ -570,6 +576,16 @@
       "url": "https://app.bro.trade",
       "description": "Acquired by trading on bro.trade",
       "owner": "bro.trade"
+    },
+    {
+      "stakingTokenAddress": "0xEC06041013b3a97c58b9ab61eAE9079Bc594EdA3",
+      "vaultAddress": "0xaf0C4454bb84C64B5c6ef9292B1527C5dFD2F8B7",
+      "name": "Wasabee - WETH | WBERA",
+      "protocol": "Wasabee",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743534776/tokens/nee2adg8gdaatapv9scu.png",
+      "url": "https://wasabee.honeypotfinance.xyz/vault/0xec06041013b3a97c58b9ab61eae9079bc594eda3",
+      "description": "Acquired by depositing liquidity into the WETH | WBERA Pool on Wasabee",
+      "owner": "Wasabee"
     },
     {
       "stakingTokenAddress": "0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc",
