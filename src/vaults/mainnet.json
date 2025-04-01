@@ -43,6 +43,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://wasabi.xyz/",
       "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
+    },
+    {
+      "name": "Kuma",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
+      "url": "https://kuma.bid",
+      "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain’s Proof-of-Liquidity."
     }
   ],
   "vaults": [
