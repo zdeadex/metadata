@@ -27,6 +27,12 @@
       "description": ""
     },
     {
+      "name": "Beraborrow",
+      "logoURI": "",
+      "url": "https://app.beraborrow.com/",
+      "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar"
+    },
+    {
       "name": "Beradrome",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742841609/reward-vaults/icons/544876aa-568f-4f78-b318-b16d02e23bd6.png",
       "url": "https://www.beradrome.com/",
@@ -484,6 +490,26 @@
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
-    }
+    },
+    {
+      "stakingTokenAddress": "0xc95ab9eff8fb48760703c74416764b8f898afa1b",
+      "vaultAddress": "0x4eA84882228a5C881675151E951235e45256a484",
+      "name": "Wasabi - sWBERA",
+      "protocol": "Wasabi",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451864/tokens/oahudbpuy2h7mooma5wv.png",
+      "url": "https://app.wasabi.xyz/earn?vault=sWBERA&network=berachain",
+      "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
+      "owner": "Wasabi"
+    },
+    {
+      "stakingTokenAddress": "0x597877ccf65be938bd214c4c46907669e3e62128",
+      "vaultAddress": "0x1161e6a6600C08c21cFF7Ac689e781b41Db56d85",
+      "name": "sNECT",
+      "protocol": "Beraborrow",
+      "logoURI": "https://raw.githubusercontent.com/alex-beraborrow/metadata/304d482094a1f1f95e5d6731f0904f6163107bce/src/assets/tokens/0x597877ccf65be938bd214c4c46907669e3e62128.png",
+      "url": "https://app.beraborrow.com/pool/deposit",
+      "description": "Acquired by depositing NECT into the Liquid Stability Pool on Beraborrow",
+      "owner": "Beraborrow"
+    },
   ]
 }
