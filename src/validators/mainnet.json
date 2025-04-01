@@ -21,8 +21,8 @@
     {
       "id": "0xa232a81b5e834b817db01d85ee13e36552b48413626287de511b6c89b7b8ff4a448e865713fd21c98f1467a58fe6efe5",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakeus.png",
-      "name": "StakeUs",
-      "description": "TRUST US STAKE US",
+      "name": "StakeUs (lowest commission)",
+      "description": "Highest APR and Best Reward Pools, TRUST US STAKE US",
       "website": "https://stakeus.xyz",
       "twitter": "https://www.twitter.com/StakeusXyz"
     },
@@ -339,6 +339,14 @@
       "twitter": ""
     },
     {
+      "id": "0x83199315cf36ebcf6a50bab572800d79324835fae832a3da9238f399c39feceb62de41339eab4cc8f79a6d4e6bcb825c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
+      "name": "Falcon Nest",
+      "description": "",
+      "website": "",
+      "twitter": ""
+    },
+    {
       "id": "0x928d6f66bfd9cb1ef18da6843ad9db6c1b6ec7e3093705c95224e8f20232f243e7a627d09144360d4c1775d8fafdb0e7",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743020374/validators/sj9gkkwfh2ccvw6z8fpv.png",
       "name": "Infrared by Luganodes",
@@ -395,6 +403,14 @@
       "twitter": "https://x.com/P2Pvalidator"
     },
     {
+      "id": "0x86888df491e8ccdc5bb940b9dda51fa7449518593820c9e4e9033a7b87f5e9f8debbba6a4f68218711896906ad40ce71",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742835080/src/validators/mainnet/rexllant1goj9swhdoxi.png",
+      "name": "Infrared by Cephalopod Equipment",
+      "description": "Cephalopod Equipment - infrastructure for decentralized intelligence.",
+      "website": "",
+      "twitter": ""
+    },
+    {
       "id": "0x875aaf00241b14ccd86176e4baed170df6735529afd0f38f01ecfe881cbb613058922a0372814b967e3ae9e880d88658",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742397042/src/validators/mainnet/lvm30zmhbwwjavy8wofu.png",
       "name": "Infrared by Pier Two",
@@ -417,6 +433,14 @@
       "description": "A41 is a blockchain infrastructure company based in Seoul, managing $2 billion in staked assets and supports 20+ blockchain protocols. This validator node is operated with Infrared Finance.",
       "website": "https://www.a41.io/",
       "twitter": "https://x.com/a41_allforone"
+    },
+    {
+      "id": "0x8ccaba10bddc33a4f8d2acdd78593879a84c7466f641f1d9b4238b20ee2d0706894b3e55b0744098c50b9b4821da3207",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/0x8ccaba10bddc33a4f8d2acdd78593879a84c7466f641f1d9b4238b20ee2d0706894b3e55b0744098c50b9b4821da3207.png",
+      "name": "Infrared by RockawayX",
+      "description": "Bare-metal, non-custodial, institutional infrastructure operator for PoS blockchains. This validator node is operated in cooperation with Hack VC and Infrared Finance.",
+      "website": "https://www.rockawayx.com",
+      "twitter": "https://x.com/Rockaway_X"
     }
   ]
 }

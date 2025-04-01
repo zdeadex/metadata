@@ -403,11 +403,20 @@
       "name": "Nectar",
       "symbol": "NECT",
       "decimals": 18,
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54231/large/NECT_%281%29.png?1738861282",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743447620/tokens/zxgqjxi7do2qaq3heeee.png",
       "tags": ["stablecoin"],
       "extensions": {
         "coingeckoId": "nectar"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x3b3dd22625128Ff1548110f9B7Bc702F540668e2",
+      "name": "gBERA Token",
+      "symbol": "gBERA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742832647/src/tokens/mainnet/jgmp1qhoyzmsbknja1f0.png",
+      "tags": []
     },
     {
       "chainId": 80094,
@@ -614,6 +623,54 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54416/large/IMG_7050.PNG?1739556073",
       "extensions": {
         "coingeckoId": "yeet"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xf9ee98099f5078078bb8e17e6b4a4f95137e2037",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30645/large/QLLK8pmR_400x400.jpg",
+      "symbol": "EQB",
+      "name": "Equilibria Token",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "equilibria-finance"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+      "name": "NavFinance",
+      "symbol": "NAV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54663/large/NAV_Token.png?1740898251",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "nav"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xff0a636dfc44bb0129b631cdd38d21b613290c98",
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/32726/large/HOLD.png?1699018663",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "holdstation"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+      "name": "BeramoniumCoin",
+      "symbol": "BERAMO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54529/large/_BERAMO_logo.png?1740168354",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "beramoniumcoin"
       }
     }
   ]
