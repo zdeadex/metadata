@@ -647,6 +647,42 @@
       "extensions": {
         "coingeckoId": "beraxbt"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+      "name": "NavFinance",
+      "symbol": "NAV",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54663/large/NAV_Token.png?1740898251",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "nav"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xff0a636dfc44bb0129b631cdd38d21b613290c98",
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/32726/large/HOLD.png?1699018663",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "holdstation"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+      "name": "BeramoniumCoin",
+      "symbol": "BERAMO",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54529/large/_BERAMO_logo.png?1740168354",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "beramoniumcoin"
+      }
     }
   ]
 }
