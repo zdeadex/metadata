@@ -49,6 +49,12 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
       "url": "https://kuma.bid",
       "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain’s Proof-of-Liquidity."
+    },
+    {
+      "name": "D8X",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x26bbc26415c6316890565f5f73017f85ee70b60c.png",
+      "url": "https://www.d8x.exchange/",
+      "description": "D8X powers leveraged trading for the Berachain Ecosystem on DEXs like MadHoney.fi"
     }
   ],
   "vaults": [
@@ -500,6 +506,16 @@
       "url": "https://exchange.kuma.bid/rewards/taker",
       "description": "Earned by trading on the Kuma Perps DEX",
       "owner": "Kuma"
+    },
+    {
+      "stakingTokenAddress": "0x26bbc26415c6316890565f5f73017f85ee70b60c",
+      "vaultAddress": "0x347106734e7b129dde92333a0007d64a4b08e266",
+      "name": "D8X - NECT | HONEY",
+      "protocol": "D8X",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x26bbc26415c6316890565f5f73017f85ee70b60c.png",
+      "url": "https://app.madhoney.fi/vault",
+      "description": "Acquired by depositing liquidity into the NECT | HONEY Pool on a D8X powered DEX like MadHoney.fi",
+      "owner": "D8X"
     }
   ]
 }
