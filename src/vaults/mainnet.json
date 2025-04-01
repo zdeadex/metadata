@@ -45,6 +45,24 @@
       "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
     },
     {
+      "name": "Kuma",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
+      "url": "https://kuma.bid",
+      "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain’s Proof-of-Liquidity."
+    },
+    {
+      "name": "D8X",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510327/tokens/rvut4vnjcic8k9f5oaty.png",
+      "url": "https://www.d8x.exchange/",
+      "description": "D8X powers leveraged trading for the Berachain Ecosystem on DEXs like MadHoney.fi"
+    },
+    {
+      "name": "bro.trade",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743448666/reward-vaults/icons/pxfsjxx3qu4rzyqlk9vr.jpg",
+      "url": "https://app.bro.trade",
+      "description": "bro.trade is a community-driven, decentralized cryptocurrency trading platform specializing in perpetual futures (perps)."
+    },
+    {
       "name": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://euler.finance/",
@@ -492,11 +510,51 @@
       "owner": "Wasabi"
     },
     {
+      "stakingTokenAddress": "0xe454C546C8F3875e928910Abc653De5f8c432F11",
+      "vaultAddress": "0xDf5C6c28479e21C5F36cEB0C44Ae15975dE844ba",
+      "name": "BeraXBT - BIXBT | WBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743429746/tokens/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e.png",
+      "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e?chain=berachain_mainnet",
+      "description": "virtual, analytical consciousness bringing deep analysis to berachain",
+      "owner": "BeraXBT"
+    },
+    {
+      "stakingTokenAddress": "0x273c832797Bfda1C0826a786670D041282Bd6aFc",
+      "vaultAddress": "0x5540e29749f6c8f5dcf49fcc17c67e97a8e7335b",
+      "name": "Kuma - Trade Rewards",
+      "protocol": "Kuma",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
+      "url": "https://exchange.kuma.bid/rewards/taker",
+      "description": "Earned by trading on the Kuma Perps DEX",
+      "owner": "Kuma"
+    },
+    {
+      "stakingTokenAddress": "0x26bbc26415c6316890565f5f73017f85ee70b60c",
+      "vaultAddress": "0x347106734e7b129dde92333a0007d64a4b08e266",
+      "name": "D8X - NECT | HONEY",
+      "protocol": "D8X",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510327/tokens/rvut4vnjcic8k9f5oaty.png",
+      "url": "https://app.madhoney.fi/vault",
+      "description": "Acquired by depositing liquidity into the NECT | HONEY Pool on a D8X powered DEX like MadHoney.fi",
+      "owner": "D8X"
+    },
+    {
+      "stakingTokenAddress": "0x561fd767eec89cfd94048df7c5402c7194ef4580",
+      "vaultAddress": "0x212a9b9b9cc7a935e15f4370f29705236ef709dd",
+      "name": "bro.trade - Staking Token",
+      "protocol": "bro.trade",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743448666/reward-vaults/icons/pxfsjxx3qu4rzyqlk9vr.jpg",
+      "url": "https://app.bro.trade",
+      "description": "Acquired by trading on bro.trade",
+      "owner": "bro.trade"
+    },
+    {
       "stakingTokenAddress": "0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc",
       "vaultAddress": "0xfdDD0A98E6A3e447fE80ace97497B305A87FF716",
       "name": "Euler - EVK Vault eHONEY-1",
       "protocol": "Euler",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533405/tokens/dnhhcqnluuosehi0sriv.png",
       "url": "https://app.euler.finance/vault/0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc?network=berachain",
       "description": "Acquired by depositing HONEY into the MEV Capital Berchain Cluster HONEY Vault on Euler",
       "owner": "Euler"
@@ -506,7 +564,7 @@
       "vaultAddress": "0x31678555425C773c93F8DC6c1297eB224456B0B0",
       "name": "Euler - EVK Vault eHONEY-2",
       "protocol": "Euler",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533423/tokens/yrqz3lw0epqgdflcmhyg.png",
       "url": "https://app.euler.finance/vault/0x89FD57175EcEEC45992e07c206e5A864Fa6aF433?network=berachain",
       "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
       "owner": "Euler"
@@ -516,7 +574,7 @@
       "vaultAddress": "0x4426220787Fb7C195677BC1753C14E84f9a7692C",
       "name": "Euler - EVK Vault eHONEY-3",
       "protocol": "Euler",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533444/tokens/m989y6nbek5eajnczkik.png",
       "url": "https://app.euler.finance/vault/0x027DcAfB223f69d41Bd413C50854017718419585?network=berachain",
       "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
       "owner": "Euler"
