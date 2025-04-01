@@ -43,12 +43,6 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://wasabi.xyz/",
       "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
-    },
-    {
-      "name": "Kuma",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
-      "url": "https://kuma.bid",
-      "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain’s Proof-of-Liquidity."
     }
   ],
   "vaults": [
@@ -492,14 +486,14 @@
       "owner": "Wasabi"
     },
     {
-      "stakingTokenAddress": "0x273c832797Bfda1C0826a786670D041282Bd6aFc",
-      "vaultAddress": "0x5540e29749f6c8f5dcf49fcc17c67e97a8e7335b",
-      "name": "Kuma - Trade Rewards",
-      "protocol": "Kuma",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
-      "url": "https://exchange.kuma.bid/rewards/taker",
-      "description": "Earned by trading on the Kuma Perps DEX",
-      "owner": "Kuma"
+      "stakingTokenAddress": "0x66A501076865a2b21Df9dBd51FA931317188418B",
+      "vaultAddress": "0x3445d28a54a860310c523488be11060b42a93851",
+      "name": "Beratardio - BERATARDIO",
+      "protocol": "Beratardio",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/src/assets/tokens/0x66A501076865a2b21Df9dBd51FA931317188418B.png",
+      "url": "https://app.oogabooga.io/?fromToken=0X0000000000000000000000000000000000000000&toToken=0X66A501076865A2B21DF9DBD51FA931317188418B&amount=10",
+      "description": "Acquired by swapping to BERATARDIO on Kodiak or OogaBooga",
+      "owner": "Beratardio"
     }
   ]
 }
