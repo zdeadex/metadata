@@ -683,6 +683,15 @@
       "extensions": {
         "coingeckoId": "beramoniumcoin"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x66A501076865a2b21Df9dBd51FA931317188418B",
+      "name": "Beratardio",
+      "symbol": "BERATARDIO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743513356/tokens/wu5gnzwstmazfyvxydea.png",
+      "tags": ["memecoin"]
     }
   ]
 }
