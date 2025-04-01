@@ -536,6 +536,16 @@
       "owner": "Kuma"
     },
     {
+      "stakingTokenAddress": "0xd9a747880393f7c33cef1aea36909b36d421f7e5",
+      "vaultAddress": "0xf10f34547f4b8659058f10d29759a89eb790aa80",
+      "name": "BakerDAO - BREAD | OHM",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743511182/tokens/uy0260lxub5dn38een6a.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xd9a747880393f7c33cef1aea36909b36d421f7e5?farm=0xc080b212caaa1ebbccde1434d6efe6359eda2084&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the BREAD | OHM Pool on Kodiak Finance",
+      "owner": "BakerDAO"
+    },
+    {
       "stakingTokenAddress": "0x26bbc26415c6316890565f5f73017f85ee70b60c",
       "vaultAddress": "0x347106734e7b129dde92333a0007d64a4b08e266",
       "name": "D8X - NECT | HONEY",
