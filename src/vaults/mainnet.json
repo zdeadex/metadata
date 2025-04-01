@@ -27,6 +27,12 @@
       "description": ""
     },
     {
+      "name": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510826/protocols/d6pf9wceogciddpbgkpy.png",
+      "url": "https://app.beraborrow.com/",
+      "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar"
+    },
+    {
       "name": "Beradrome",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742841609/reward-vaults/icons/544876aa-568f-4f78-b318-b16d02e23bd6.png",
       "url": "https://www.beradrome.com/",
@@ -604,6 +610,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xa2a3170f94b55c835f8483Bc2486D41Ff0c90F28?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Beratardio - BERATARDIO | WBERA pool on Kodiak v2",
       "owner": "Beratardio"
+    },
+    {
+      "stakingTokenAddress": "0x597877ccf65be938bd214c4c46907669e3e62128",
+      "vaultAddress": "0x1161e6a6600C08c21cFF7Ac689e781b41Db56d85",
+      "name": "sNECT",
+      "protocol": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510678/tokens/pnjzpr95iabxbm3x4eql.png",
+      "url": "https://app.beraborrow.com/pool/deposit",
+      "description": "Acquired by depositing NECT into the Liquid Stability Pool on Beraborrow",
+      "owner": "Beraborrow"
     }
   ]
 }
