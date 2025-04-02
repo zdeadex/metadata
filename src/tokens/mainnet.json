@@ -704,6 +704,15 @@
       "extensions": {
         "coingeckoId": "wizzwoods-token"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x56C44d2F484A61ce92Fa0BCc849feB37aBfeB59C",
+      "name": "Reward EUL",
+      "symbol": "rEUL",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743590397/tokens/fchcibsy6l38oqg7ig05.png",
+      "tags": []
     }
   ]
 }
