@@ -692,6 +692,17 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743513356/tokens/wu5gnzwstmazfyvxydea.png",
       "tags": ["memecoin"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+      "decimals": 18,
+      "symbol": "WIZZ",
+      "name": "Wizzwoods Token",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "wizzwoods-token"
+      }
     }
   ]
 }
