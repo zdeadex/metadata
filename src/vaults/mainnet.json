@@ -652,6 +652,16 @@
       "url": "https://ivx.fi",
       "description": "IVLP is the liquidity token for IVX's 0dte options AMM. Acquired by depositing liquidity into IVLP on IVX.",
       "owner": "IVX Finance"
+    },
+    {
+      "stakingTokenAddress": "0xbac7DC9Cc4142580Ac968f65eFc673183a226cdF",
+      "vaultAddress": "0x127696D2e3A4eA1F4eed1AFeF608e8901cbE8965",
+      "name": "LXP Rewards Vault",
+      "logoURI": "https://imagedelivery.net/zJijluOi-ntsRcU-OY-BjA/cc181cab-aee6-4828-71fe-9f18e6041d00/public",
+      "protocol": "LODE TRADE",
+      "url": "https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/",
+      "description": "LXP is acquired by using LODE (i.e. trading and completing quest campaigns). LXP is a proxy for trading rebates and rewards, it does not have liquidity nor is intended to be traded. LXP must be claimed and staked in our rewards vault (https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/) to be eligible for rewards. Please review our full proposal here: https://hub.forum.berachain.com/t/request-for-lxp-reward-vault-lode/316.",
+      "owner": "LODE TRADE"
     }
   ]
 }
