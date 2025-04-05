@@ -91,6 +91,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743538082/protocols/awmnyxwgvfitzn4vfpai.png",
       "url": "https://ivx.fi",
       "description": "IVX is a liquid options AMM built on top of Berachain network that allow users to trade zero days to expiry option contracts over a variety of assets."
+    },
+    {
+      "name": "Lode Trade",
+      "logoURI": "https://imagedelivery.net/zJijluOi-ntsRcU-OY-BjA/cc181cab-aee6-4828-71fe-9f18e6041d00/public",
+      "url": "https://lode.trade",
+      "description": "LODE is a decentralized trading platform that aggregates liquidity from both centralized and decentralized exchanges, offering deep liquidity, minimal slippage, and innovative risk management."
     }
   ],
   "vaults": [
