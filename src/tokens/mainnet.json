@@ -692,6 +692,27 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743513356/tokens/wu5gnzwstmazfyvxydea.png",
       "tags": ["memecoin"]
+    },
+    {
+      "chainId": 80094,
+      "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+      "name": "Wizzwoods Token",
+      "symbol": "WIZZ",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743590057/tokens/i9s2kwc7u0glt893zugr.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "wizzwoods-token"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x56C44d2F484A61ce92Fa0BCc849feB37aBfeB59C",
+      "name": "Reward EUL",
+      "symbol": "rEUL",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743590397/tokens/fchcibsy6l38oqg7ig05.png",
+      "tags": []
     }
   ]
 }
