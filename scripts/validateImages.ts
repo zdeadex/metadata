@@ -86,7 +86,8 @@ const validateAssetsImages = () => {
             if (
               !tokenRegex.test(
                 relativePath.replace(ext, "").replace("tokens/", ""),
-              )
+              ) &&
+              !entry.name.includes("default")
             ) {
               errors.push(
                 `${relativePath}: Invalid file name! Must be a valid token address.`,
