@@ -688,6 +688,26 @@
       "url": "https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/",
       "description": "LXP is acquired by using LODE (i.e. trading and completing quest campaigns). LXP is a proxy for trading rebates and rewards, it does not have liquidity nor is intended to be traded. LXP must be claimed and staked in our rewards vault (https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/) to be eligible for rewards. Please review our full proposal here: https://hub.forum.berachain.com/t/request-for-lxp-reward-vault-lode/316.",
       "owner": "LODE TRADE"
+    },
+    {
+      "stakingTokenAddress": "0xfC4994e0A4780ba7536d7e79611468B6bde14CaE",
+      "vaultAddress": "0x8Aa4a546D6437067faB027904EAC0b7c78857737",
+      "name": "Ether.fi - WBTC | eBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744807465/tokens/jd0vkuqzcfnthdvnyq2o.png",
+      "protocol": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xfc4994e0a4780ba7536d7e79611468b6bde14cae?chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the Ether.fi - WBTC | eBTC Pool on Kodiak",
+      "owner": "Ether.fi"
+    },
+    {
+      "stakingTokenAddress": "0xA0cAbFc04Fc420b3d31BA431d18eB5bD33B3f334",
+      "vaultAddress": "0x77304193647B9DC09338b5976ad4C674B350FA30",
+      "name": "Ether.fi - WETH | weETH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744807509/tokens/xva0mbjtpl2k8qgvixmi.png",
+      "protocol": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xa0cabfc04fc420b3d31ba431d18eb5bd33b3f334?chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the Ether.fi - WETH | weETH Pool on Kodiak",
+      "owner": "Ether.fi"
     }
   ]
 }
