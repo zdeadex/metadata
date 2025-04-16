@@ -720,7 +720,7 @@
       "name": "Bedrock",
       "symbol": "BR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/main/logo/bedrock.png",
+      "logoURI": "https://res.cloudinary.com/dhltujx2f/image/upload/v1744776867/bedrock-logo_mfohob.png",
       "tags": [],
       "extensions": {
         "coingeckoId": "bedrock"
