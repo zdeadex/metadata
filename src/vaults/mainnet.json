@@ -652,6 +652,66 @@
       "url": "https://ivx.fi",
       "description": "IVLP is the liquidity token for IVX's 0dte options AMM. Acquired by depositing liquidity into IVLP on IVX.",
       "owner": "IVX Finance"
+    },
+    {
+      "stakingTokenAddress": "0x8412561FADDD6C85F5a17e07E0F29428B813E69B",
+      "vaultAddress": "0x8412561FADDD6C85F5a17e07E0F29428B813E69B",
+      "name": "Henlo - Henlocker100M",
+      "logoURI": "https://media.discordapp.net/attachments/1360861149456891950/1361771775473488025/1.png?ex=67fff84b&is=67fea6cb&hm=53e070b1363fa5aae917e0329da723761f6d8930643703db27e59d6b87e5d25f&=&format=webp&quality=lossless&width=1192&height=1192",
+      "protocol": "Beradrome",
+      "url": "https://app.henlo.com/lock",
+      "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
+      "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0x94CA1028eE60E5B28CdA22c0e7b6743017a9B7b6",
+      "vaultAddress": "0xA713816E8d190EFdf35d66b723eb63f8c8c4d5D2",
+      "name": "Henlo - Henlocker330M",
+      "logoURI": "https://media.discordapp.net/attachments/1360861149456891950/1361771775909957812/2.png?ex=67fff84b&is=67fea6cb&hm=21ea6ed22cb45f2b79e923da52306197a812f35549975637d9dd80bf36ffc452&=&format=webp&quality=lossless&width=1192&height=1192",
+      "protocol": "Beradrome",
+      "url": "https://app.henlo.com/lock",
+      "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
+      "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0x94b12404D6163c3E49ED876fb25034A946A40Dd8",
+      "vaultAddress": "0x15970fcf2dbb9FfCC4e2f79c3Fd777B871540D5b",
+      "name": "Henlo - Henlocker420M",
+      "logoURI": "https://media.discordapp.net/attachments/1360861149456891950/1361771776220201030/3.png?ex=67fff84b&is=67fea6cb&hm=85120d00f2e2397fd4a1f3dc1a10811a52d2e9b05789277912b6cdffd260ecbe&=&format=webp&quality=lossless&width=1192&height=1192",
+      "protocol": "Beradrome",
+      "url": "https://app.henlo.com/lock",
+      "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
+      "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0x872130cED110e2a4325693C0802B6A0112B3615B",
+      "vaultAddress": "0x610b6A27A3A83Cea0574C5001F30d9EEA3699b1a",
+      "name": "Henlo - Henlocker690M",
+      "logoURI": "https://media.discordapp.net/attachments/1360861149456891950/1361771776534646946/4.png?ex=67fff84c&is=67fea6cc&hm=53153044a3ace89a3fc78dedc9c9e440bad123bbcbf7b79236d4fa01c7f2cf5c&=&format=webp&quality=lossless&width=1192&height=1192",
+      "protocol": "Beradrome",
+      "url": "https://app.henlo.com/lock",
+      "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
+      "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0xFb32f8c7D363790A6CCd89f8d20047612aba633B",
+      "vaultAddress": "0xA6A3E6fb89FA4C6554e82D05b449639EeBfc564f",
+      "name": "Henlo - Henlocker1B",
+      "logoURI": "https://media.discordapp.net/attachments/1360861149456891950/1361771776908198159/5.png?ex=67fff84c&is=67fea6cc&hm=6e6d07df93eeb27756d94595dbbba274cdaec06c61cdab462dd1afdd132e207f&=&format=webp&quality=lossless&width=1192&height=1192",
+      "protocol": "Beradrome",
+      "url": "https://app.henlo.com/lock",
+      "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
+      "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0x04fd6a7b02e2e48caedad7135420604de5f834f8",
+      "vaultAddress": "0x16e8031814E58F581C8a1d6e087458b5110879Fa",
+      "name": "HENLO - WBERA | HENLO ",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54719/large/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
+      "protocol": "Aquabera",
+      "url": "https://app.aquabera.com/vault/0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
+      "description": "Acquired by depositing liquidity into the Aquabera - WBERA-HENLO Pool on Kodiak.",
+      "owner": "HENLO"
     }
   ]
 }
