@@ -672,6 +672,15 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x9b155cf7a4e5911ac35ab2173d0f58e1d39570fd?chain=berachain_mainnet",
       "description": "",
       "owner": "Ooga Booga"
+    },
+    {
+      "stakingTokenAddress": "0x1b7b061091bd2c900723107889fe44f825d6c921",
+      "vaultAddress": "0xec54b5d168e7128bc1f06d12ef0e5ab6f4c59ed9",
+      "name": "Wizzwoods - WIZZ | WBERA",
+      "protocol": "HUB",
+      "url": "https://hub.berachain.com/vaults/0xec54b5d168e7128bc1f06d12ef0e5ab6f4c59ed9/",
+      "description": "Acquired by depositing liquidity into the [WIZZ | WBERA Pool](https://hub.berachain.com/pools/0x1b7b061091bd2c900723107889fe44f825d6c92100020000000000000000010c/details/) on **Hub**",
+      "owner": "Wizzwoods"
     }
   ]
 }
