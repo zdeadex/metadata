@@ -97,6 +97,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744806398/tokens/xqq0lntwsthjkfzskg9q.png",
       "url": "https://lode.trade",
       "description": "LODE is a decentralized trading platform that aggregates liquidity from both centralized and decentralized exchanges, offering deep liquidity, minimal slippage, and innovative risk management."
+    },
+    {
+      "name": "Wizzwoods",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
+      "url": "https://www.wizzwoods.com",
+      "description": "1st pixel farm game integrates interchain capabilities with a SocialFi twist."
     }
   ],
   "vaults": [
@@ -718,6 +724,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x54c603173ca92a42b81f8838d705fd3e0f98d5d4?farm=0x359424085d84c490a7b276e4bc72cef90a04068b&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BREAD | LBGT Pool on Kodiak Finance",
       "owner": "BakerDAO"
+    },
+    {
+      "stakingTokenAddress": "0x1b7b061091bd2c900723107889fe44f825d6c921",
+      "vaultAddress": "0xec54b5d168e7128bc1f06d12ef0e5ab6f4c59ed9",
+      "name": "Wizzwoods - WIZZ | WBERA",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
+      "url": "https://hub.berachain.com/pools/0x1b7b061091bd2c900723107889fe44f825d6c92100020000000000000000010c/details/",
+      "description": "Acquired by depositing liquidity into the Wizzwoods - WIZZ|WBERA Pool on Hub",
+      "owner": "Wizzwoods"
     }
   ]
 }
