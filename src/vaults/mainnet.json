@@ -91,6 +91,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743538082/protocols/awmnyxwgvfitzn4vfpai.png",
       "url": "https://ivx.fi",
       "description": "IVX is a liquid options AMM built on top of Berachain network that allow users to trade zero days to expiry option contracts over a variety of assets."
+    },
+    {
+      "name": "Wizzwoods",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
+      "url": "https://www.wizzwoods.com",
+      "description": "1st pixel farm game integrates interchain capabilities with a SocialFi twist."
     }
   ],
   "vaults": [
@@ -678,6 +684,7 @@
       "vaultAddress": "0xec54b5d168e7128bc1f06d12ef0e5ab6f4c59ed9",
       "name": "Wizzwoods - WIZZ | WBERA",
       "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
       "url": "https://hub.berachain.com/pools/0x1b7b061091bd2c900723107889fe44f825d6c92100020000000000000000010c/details/",
       "description": "Acquired by depositing liquidity into the Wizzwoods - WIZZ|WBERA Pool on Hub",
       "owner": "Wizzwoods"
