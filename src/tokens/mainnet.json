@@ -713,6 +713,18 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743590397/tokens/fchcibsy6l38oqg7ig05.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+      "name": "Bedrock",
+      "symbol": "BR",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744808447/tokens/fudxzeljryceklkujvuw.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bedrock"
+      }
     }
   ]
 }
