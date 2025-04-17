@@ -754,6 +754,16 @@
       "url": "https://app.webera.finance/vault?token=ibera&type=bera-lst",
       "description": "$weiBERA is acquired by depositing $IBERA into the IBERA Vault on WeBera Finance",
       "owner": "WeBera"
+    },
+    {
+      "stakingTokenAddress": "0x56449b16ff2b1e5ee61f532ceffda8f408f718a1",
+      "vaultAddress": "0xed0fb3170390ef82e13102f36fa7fd5047722890",
+      "name": "Bedrock - BR | WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744808447/tokens/fudxzeljryceklkujvuw.png",
+      "protocol": "Kodiak",
+      "url": "https://hub.berachain.com/vaults/0xed0fb3170390ef82e13102f36fa7fd5047722890/",
+      "description": "Acquired by depositing liquidity into the Bedrock - BR | WBERA Pool on Kodiak",
+      "owner": "Bedrock"
     }
   ]
 }
