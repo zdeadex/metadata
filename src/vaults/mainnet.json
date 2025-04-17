@@ -91,6 +91,18 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743538082/protocols/awmnyxwgvfitzn4vfpai.png",
       "url": "https://ivx.fi",
       "description": "IVX is a liquid options AMM built on top of Berachain network that allow users to trade zero days to expiry option contracts over a variety of assets."
+    },
+    {
+      "name": "Lode Trade",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744806398/tokens/xqq0lntwsthjkfzskg9q.png",
+      "url": "https://lode.trade",
+      "description": "LODE is a decentralized trading platform that aggregates liquidity from both centralized and decentralized exchanges, offering deep liquidity, minimal slippage, and innovative risk management."
+    },
+    {
+      "name": "Wizzwoods",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
+      "url": "https://www.wizzwoods.com",
+      "description": "1st pixel farm game integrates interchain capabilities with a SocialFi twist."
     }
   ],
   "vaults": [
@@ -518,7 +530,7 @@
       "vaultAddress": "0x4eA84882228a5C881675151E951235e45256a484",
       "name": "Wasabi - sWBERA",
       "protocol": "Wasabi",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451864/tokens/oahudbpuy2h7mooma5wv.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744807971/tokens/mdn89ghh64yzy53lutpo.png",
       "url": "https://app.wasabi.xyz/earn?vault=sWBERA&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
@@ -528,7 +540,7 @@
       "vaultAddress": "0x49FCaA48e59e3d634Ae6c6953cc30ce953Dfba2c",
       "name": "Wasabi - sHONEY",
       "protocol": "Wasabi",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451885/tokens/lynhonn8pp4yeglgjth4.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744808007/tokens/pbcs6nvxdggvydhrczyo.png",
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi"
@@ -672,6 +684,76 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x9b155cf7a4e5911ac35ab2173d0f58e1d39570fd?chain=berachain_mainnet",
       "description": "",
       "owner": "Ooga Booga"
+    },
+    {
+      "stakingTokenAddress": "0xbac7DC9Cc4142580Ac968f65eFc673183a226cdF",
+      "vaultAddress": "0x127696D2e3A4eA1F4eed1AFeF608e8901cbE8965",
+      "name": "LXP Rewards Vault",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744806398/tokens/xqq0lntwsthjkfzskg9q.png",
+      "protocol": "LODE TRADE",
+      "url": "https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/",
+      "description": "LXP is acquired by using LODE (i.e. trading and completing quest campaigns). LXP is a proxy for trading rebates and rewards, it does not have liquidity nor is intended to be traded. LXP must be claimed and staked in our rewards vault (https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/) to be eligible for rewards. Please review our full proposal here: https://hub.forum.berachain.com/t/request-for-lxp-reward-vault-lode/316.",
+      "owner": "LODE TRADE"
+    },
+    {
+      "stakingTokenAddress": "0xfC4994e0A4780ba7536d7e79611468B6bde14CaE",
+      "vaultAddress": "0x8Aa4a546D6437067faB027904EAC0b7c78857737",
+      "name": "Ether.fi - WBTC | eBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744807465/tokens/jd0vkuqzcfnthdvnyq2o.png",
+      "protocol": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xfc4994e0a4780ba7536d7e79611468b6bde14cae?chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the Ether.fi - WBTC | eBTC Pool on Kodiak",
+      "owner": "Ether.fi"
+    },
+    {
+      "stakingTokenAddress": "0xA0cAbFc04Fc420b3d31BA431d18eB5bD33B3f334",
+      "vaultAddress": "0x77304193647B9DC09338b5976ad4C674B350FA30",
+      "name": "Ether.fi - WETH | weETH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744807509/tokens/xva0mbjtpl2k8qgvixmi.png",
+      "protocol": "Kodiak",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xa0cabfc04fc420b3d31ba431d18eb5bd33b3f334?chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the Ether.fi - WETH | weETH Pool on Kodiak",
+      "owner": "Ether.fi"
+    },
+    {
+      "stakingTokenAddress": "0x54c603173ca92a42b81f8838d705fd3e0f98d5d4",
+      "vaultAddress": "0x359424085d84c490a7b276e4bc72cef90a04068b",
+      "name": "BakerDAO - BREAD | LBGT",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743511182/tokens/uy0260lxub5dn38een6a.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x54c603173ca92a42b81f8838d705fd3e0f98d5d4?farm=0x359424085d84c490a7b276e4bc72cef90a04068b&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the BREAD | LBGT Pool on Kodiak Finance",
+      "owner": "BakerDAO"
+    },
+    {
+      "stakingTokenAddress": "0x1b7b061091bd2c900723107889fe44f825d6c921",
+      "vaultAddress": "0xec54b5d168e7128bc1f06d12ef0e5ab6f4c59ed9",
+      "name": "Wizzwoods - WIZZ | WBERA",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
+      "url": "https://hub.berachain.com/pools/0x1b7b061091bd2c900723107889fe44f825d6c92100020000000000000000010c/details/",
+      "description": "Acquired by depositing liquidity into the Wizzwoods - WIZZ|WBERA Pool on Hub",
+      "owner": "Wizzwoods"
+    },
+    {
+      "stakingTokenAddress": "0x55a050f76541C2554e9dfA3A0b4e665914bF92EA",
+      "vaultAddress": "0x5e747644Dd7A3e58485DB8E836cA7654242dAe2a",
+      "name": "webera-vault-wbera",
+      "protocol": "WeBera",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744810383/tokens/pnaomiavy5eu8outmnol.png",
+      "url": "https://app.webera.finance/vault?token=bera&type=lst",
+      "description": "$weWBERA is acquired by depositing $BERA into the BERA Vault on WeBera Finance",
+      "owner": "WeBera"
+    },
+    {
+      "stakingTokenAddress": "0x396A3D0B799B1a0B1EaA17e75B4DEa412400860b",
+      "vaultAddress": "0x5ecefd0f14b0085d5ec3600fd1a97fa1366f97d9",
+      "name": "webera-vault-ibera",
+      "protocol": "WeBera",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744810404/tokens/g6rpupgxgkouozck7bqa.png",
+      "url": "https://app.webera.finance/vault?token=ibera&type=bera-lst",
+      "description": "$weiBERA is acquired by depositing $IBERA into the IBERA Vault on WeBera Finance",
+      "owner": "WeBera"
     },
     {
       "stakingTokenAddress": "0x56449b16ff2b1e5ee61f532ceffda8f408f718a1",
