@@ -752,6 +752,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x7f2B60fDff1494A0E3e060532c9980d7fad0404B.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654.png",
+      "tags": []
     }
   ]
 }
