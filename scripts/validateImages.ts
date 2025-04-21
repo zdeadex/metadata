@@ -31,7 +31,7 @@ const getImageDimensions = (
   }
 
   // Check JPG header
-  if (buffer.slice(0, 2).toString("hex") === "ff d8") {
+  if (buffer.slice(0, 2).toString("hex") === "ffd8") {
     // JPG files start with ff d8
     let i = 2;
     while (i < buffer.length) {
