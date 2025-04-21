@@ -33,6 +33,12 @@
       "description": "Dolomite is a decentralized money market protocol."
     },
     {
+      "name": "D2 Finance",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xed7f000ee335b8199b004cca1c6f36d188cf6cb8.png",
+      "url": "https://d2.finance/strategies",
+      "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution."
+    },
+    {
       "name": "Beraborrow",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510826/protocols/d6pf9wceogciddpbgkpy.png",
       "url": "https://app.beraborrow.com/",
@@ -820,6 +826,26 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0x36b933554782b108bb9962ac00c498acbceb706d",
+      "vaultAddress": "0xf53ee7a9ddbcd27f2a50c45f4e7a8e8b0eec043f",
+      "name": "HyperBera.USDC",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xf53ee7a9ddbcd27f2a50c45f4e7a8e8b0eec043f.png",
+      "protocol": "D2 Finance",
+      "url": "https://d2.finance/strategies/HyperBera.USDC?chainId=80094&tab=1",
+      "description": "Acquired by deposited USDC.e into the HyperBera.USDC strategy vault on D2 Finance (during funding periods).",
+      "owner": "D2 Finance"
+    },
+    {
+      "stakingTokenAddress": "0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79",
+      "vaultAddress": "0x70c359d85611e9a755997cc59281ef5edb04cf1b",
+      "name": "dgnBeraland",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x70c359D85611E9a755997Cc59281EF5EDB04cf1b.png",
+      "protocol": "D2 Finance",
+      "url": "https://d2.finance/strategies/dgnBeraland?chainId=80094&tab=2",
+      "description": "Acquired by deposited USDC.e into the dgnBeraland strategy vault on D2 Finance (during funding periods).",
+      "owner": "D2 Finance"
     },
     {
       "stakingTokenAddress": "0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
