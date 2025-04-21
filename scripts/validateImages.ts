@@ -106,9 +106,13 @@ const validateAssetsImages = () => {
             }
           }
 
+          if (dimensions === null) {
+            errors.push(
+              `${relativePath}: Unsupported file format. Unable to determine image dimensions.`,
+            );
+          }
           // Validate dimensions
-          if (
-            !dimensions ||
+          else if (
             dimensions.width < 1024 ||
             dimensions.height < 1024 ||
             dimensions?.width !== dimensions?.height
