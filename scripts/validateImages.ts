@@ -6,7 +6,7 @@ import path from "node:path";
 // Config
 // ================================================================
 const METADATA_FOLDER = "src";
-const ASSET_PATH = path.join(METADATA_FOLDER, "assets");
+const ASSET_PATH = path.join(process.argv[2] ?? "", METADATA_FOLDER, "assets");
 const METADATA_FOLDER_EXCLUDED = ["assets"];
 
 // Functions
@@ -31,7 +31,7 @@ const getImageDimensions = (
   }
 
   // Check JPG header
-  if (buffer.slice(0, 2).toString("hex") === "ff d8") {
+  if (buffer.slice(0, 2).toString("hex") === "ffd8") {
     // JPG files start with ff d8
     let i = 2;
     while (i < buffer.length) {
@@ -86,7 +86,8 @@ const validateAssetsImages = () => {
             if (
               !tokenRegex.test(
                 relativePath.replace(ext, "").replace("tokens/", ""),
-              )
+              ) &&
+              !entry.name.includes("default")
             ) {
               errors.push(
                 `${relativePath}: Invalid file name! Must be a valid token address.`,
@@ -105,9 +106,13 @@ const validateAssetsImages = () => {
             }
           }
 
+          if (dimensions === null) {
+            errors.push(
+              `${relativePath}: Unsupported file format. Unable to determine image dimensions.`,
+            );
+          }
           // Validate dimensions
-          if (
-            !dimensions ||
+          else if (
             dimensions.width < 1024 ||
             dimensions.height < 1024 ||
             dimensions?.width !== dimensions?.height

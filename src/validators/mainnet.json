@@ -21,8 +21,8 @@
     {
       "id": "0xa232a81b5e834b817db01d85ee13e36552b48413626287de511b6c89b7b8ff4a448e865713fd21c98f1467a58fe6efe5",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakeus.png",
-      "name": "StakeUs (lowest commission)",
-      "description": "Highest APR and Best Reward Pools, TRUST US STAKE US",
+      "name": "StakeUs",
+      "description": "Experimenting with Boost APR and Reward Pools",
       "website": "https://stakeus.xyz",
       "twitter": "https://www.twitter.com/StakeusXyz"
     },
@@ -340,7 +340,7 @@
     },
     {
       "id": "0x83199315cf36ebcf6a50bab572800d79324835fae832a3da9238f399c39feceb62de41339eab4cc8f79a6d4e6bcb825c",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1739449352/validators/icons/hm89bhgw1h2eydgtrmeu.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745212267/validators/mg5olfymhhhirzrjrgma.png",
       "name": "Falcon Nest",
       "description": "",
       "website": "",
@@ -441,6 +441,22 @@
       "description": "Bare-metal, non-custodial, institutional infrastructure operator for PoS blockchains. This validator node is operated in cooperation with Hack VC and Infrared Finance.",
       "website": "https://www.rockawayx.com",
       "twitter": "https://x.com/Rockaway_X"
+    },
+    {
+      "id": "0x967fb9134794ac697aadf15782b6f03da5494a094eb588045ac209bc80315d3c33b4cbf78db90400428c92011d6fde58",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743772244/validators/twbqhha3sct4rnonrouk.png",
+      "name": "Infrared by Kingnodes 👑",
+      "description": "Enterprise web3 infrastructure provider. TG: t.me/kingnodes",
+      "website": "https://kingnodes.com",
+      "twitter": "https://x.com/kingnodes"
+    },
+    {
+      "id": "0xaddc88b5a74211b80ed2b8c5169b85380b7428a8b0a3381a4470d52203eb230f136b423370308783082866f716b06651",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533918/validators/mcusroc1wjdbi8wjqybc.png",
+      "name": "Infrared by Nodeinfra",
+      "description": "Korean validator focused on reliability and security",
+      "website": "https://nodeinfra.com",
+      "twitter": "https://x.com/nodeinfra"
     },
     {
       "id": "0xb47bc1b35cd4c66f563f3f36285ab49747dde1469cf9972e21da45677aabde4c20d55a24bf7faa6791511a5ba3c8d415",
