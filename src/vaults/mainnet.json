@@ -34,7 +34,7 @@
     },
     {
       "name": "D2 Finance",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xed7f000ee335b8199b004cca1c6f36d188cf6cb8.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430644/protocols/ash4tmjmgocmvkpxwxcm.png",
       "url": "https://d2.finance/strategies",
       "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution."
     },
@@ -831,7 +831,7 @@
       "stakingTokenAddress": "0x36b933554782b108bb9962ac00c498acbceb706d",
       "vaultAddress": "0xf53ee7a9ddbcd27f2a50c45f4e7a8e8b0eec043f",
       "name": "HyperBera.USDC",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0xf53ee7a9ddbcd27f2a50c45f4e7a8e8b0eec043f.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430686/vaults/d18ofokdlnmjbwcpyhfn.png",
       "protocol": "D2 Finance",
       "url": "https://d2.finance/strategies/HyperBera.USDC?chainId=80094&tab=1",
       "description": "Acquired by deposited USDC.e into the HyperBera.USDC strategy vault on D2 Finance (during funding periods).",
@@ -841,7 +841,7 @@
       "stakingTokenAddress": "0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79",
       "vaultAddress": "0x70c359d85611e9a755997cc59281ef5edb04cf1b",
       "name": "dgnBeraland",
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x70c359D85611E9a755997Cc59281EF5EDB04cf1b.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430537/vaults/p0nih8r2zehi946dab98.png",
       "protocol": "D2 Finance",
       "url": "https://d2.finance/strategies/dgnBeraland?chainId=80094&tab=2",
       "description": "Acquired by deposited USDC.e into the dgnBeraland strategy vault on D2 Finance (during funding periods).",

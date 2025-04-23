@@ -761,6 +761,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x36b933554782b108bb9962ac00c498acbceb706d",
+      "name": "HyperBERA.USDC",
+      "symbol": "HyperBERA.USDC",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430856/tokens/0x36b933554782b108bb9962ac00c498acbceb706d.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79",
+      "name": "dgnBeraland",
+      "symbol": "dgnBeraland",
+      "decimals": 6,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430960/tokens/0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79.png",
+      "tags": []
     }
   ]
 }
