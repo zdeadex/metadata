@@ -764,6 +764,15 @@
     },
     {
       "chainId": 80094,
+      "address": "0xD6620E78B89E8fdB5dFA675D55001C7FaD424bDc",
+      "name": "Kodiak Island WBERA-POLLEN-1%",
+      "symbol": "KODI WBERA-POLLEN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1745344462/tokens/0xD6620E78B89E8fdB5dFA675D55001C7FaD424bDc.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
       "address": "0x36b933554782b108bb9962ac00c498acbceb706d",
       "name": "HyperBERA.USDC",
       "symbol": "HyperBERA.USDC",
