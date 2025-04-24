@@ -4,13 +4,13 @@
   "protocols": [
     {
       "name": "HUB",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378765/dapps/hub/hoymyj8bfl3xfczeioch.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505341/protocols/berachainhub.png",
       "url": "https://hub.berachain.com",
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
       "name": "BurrBear",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742848966/reward-vaults/icons/daaf3ed9-9779-4854-bc99-6ad21ff42852.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505613/protocols/burrbear.png",
       "url": "https://app.burrbear.io/",
       "description": ""
     },
@@ -22,7 +22,7 @@
     },
     {
       "name": "Infrared Finance",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742841457/reward-vaults/icons/decd0d82-b563-4f82-b9da-8b2f9e9a8101.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745504839/protocols/infrared.png",
       "url": "https://infrared.finance/",
       "description": ""
     },
@@ -34,13 +34,13 @@
     },
     {
       "name": "D2 Finance",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430644/protocols/ash4tmjmgocmvkpxwxcm.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430644/protocols/d2finance.png",
       "url": "https://d2.finance/strategies",
       "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution."
     },
     {
       "name": "Beraborrow",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510826/protocols/d6pf9wceogciddpbgkpy.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505738/protocols/beraborrow.png",
       "url": "https://app.beraborrow.com/",
       "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar"
     },
