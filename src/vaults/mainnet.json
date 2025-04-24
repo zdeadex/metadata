@@ -33,6 +33,12 @@
       "description": "Dolomite is a decentralized money market protocol."
     },
     {
+      "name": "D2 Finance",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430644/protocols/ash4tmjmgocmvkpxwxcm.png",
+      "url": "https://d2.finance/strategies",
+      "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution."
+    },
+    {
       "name": "Beraborrow",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510826/protocols/d6pf9wceogciddpbgkpy.png",
       "url": "https://app.beraborrow.com/",
@@ -842,6 +848,26 @@
       "owner": "HENLO"
     },
     {
+      "stakingTokenAddress": "0x36b933554782b108bb9962ac00c498acbceb706d",
+      "vaultAddress": "0xf53ee7a9ddbcd27f2a50c45f4e7a8e8b0eec043f",
+      "name": "HyperBera.USDC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430686/vaults/d18ofokdlnmjbwcpyhfn.png",
+      "protocol": "D2 Finance",
+      "url": "https://d2.finance/strategies/HyperBera.USDC?chainId=80094&tab=1",
+      "description": "Acquired by deposited USDC.e into the HyperBera.USDC strategy vault on D2 Finance (during funding periods).",
+      "owner": "D2 Finance"
+    },
+    {
+      "stakingTokenAddress": "0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79",
+      "vaultAddress": "0x70c359d85611e9a755997cc59281ef5edb04cf1b",
+      "name": "dgnBeraland",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430537/vaults/p0nih8r2zehi946dab98.png",
+      "protocol": "D2 Finance",
+      "url": "https://d2.finance/strategies/dgnBeraland?chainId=80094&tab=2",
+      "description": "Acquired by deposited USDC.e into the dgnBeraland strategy vault on D2 Finance (during funding periods).",
+      "owner": "D2 Finance"
+    },
+    {
       "stakingTokenAddress": "0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
       "vaultAddress": "0x16e8031814E58F581C8a1d6e087458b5110879Fa",
       "name": "HENLO - WBERA | HENLO ",
@@ -850,6 +876,16 @@
       "url": "https://app.aquabera.com/vault/0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
       "description": "Acquired by depositing liquidity into the Aquabera - WBERA-HENLO Pool on Kodiak.",
       "owner": "HENLO"
+    },
+    {
+      "stakingTokenAddress": "0xD6620E78B89E8fdB5dFA675D55001C7FaD424bDc",
+      "vaultAddress": "0x284f8d4b98fed32f154911102053a0c1ab621fc0",
+      "name": "POLLEN | WBERA Kodiak Island",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745344460/vaults/0x284f8d4b98fed32f154911102053a0c1ab621fc0.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xd6620e78b89e8fdb5dfa675d55001c7fad424bdc?farm=0x284f8d4b98fed32f154911102053a0c1ab621fc0&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into  the POLLEN | WBERA Island on Kodiak",
+      "owner": "Beraborrow"
     }
   ]
 }
