@@ -761,6 +761,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xac04b1AbADF214B57f7Ade1DD905AB7aCac23a6b",
+      "name": "ICHI Vault Liquidity",
+      "symbol": "IV-WASABEE-4-WBERA-wgBERA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745502841/tokens/0xac04b1AbADF214B57f7Ade1DD905AB7aCac23a6b.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xE57D868d244d2Cf2E9679eaBa2A3048E58674565",
+      "name": "ICHI Vault Liquidity",
+      "symbol": "IV-WASABEE-3-WBERA-iBERA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745502888/tokens/0xE57D868d244d2Cf2E9679eaBa2A3048E58674565.png",
+      "tags": []
     }
   ]
 }
