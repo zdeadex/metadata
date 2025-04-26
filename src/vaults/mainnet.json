@@ -886,6 +886,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xd6620e78b89e8fdb5dfa675d55001c7fad424bdc?farm=0x284f8d4b98fed32f154911102053a0c1ab621fc0&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into  the POLLEN | WBERA Island on Kodiak",
       "owner": "Beraborrow"
+    },
+    {
+      "stakingTokenAddress": "0x7f2B60fDff1494A0E3e060532c9980d7fad0404B",
+      "vaultAddress": "0x0ec12590CBb9280ab22b81F62be587c5200A9711",
+      "name": "Dolomite - dHONEY",
+      "protocol": "Dolomite",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684794/vaults/0x0ec12590CBb9280ab22b81F62be587c5200A9711.png",
+      "url": "https://app.dolomite.io/",
+      "description": "Acquire dHONEY by supplying HONEY on Dolomite.io",
+      "owner": ""
     }
   ]
 }
