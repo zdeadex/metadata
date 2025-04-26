@@ -886,6 +886,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xd6620e78b89e8fdb5dfa675d55001c7fad424bdc?farm=0x284f8d4b98fed32f154911102053a0c1ab621fc0&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into  the POLLEN | WBERA Island on Kodiak",
       "owner": "Beraborrow"
+    },
+    {
+      "stakingTokenAddress": "0xaD445256Ff81171043A5e7Cd8831e4371B000176",
+      "vaultAddress": "0x15f1156f56a06af851cbdc0aceb0780bbcb913c4",
+      "name": "Kodiak - OpenState - osBGT/iBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684185/vaults/0x15f1156f56a06af851cbdc0aceb0780bbcb913c4.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xad445256ff81171043a5e7cd8831e4371b000176?farm=0x15f1156f56a06af851cbdc0aceb0780bbcb913c4&chain=berachain_mainnet",
+      "description": "Acquired by staking KODI iBERA-osBGT LP Token from Kodiak",
+      "owner": ""
     }
   ]
 }
