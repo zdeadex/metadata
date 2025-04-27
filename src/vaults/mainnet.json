@@ -912,6 +912,16 @@
       "url": "https://app.dolomite.io/",
       "description": "Acquire dHONEY by supplying HONEY on Dolomite.io",
       "owner": "Dolomite"
+    },
+    {
+      "stakingTokenAddress": "0xAa97D791Afc02AF30cf0B046172bb05b3c306517",
+      "vaultAddress": "0x3d0D211365C8a483394426DAcd5A73b0154FEEDB",
+      "name": "Dolomite - dWBERA",
+      "protocol": "Dolomite",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684642/vaults/0x3d0D211365C8a483394426DAcd5A73b0154FEEDB.png",
+      "url": "https://app.dolomite.io/",
+      "description": "Acquire dwBERA by supplying BERA  on Dolomite.io",
+      "owner": "Dolomite"
     }
   ]
 }
