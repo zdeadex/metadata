@@ -121,6 +121,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684774/protocols/openstate.png",
       "url": "https://openstate.com/?chain=berachain",
       "description": "Openstate enables scalable yield infrastructure. Earn top yields and enjoy instant liquidity for BGT and more - all on Openstate."
+    },
+    {
+      "name": "Bearn",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745934109/protocols/Bearn.png",
+      "url": "https://bearn.sucks/",
+      "description": "BGT liquid locker and autocompounder"
     }
   ],
   "vaults": [
@@ -922,6 +928,16 @@
       "url": "https://app.dolomite.io/",
       "description": "Acquire dwBERA by supplying BERA  on Dolomite.io",
       "owner": "Dolomite"
+    },
+    {
+      "stakingTokenAddress": "0x5347e5133b22A680Ee94b7e62803E848F8d8C92e",
+      "vaultAddress": "0xbD3d6db7b600B18252e2D5d21f29C5E61e1e3f05",
+      "name": "BEARN - yBGT | yBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745934110/vaults/0xbD3d6db7b600B18252e2D5d21f29C5E61e1e3f05.jpg",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e?chain=berachain_mainnet",
+      "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
+      "owner": "Bearn"
     }
   ]
 }
