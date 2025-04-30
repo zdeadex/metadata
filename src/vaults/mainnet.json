@@ -121,6 +121,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684774/protocols/openstate.png",
       "url": "https://openstate.com/?chain=berachain",
       "description": "Openstate enables scalable yield infrastructure. Earn top yields and enjoy instant liquidity for BGT and more - all on Openstate."
+    },
+    {
+      "name": "ZeroLend",
+      "logoURI": "https://i.ibb.co/nsGRcVSM/zerolend.jpg",
+      "url": "https://zerolend.xyz",
+      "description": "ZeroLend is lending platform to lend/borrow medium and long-tail assets."
     }
   ],
   "vaults": [
@@ -922,6 +928,16 @@
       "url": "https://app.dolomite.io/",
       "description": "Acquire dwBERA by supplying BERA  on Dolomite.io",
       "owner": "Dolomite"
+    },
+        {
+      "stakingTokenAddress": "0x112b77a77753b092306b1c04bd70215fed4e00a1",
+      "vaultAddress": "0xe4c24b1da97325b183df8e4e489d54d2f6e15d58",
+      "name": "NECT - Euler",
+      "protocol": "Euler",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510678/tokens/pnjzpr95iabxbm3x4eql.png",
+      "url": "https://app.euler.finance/vault/0x112B77A77753b092306b1c04Bd70215FeD4e00a1?network=berachain",
+      "description": "Acquire eNECT-1 by supplying NECT on the ZeroLend market on Euler",
+      "owner": "ZeroLend"
     }
   ]
 }
