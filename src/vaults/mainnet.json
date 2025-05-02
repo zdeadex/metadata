@@ -129,6 +129,12 @@
       "description": "BGT liquid locker and autocompounder"
     },
     {
+      "name": "GetRichQuick",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746108622/protocols/GetRichQuick.png",
+      "url": "https://www.grq.institute/",
+      "description": "A parody-powered financial experiment designed for degens, dreamers, and anyone who's ever ignored a \"DYOR\" warning."
+    },
+    {
       "name": "BULL ISH",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
       "url": "https://game.bullas.xyz/",
@@ -944,6 +950,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e?chain=berachain_mainnet",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "Bearn"
+    },
+    {
+      "stakingTokenAddress": "0x68Cac522833F38E088EEC5e356956C02F0268063",
+      "vaultAddress": "0xa7782ff04de0e7f7084eedb364f485efed3fcc49",
+      "name": "GRQ-WBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746108623/vaults/0xa7782ff04de0e7f7084eedb364f485efed3fcc49.jpg",
+      "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0xcA9088895e3390E503cac9ae95abaccdba20822e?chain=berachain_mainnet",
+      "description": "Stake GRQ-WBERA LP on our platform to earn sGRQ and BGT rewards.",
+      "owner": "GetRichQuick"
     },
     {
       "stakingTokenAddress": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
