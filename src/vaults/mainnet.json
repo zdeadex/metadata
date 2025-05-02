@@ -134,6 +134,7 @@
       "url": "https://www.bedrock.technology/",
       "description": "Bedrock is the first multi-asset liquid restaking protocol, pioneering Bitcoin staking with uniBTC."
     },
+    {
       "name": "BULL ISH",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
       "url": "https://game.bullas.xyz/",
@@ -960,6 +961,7 @@
       "description": "Acquired by depositing liquidity into the Bedrock - brBTC | uniBTC Pool on Kodiak",
       "owner": "Bedrock"
     },
+    {
       "stakingTokenAddress": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
       "vaultAddress": "0x7E6E4DacFF9aB49804667e1d7B76E921a8fbBE44",
       "name": "Bull Ish V2",
