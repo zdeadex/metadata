@@ -824,6 +824,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745934111/tokens/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e.jpg",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
+      "name": "BULL ISH V2",
+      "symbol": "BULL ISH V2",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746110153/tokens/0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C.jpg",
+      "tags": []
     }
   ]
 }
