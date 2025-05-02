@@ -656,8 +656,8 @@
       "owner": "Wasabee"
     },
     {
-      "stakingTokenAddress": "0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc",
-      "vaultAddress": "0xfdDD0A98E6A3e447fE80ace97497B305A87FF716",
+      "stakingTokenAddress": "0x7cEC734717d8C45a02A1218934B6AacEF00C392a",
+      "vaultAddress": "0x826e962E4216BFF7bAA8bEd30e498a7B84bA6ABA",
       "name": "Euler - EVK Vault eHONEY-1",
       "protocol": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533405/tokens/dnhhcqnluuosehi0sriv.png",
@@ -666,18 +666,18 @@
       "owner": "Euler"
     },
     {
-      "stakingTokenAddress": "0x89FD57175EcEEC45992e07c206e5A864Fa6aF433",
-      "vaultAddress": "0x31678555425C773c93F8DC6c1297eB224456B0B0",
+      "stakingTokenAddress": "0x4d89c3854a46Ffe46244dC30bF28B9b2ef7f800b",
+      "vaultAddress": "0x58c2eE02ec4eAc887FEEd112cccE28ae9602fe64",
       "name": "Euler - EVK Vault eHONEY-2",
       "protocol": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533423/tokens/yrqz3lw0epqgdflcmhyg.png",
       "url": "https://app.euler.finance/vault/0x89FD57175EcEEC45992e07c206e5A864Fa6aF433?network=berachain",
-      "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
+      "description": "Acquired by depositing HONEY into the Re7 Labs HONEY Vault on Euler",
       "owner": "Euler"
     },
     {
-      "stakingTokenAddress": "0x027DcAfB223f69d41Bd413C50854017718419585",
-      "vaultAddress": "0x4426220787Fb7C195677BC1753C14E84f9a7692C",
+      "stakingTokenAddress": "0xAf3Ab50BdAeA7aCfa07FAd209bbAd504F28c8BCF",
+      "vaultAddress": "0xab1eCd0d1B6730C059A686115741CB131f804368",
       "name": "Euler - EVK Vault eHONEY-3",
       "protocol": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743533444/tokens/m989y6nbek5eajnczkik.png",
