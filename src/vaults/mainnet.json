@@ -127,6 +127,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745934109/protocols/Bearn.png",
       "url": "https://bearn.sucks/",
       "description": "BGT liquid locker and autocompounder"
+    },
+    {
+      "name": "BULL ISH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
+      "url": "https://game.bullas.xyz/",
+      "description": "Bull Ish is a Proof of Liquidity game where users spend BERA to 'spank a bera,' placing them in a queue to earn BGT while depositing the square root of their spank power into the Berachain vault."
     }
   ],
   "vaults": [
@@ -938,6 +944,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e?chain=berachain_mainnet",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "Bearn"
+    },
+    {
+      "stakingTokenAddress": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
+      "vaultAddress": "0x7E6E4DacFF9aB49804667e1d7B76E921a8fbBE44",
+      "name": "Bull Ish V2",
+      "protocol": "BULL ISH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746110086/vaults/0x7E6E4DacFF9aB49804667e1d7B76E921a8fbBE44.png",
+      "url": "https://game.bullas.xyz/",
+      "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
+      "owner": "BULL ISH"
     }
   ]
 }
