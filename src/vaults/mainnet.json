@@ -9,6 +9,12 @@
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
+      "name": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505613/protocols/burrbear.png",
+      "url": "https://app.concrete.xyz",
+      "description": "Concrete is the DeFi Liquidity Metalayer"
+    },
+    {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505613/protocols/burrbear.png",
       "url": "https://app.burrbear.io/",
@@ -976,6 +982,146 @@
       "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0xcA9088895e3390E503cac9ae95abaccdba20822e?chain=berachain_mainnet",
       "description": "Stake GRQ-WBERA LP on our platform to earn sGRQ and BGT rewards.",
       "owner": "GetRichQuick"
+    },
+    {
+      "stakingTokenAddress": "0xe96E0D5DdA2e24050F43AF92EbB3293f6e605C9a",
+      "vaultAddress": "0x52fe4126d6991d1095369dfe1a8ca17fd1aa401b",
+      "name": "Concrete - USDT",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/stables/0xe96E0D5DdA2e24050F43AF92EbB3293f6e605C9a",
+      "description": "Acquired by depositing USDT0 into Concrete’s Berachain Stables vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x585934AfBf1FA9f563b80283F8B916Dd8F66a9b6",
+      "vaultAddress": "0x9a4CCbbA792ea0f64D62f15416517fcd9ce30283",
+      "name": "Concrete - USDe",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/stables/0x585934AfBf1FA9f563b80283F8B916Dd8F66a9b6",
+      "description": "Acquired by depositing USDe into Concrete’s Berachain Stables vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xc3cac88fd629652BBe0C3454D5d3049368A73849",
+      "vaultAddress": "0xd5e8006cb675d6556915e92c6253e5a9b9df5431",
+      "name": "Concrete - USDC",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/stables/0xc3cac88fd629652BBe0C3454D5d3049368A73849",
+      "description": "Acquired by depositing USDC.e into Concrete’s Berachain Stables vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x81235952ad93987F74e074994Def2a7e1D6F1Fb0",
+      "vaultAddress": "0x41abc5119830bedf86a3c587f50db41400ffee96",
+      "name": "Concrete - HONEY",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/stables/0x81235952ad93987F74e074994Def2a7e1D6F1Fb0",
+      "description": "Acquired by depositing HONEY into Concrete’s Berachain Stables vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xd08E3652e6b29EBdD58fe93B422513862FB49899",
+      "vaultAddress": "0xffb155ef53cb08a0722c9eeeea5cb362d77ba125",
+      "name": "Concrete - sUSDe",
+      "protocol": "Concrete ",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/stables/0xd08E3652e6b29EBdD58fe93B422513862FB49899",
+      "description": "Acquired by depositing sUSDe into Concrete’s Berachain Stables vault",
+      "owner": "Concrete "
+    },
+    {
+      "stakingTokenAddress": "0x8d3e53f5521927E5c78D42B4f9e08ae8DF91B772",
+      "vaultAddress": "0x238cb854d644cb9b7a08e65eb803bffc05cfb834",
+      "name": "Concrete - WETH",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/ethereum/0x8d3e53f5521927E5c78D42B4f9e08ae8DF91B772",
+      "description": "Acquired by depositing WETH into Concrete’s Berachain Ethereum vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x49BEE393825BBAC404fEfE6E24f34854f30905D2",
+      "vaultAddress": "0xf59e889f55777cd5a8dddca918500c5d062c8a57",
+      "name": "Concrete - BeraETH",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/ethereum/0x49BEE393825BBAC404fEfE6E24f34854f30905D2",
+      "description": "Acquired by depositing BeraETH into Concrete’s Berachain Ethereum vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xB6E3C1154e07f8a3dc04a9a28648C7AA30511120",
+      "vaultAddress": "0x894d3d9d4542a307a3c76c82695bf5581fcc1383",
+      "name": "Concrete - LBTC",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/bitcoin/0xB6E3C1154e07f8a3dc04a9a28648C7AA30511120",
+      "description": "Acquired by depositing LBTC into Concrete’s Berachain Bitcoin vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x335e7b56054F830883D1509AFDce58DedceFb29C",
+      "vaultAddress": "0x4132997563d7621644a13a2dfeb925df527455d6",
+      "name": "Concrete - WBTC",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/bitcoin/0x335e7b56054F830883D1509AFDce58DedceFb29C",
+      "description": "Acquired by depositing WBTC into Concrete’s Berachain Bitcoin vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x068D072d1ee7647B9d649a7C2046166Aa81af3D3",
+      "vaultAddress": "0xDd31Db00885C948F1A30Ce28678dF8Ad63B15bB6",
+      "name": "Concrete - uniBTC",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/bitcoin/0x068D072d1ee7647B9d649a7C2046166Aa81af3D3",
+      "description": "Acquired by depositing uniBTC into Concrete’s Berachain Bitcoin vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0x127BF6361ff7495F2A69d83d9Ad2092D3dfEE7Ab",
+      "vaultAddress": "0x040f89fcbae6ce2b3fbe47fc84b1248c91d716c2",
+      "name": "Concrete - FBTC",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/bitcoin/0x127BF6361ff7495F2A69d83d9Ad2092D3dfEE7Ab",
+      "description": "Acquired by depositing FTBC into Concrete’s Berachain Bitcoin vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
+      "vaultAddress": "0xea31ae7f4b4205badba164b1469e8f71de9ea867",
+      "name": "Concrete - BERA",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berachain/bera/0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
+      "description": "Acquired by depositing BERA or WBERA into Concrete’s Berachain Bera vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xe49Ff31B2B3Fd346b0d1832d9fE224ee0d1c1F9e",
+      "vaultAddress": "0x310532d9d047c5972cd60852c1a4b675edc55fad",
+      "name": "Concrete x Berabaddies - HONEY",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berabaddies/earn/0xe49Ff31B2B3Fd346b0d1832d9fE224ee0d1c1F9e",
+      "description": "Acquired by depositing HONEY into Concrete’s Berabaddies Earn Vault",
+      "owner": "Concrete"
+    },
+    {
+      "stakingTokenAddress": "0xA15E1De8a220Ca9C63DB4E8a1E9043fb953B3713",
+      "vaultAddress": "0x6e0a95f6ac86ead002d58c83fc1b5a712ee9be7c",
+      "name": "Concrete x Berabaddies - BERA",
+      "protocol": "Concrete",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1738378469/reward-vaults/icons/xqepqh4lifyybbt27f20.png",
+      "url": "https://app.concrete.xyz/vaults/berabaddies/earn/0xA15E1De8a220Ca9C63DB4E8a1E9043fb953B3713",
+      "description": "Acquired by depositing BERA or WBERA into Concrete’s Berabaddies Earn Vault",
+      "owner": "Concrete"
     },
     {
       "stakingTokenAddress": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
