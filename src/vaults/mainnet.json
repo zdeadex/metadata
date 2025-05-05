@@ -151,6 +151,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
       "url": "https://game.bullas.xyz/",
       "description": "Bull Ish is a Proof of Liquidity game where users spend BERA to 'spank a bera,' placing them in a queue to earn BGT while depositing the square root of their spank power into the Berachain vault."
+    },
+    {
+      "name": "BeraPaw",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746111634/protocols/berapaw.png",
+      "url": "https://www.berapaw.com/",
+      "description": "BeraPaw is an innovative liquid staking protocol that converts Berachain’s native token into a more versatile and liquid asset, providing users with a seamless and hassle-free experience."
     }
   ],
   "vaults": [
