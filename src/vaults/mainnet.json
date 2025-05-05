@@ -157,6 +157,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746111634/protocols/berapaw.png",
       "url": "https://www.berapaw.com/",
       "description": "BeraPaw is an innovative liquid staking protocol that converts Berachain’s native token into a more versatile and liquid asset, providing users with a seamless and hassle-free experience."
+    },
+    {
+      "name": "SX Bet",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
+      "url": "https://bera.bet/",
+      "description": "On-chain sports betting exchange"
     }
   ],
   "vaults": [
@@ -1138,6 +1144,16 @@
       "url": "https://game.bullas.xyz/",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "BULL ISH"
+    },
+    {
+      "stakingTokenAddress": "0xe87E5456Cc78578D1FcD95048FA639e5e32eE63A",
+      "vaultAddress": "0xd1dCa482d1AF3C2e23749a965Db3A74c4E29B928",
+      "name": "SX Bet - Bera Betting Rewards",
+      "protocol": "SX bet",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746467048/vaults/vsig2fewygwoxlvccbzd.png",
+      "url": "https://www.bera.bet/",
+      "description": "Bet on SX Bet (bera.bet) and earn SXBRT",
+      "owner": "SX Bet"
     }
   ]
 }
