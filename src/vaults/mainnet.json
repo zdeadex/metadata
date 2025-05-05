@@ -301,6 +301,16 @@
       "owner": "Beramonium"
     },
     {
+      "stakingTokenAddress": "0x3000C6BF0AAEb813e252B584c4D9a82f99e7a71D",
+      "vaultAddress": "0x9136df2daabe52a97340cce8c53d4c1314d52c18",
+      "name": "Reservoir | Dolomite - drUSD",
+      "protocol": "Dolomite",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746464620/vaults/pprfrluikvd2qto1xxsn.png",
+      "url": "https://app.dolomite.io/balances",
+      "description": "Acquired by depositing rUSD into Dolomite",
+      "owner": "Dolomite"
+    },
+    {
       "stakingTokenAddress": "0x1fb6c1aDE4F9083b2EA42ED3fa9342e41788D4b5",
       "vaultAddress": "0xc6De36eceD67db9c17919708865b3eE94a7D987C",
       "name": "Reservoir | Tether - rUSD-USD₮0",
