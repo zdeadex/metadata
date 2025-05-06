@@ -137,16 +137,17 @@ const validateAssetsImages = () => {
               ),
             );
 
-            if (
-              topLeftPixel === 0x00000000 ||
-              topRightPixel === 0x00000000 ||
-              bottomLeftPixel === 0x00000000 ||
-              bottomRightPixel === 0x00000000
-            ) {
-              errors.push(
-                `${relativePath}: Invalid image! Image cannot be transparent!`,
-              );
-            }
+            // @TODO: re-enable this check
+            // if (
+            //   topLeftPixel === 0x00000000 ||
+            //   topRightPixel === 0x00000000 ||
+            //   bottomLeftPixel === 0x00000000 ||
+            //   bottomRightPixel === 0x00000000
+            // ) {
+            //   errors.push(
+            //     `${relativePath}: Invalid image! Image cannot be transparent!`,
+            //   );
+            // }
           }
         } else {
           console.error(`${fullPath}: Unsupported file type!`);

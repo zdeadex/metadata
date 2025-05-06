@@ -169,6 +169,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746467048/vaults/vsig2fewygwoxlvccbzd.png",
       "url": "https://bera.bet/",
       "description": "On-chain sports betting exchange"
+    },
+    {
+      "name": "Ether.fi",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://www.ether.fi",
+      "description": "Save, grow, spend."
     }
   ],
   "vaults": [
@@ -1209,6 +1215,116 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746489354/vaults/uhozqpke4jhxf8z5akhl.jpg",
       "url": "https://hub.berachain.com/vaults/0x0308f87226efacc51983bea842be57dc45de772c/",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | WETH Island on Kodiak",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0xAc8a437d1e6905E419431662AEAd90fB04ac3008",
+      "vaultAddress": "0x9BC3D407D930910a7aF515D473Ce9633624C1574",
+      "name": "BurrBear - BURR | wgBERA",
+      "protocol": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x9BC3D407D930910a7aF515D473Ce9633624C1574.jpg",
+      "url": "https://app.burrbear.io/#/berachain/pool/0xac8a437d1e6905e419431662aead90fb04ac300800020000000000000000000f",
+      "description": "Acquired by depositing liquidity into the BURR | wgBERA Pool on BurrBear",
+      "owner": "BurrBear"
+    },
+    {
+      "stakingTokenAddress": "0x46fcd35431f5B371224ACC2e2E91732867B1A77e",
+      "vaultAddress": "0x063df07b032e838de70165cdc39587a21910786e",
+      "name": "Ether.fi - primeLiquidBeraBTC",
+      "protocol": "Ether.fi",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.ether.fi/liquid/bera-btc",
+      "description": "Ether.fi - primeLiquidBeraBTC",
+      "owner": "Ether.fi"
+    },
+    {
+      "stakingTokenAddress": "0xB83742330443f7413DBD2aBdfc046dB0474a944e",
+      "vaultAddress": "0xaab94d5178350b10fd772bed446ddee43eaeba46",
+      "name": "Ether.fi - primeLiquidBeraETH",
+      "protocol": "Ether.fi",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.ether.fi/liquid/bera-eth",
+      "description": "Ether.fi - primeLiquidBeraETH",
+      "owner": "Ether.fi"
+    },
+    {
+      "stakingTokenAddress": "0x24afcEB372b755F4953e738d6b38E9e4646D9F57",
+      "vaultAddress": "0x199f156bba61496401dc2a009b5f69eb9a7e6f21",
+      "name": "KODI iBERA-iBGT",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "KODI iBERA-iBGT",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0xf6c6Be0FF6d6F70A04dBE4F1aDE62cB23053Bd95",
+      "vaultAddress": "0xc6506d205c92f9acd69779ed0c547557f3ad4607",
+      "name": "KODI WETH-HONEY",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "KODI WETH-HONEY",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x88c983bf3d4A9Adcee14e1b4f1C446c4C5853EA3",
+      "vaultAddress": "0x25acec3a1766a0d02d7c8e22f48533d32d7b311b",
+      "name": "KODI iBERA-wgBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "KODI iBERA-wgBERA",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
+      "vaultAddress": "0xf3bdf754b4691286090090d601f77384da9fb721",
+      "name": "Beradrome Kodiak WBERA-LOCKS-V2",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://www.beradrome.com/",
+      "description": "Beradrome Kodiak WBERA-LOCKS-V2",
+      "owner": "Beradrome"
+    },
+    {
+      "stakingTokenAddress": "0xd6eb8ae479EdF452d264493708c85AA798CCCdFd",
+      "vaultAddress": "0xc70e2af5eede9431536314bbbdf884e20179e3b7",
+      "name": "duniBTC",
+      "protocol": "Hub",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0xc70e2af5eede9431536314bbbdf884e20179e3b7/",
+      "description": "duniBTC",
+      "owner": "duniBTC"
+    },
+    {
+      "stakingTokenAddress": "0x2BDB8C39A3808eB9A03dE69925b6b158A57c57e6",
+      "vaultAddress": "0x6135e9e556b7aaaf66d2d6e8e47b96e2de6b602f",
+      "name": "KODI WBERA-AVL",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "KODI WBERA-AVL",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x5e4Fe86C4f6fB2203fbFb77FD6eC3Cb300B639AA",
+      "vaultAddress": "0x2461040526130a0ea1a0ed44b9c9d3331f3897ff",
+      "name": "KODI DOLO-WBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "KODI DOLO-WBERA",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x53f786662FF5fbeC135f913ab93C6B3366e90a46",
+      "vaultAddress": "0x1cc12219dada26bd8bb6831b6c3063de17f9d399",
+      "name": "50aSUGAR-50HONEY-WEIGHTED",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.kodiak.finance/",
+      "description": "50aSUGAR-50HONEY-WEIGHTED",
       "owner": "Kodiak"
     }
   ]
