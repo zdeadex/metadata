@@ -15,6 +15,12 @@
       "description": "Concrete is the DeFi Liquidity Metalayer"
     },
     {
+      "name": "WeBera",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746540470/protocols/apc2lm6dzmxjj9o8pjio.png",
+      "url": "https://webera.finance/",
+      "description": "WeBera is a permissionless yield abstraction layer designed to simplify participation in DeFi on the Berachain ecosystem."
+    },
+    {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505613/protocols/burrbear.png",
       "url": "https://app.burrbear.io/",
