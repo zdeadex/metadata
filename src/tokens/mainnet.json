@@ -835,6 +835,7 @@
       "tags": []
     },
     {
+      "chainId": 80094,
       "address": "0x68Cac522833F38E088EEC5e356956C02F0268063",
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
