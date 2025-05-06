@@ -887,6 +887,18 @@
       "decimals": 8,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746505862/tokens/0xd6eb8ae479EdF452d264493708c85AA798CCCdFd.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x28e0e3B9817012b356119dF9e217c25932D609c2",
+      "name": "Burr Governance Token",
+      "symbol": "BURR",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55134/large/BURR_Token_logo.png?1744006499",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "burr-governance-token"
+      }
     }
   ]
 }
