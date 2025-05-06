@@ -1268,10 +1268,10 @@
       "vaultAddress": "0x199f156bba61496401dc2a009b5f69eb9a7e6f21",
       "name": "KODI iBERA-iBGT",
       "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746544756/vaults/f9cj6ke0qszjyljy324v.png",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x24afceb372b755f4953e738d6b38e9e4646d9f57?farm=0x199f156bba61496401dc2a009b5f69eb9a7e6f21&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the iBERA-iBGT Pool on Kodiak",
-      "owner": "Kodiak"
+      "owner": "Infrared"
     },
     {
       "stakingTokenAddress": "0xf6c6Be0FF6d6F70A04dBE4F1aDE62cB23053Bd95",
@@ -1288,18 +1288,18 @@
       "vaultAddress": "0x25acec3a1766a0d02d7c8e22f48533d32d7b311b",
       "name": "KODI iBERA-wgBERA",
       "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.kodiak.finance/",
-      "description": "KODI iBERA-wgBERA",
-      "owner": "Kodiak"
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746537459/vaults/cmjqyekbneijzmqwftq9.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x88c983bf3d4a9adcee14e1b4f1c446c4c5853ea3?farm=0x25acec3a1766a0d02d7c8e22f48533d32d7b311b&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the iBERA-wgBERA Pool on Kodiak",
+      "owner": "Smilee"
     },
     {
       "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
       "vaultAddress": "0xf3bdf754b4691286090090d601f77384da9fb721",
       "name": "Beradrome Kodiak WBERA-LOCKS-V2",
       "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://www.beradrome.com/",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746541685/vaults/wy69tcudpjlzyktsqgeg.png",
+      "url": "https://www.beradrome.com/farms/0x74A38Bfeedd95f65cbBF72eEDf01EAC77778bcF9",
       "description": "Beradrome Kodiak WBERA-LOCKS-V2",
       "owner": "Beradrome"
     },
@@ -1319,19 +1319,19 @@
       "name": "KODI WBERA-AVL",
       "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.kodiak.finance/",
-      "description": "KODI WBERA-AVL",
-      "owner": "Kodiak"
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x2bdb8c39a3808eb9a03de69925b6b158a57c57e6?farm=0x6135e9e556b7aaaf66d2d6e8e47b96e2de6b602f&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the WBERA-AVL Pool on Kodiak",
+      "owner": "Avalon"
     },
     {
       "stakingTokenAddress": "0x5e4Fe86C4f6fB2203fbFb77FD6eC3Cb300B639AA",
       "vaultAddress": "0x2461040526130a0ea1a0ed44b9c9d3331f3897ff",
       "name": "KODI DOLO-WBERA",
       "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.kodiak.finance/",
-      "description": "KODI DOLO-WBERA",
-      "owner": "Kodiak"
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746544756/vaults/p6lxbzhntjy3ijnmrvhb.jpg",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x5e4fe86c4f6fb2203fbfb77fd6ec3cb300b639aa?farm=0x2461040526130a0ea1a0ed44b9c9d3331f3897ff&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the DOLO-WBERA Pool on Kodiak",
+      "owner": "Dolomite"
     },
     {
       "stakingTokenAddress": "0x53f786662FF5fbeC135f913ab93C6B3366e90a46",
@@ -1340,7 +1340,7 @@
       "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/",
-      "description": "50aSUGAR-50HONEY-WEIGHTED",
+      "description": "Acquired by depositing liquidity into the 50aSUGAR-50HONEY-WEIGHTED Pool on Kodiak",
       "owner": "Kodiak"
     },
     {
