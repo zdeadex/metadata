@@ -827,6 +827,15 @@
     },
     {
       "chainId": 80094,
+      "address": "0x1ac0E38eE5f66F6fa46E1644BB6B73bEe598b953",
+      "name": "Kodiak Island brBTC-uniBTC-0.05%",
+      "symbol": "KODI brBTC-uniBTC",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745989732/tokens/0x1ac0E38eE5f66F6fa46E1644BB6B73bEe598b953.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
       "address": "0x68Cac522833F38E088EEC5e356956C02F0268063",
       "name": "Uniswap V2",
       "symbol": "UNI-V2",
