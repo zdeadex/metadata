@@ -860,6 +860,24 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534541/tokens/0x28e0e3B9817012b356119dF9e217c25932D609c2.jpg",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x46fcd35431f5B371224ACC2e2E91732867B1A77e",
+      "name": "Prime Ether.Fi Liquid Bera BTC",
+      "symbol": "primeLiquidBeraBTC",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xB83742330443f7413DBD2aBdfc046dB0474a944e",
+      "name": "Prime Ether.Fi Liquid Bera ETH",
+      "symbol": "primeLiquidBeraETH",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "tags": []
     }
   ]
 }
