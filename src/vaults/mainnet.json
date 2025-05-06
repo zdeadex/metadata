@@ -1263,8 +1263,8 @@
       "name": "KODI iBERA-iBGT",
       "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.kodiak.finance/",
-      "description": "KODI iBERA-iBGT",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x24afceb372b755f4953e738d6b38e9e4646d9f57?farm=0x199f156bba61496401dc2a009b5f69eb9a7e6f21&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the iBERA-iBGT Pool on Kodiak",
       "owner": "Kodiak"
     },
     {
