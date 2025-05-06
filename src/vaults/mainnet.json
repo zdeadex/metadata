@@ -1130,7 +1130,7 @@
       "vaultAddress": "0xea31ae7f4b4205badba164b1469e8f71de9ea867",
       "name": "Concrete - BERA",
       "protocol": "Concrete",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_btc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_bera.png",
       "url": "https://app.concrete.xyz/vaults/berachain/bera/0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
       "description": "Acquired by depositing BERA or WBERA into Concrete’s Berachain Bera vault",
       "owner": "Concrete"
@@ -1174,6 +1174,26 @@
       "url": "https://www.bera.bet/",
       "description": "Bet on SX Bet (bera.bet) and earn SXBRT",
       "owner": "SX Bet"
+    },
+    {
+      "stakingTokenAddress": "0xf6b16E73d3b0e2784AAe8C4cd06099BE65d092Bf",
+      "vaultAddress": "0x9Df027Ed06635ecDfe811009f2291d347eA90357",
+      "name": "Kodiak - WBTC | HONEY",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746488545/vaults/upc8cajystcwryckwhnt.jpg",
+      "url": "https://hub.berachain.com/vaults/0x9df027ed06635ecdfe811009f2291d347ea90357/",
+      "description": "Acquired by depositing liquidity into the Kodiak - WBTC | HONEY Island on Kodiak",
+      "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x58FDB6EEbf7df7Ce4137994436fb0e629Bb84b84",
+      "vaultAddress": "0x0308f87226efaCC51983bEa842Be57Dc45dE772c",
+      "name": "Kodiak - WBTC | WETH",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746489354/vaults/uhozqpke4jhxf8z5akhl.jpg",
+      "url": "https://hub.berachain.com/vaults/0x0308f87226efacc51983bea842be57dc45de772c/",
+      "description": "Acquired by depositing liquidity into the Kodiak - WBTC | WETH Island on Kodiak",
+      "owner": "Kodiak"
     }
   ]
 }
