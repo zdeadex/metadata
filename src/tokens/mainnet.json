@@ -899,6 +899,15 @@
       "extensions": {
         "coingeckoId": "burr-governance-token"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xedb5180661f56077292c92ab40b1ac57a279a396",
+      "name": "Roots Stable",
+      "symbol": "MEAD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/0xedb5180661f56077292c92ab40b1ac57a279a396.jpg",
+      "tags": ["stablecoin"]
     }
   ]
 }
