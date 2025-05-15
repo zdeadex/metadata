@@ -915,7 +915,7 @@
       "name": "Lair",
       "symbol": "LAIR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747305832/tokens/0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C.png",
       "tags": []
     }
   ]
