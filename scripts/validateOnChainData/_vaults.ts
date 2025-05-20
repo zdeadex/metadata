@@ -14,7 +14,7 @@ export async function validateVaults(errors: string[], file) {
         return;
       }
 
-      if (!isAddress(vault.stakingTokenAddress)) {
+      if (!isAddress(vault.stakingTokenAddress, { strict: true })) {
         errors.push(
           formatAnnotation({
             rawContent,

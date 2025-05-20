@@ -187,6 +187,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747147250/protocols/Solv%20Protocol.png",
       "url": "https://solv.finance/",
       "description": "Solv Protocol is a platform that offers a comprehensive set of financial services for Bitcoin holders, including lending, liquid staking, yield generation, and fund management. Powered by a large on-chain Bitcoin reserve, Solv unlocks the potential of Bitcoin's $1 trillion market."
+    },
+    {
+      "name": "Beramonium",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747689325/protocols/Beramonium.png",
+      "url": "https://beramonium.io",
+      "description": "Beramonium is an idle-RPG & economic strategy game on Berachain"
     }
   ],
   "vaults": [
@@ -292,7 +298,7 @@
     },
     {
       "stakingTokenAddress": "0x2461e93D5963C2bB69de499676763E67A63c7Ba5",
-      "vaultAddress": "0xf3BDf754B4691286090090D601f77384dA9FB721",
+      "vaultAddress": "0xCB522875373c5DB79F4B0816B381b4461d07B1af",
       "name": "WBERA - LOCKS Beradrome Kodiak V2 LP",
       "protocol": "Beradrome",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746541685/vaults/wy69tcudpjlzyktsqgeg.png",
