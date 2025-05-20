@@ -1448,6 +1448,16 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xcbef1b65399065c2de2c495971e90466ff38f2d000000000000000000000001e",
       "description": "Acquired by depositing liquidity into the WBTC | SolvBTC | xSolvBTC Pool on BurrBear",
       "owner": "BurrBear"
+    },
+    {
+      "stakingTokenAddress": "0x7aEF016302C3a27417372CF3AA74A1708D1ca291",
+      "vaultAddress": "0xbc8c3d0cecef980e1f4a4775bd354614be163556",
+      "name": "Kodiak - BERAMO | BERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747689328/vaults/0xbc8c3d0cecef980e1f4a4775bd354614be163556.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x7aef016302c3a27417372cf3aa74a1708d1ca291?farm=0xbc8c3d0cecef980e1f4a4775bd354614be163556&chain=berachain_mainnet",
+      "description": "Acquired by depositing liquidity into the BERAMO | BERA pool on Kodiak",
+      "owner": "Beramonium"
     }
   ]
 }
