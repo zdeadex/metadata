@@ -1438,6 +1438,16 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x10990bf8c7cbc045ed482ed83dc44cbcda23ca23000200000000000000000019",
       "description": "Acquired by depositing liquidity into the NECT | iNVDA Pool on BurrBear",
       "owner": "BurrBear"
+    },
+    {
+      "stakingTokenAddress": "0xCbeF1B65399065c2DE2C495971e90466ff38f2d0",
+      "vaultAddress": "0x576374e222ec51608f9631f074536B9f897d2638",
+      "name": "BurrBear - WBTC | SolvBTC | xSolvBTC",
+      "protocol": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x576374e222ec51608f9631f074536B9f897d2638.png",
+      "url": "https://app.burrbear.io/#/berachain/pool/0xcbef1b65399065c2de2c495971e90466ff38f2d000000000000000000000001e",
+      "description": "Acquired by depositing liquidity into the WBTC | SolvBTC | xSolvBTC Pool on BurrBear",
+      "owner": "BurrBear"
     }
   ]
 }
