@@ -303,7 +303,7 @@
       "owner": "Stride"
     },
     {
-      "stakingTokenAddress": "0x36fa291f4a4ae41e4be2a979136ebd7eb97950e7",
+      "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
       "vaultAddress": "0xf3BDf754B4691286090090D601f77384dA9FB721",
       "name": "WBERA - LOCKS Beradrome Kodiak V2 LP",
       "protocol": "Beradrome",
@@ -1320,16 +1320,6 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x88c983bf3d4a9adcee14e1b4f1c446c4c5853ea3?farm=0x25acec3a1766a0d02d7c8e22f48533d32d7b311b&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the iBERA-wgBERA Pool on Kodiak",
       "owner": "Smilee"
-    },
-    {
-      "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
-      "vaultAddress": "0xf3bdf754b4691286090090d601f77384da9fb721",
-      "name": "Beradrome Kodiak WBERA-LOCKS-V2",
-      "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746541685/vaults/wy69tcudpjlzyktsqgeg.png",
-      "url": "https://www.beradrome.com/farms/0x74A38Bfeedd95f65cbBF72eEDf01EAC77778bcF9",
-      "description": "Beradrome Kodiak WBERA-LOCKS-V2",
-      "owner": "Beradrome"
     },
     {
       "stakingTokenAddress": "0xd6eb8ae479EdF452d264493708c85AA798CCCdFd",
