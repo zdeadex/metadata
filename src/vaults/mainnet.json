@@ -193,6 +193,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747689325/protocols/Beramonium.png",
       "url": "https://beramonium.io",
       "description": "Beramonium is an idle-RPG & economic strategy game on Berachain"
+    },
+    {
+      "name": "HoneyFun AI",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747147250/protocols/HoneyFun%20AI.png",
+      "url": "https://app.honey.fun/",
+      "description": "We're bringing virtuals to Berachain. Create your memecoin/AI Agent in few clicks."
     }
   ],
   "vaults": [
@@ -1464,6 +1470,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x7aef016302c3a27417372cf3aa74a1708d1ca291?farm=0xbc8c3d0cecef980e1f4a4775bd354614be163556&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BERAMO | BERA pool on Kodiak",
       "owner": "Beramonium"
+    },
+    {
+      "stakingTokenAddress": "0x217B9476Ecd8783C59ED0ed64C359B8F2b9cCd3a",
+      "vaultAddress": "0x9a60189fc1372fab170fe642d162fc972b6ac31b",
+      "name": "HoneyFun AI - AIBERA | WBERA",
+      "protocol": "HoneyFun AI",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x9a60189fc1372fab170fe642d162fc972b6ac31b.png",
+      "url": "https://v3.info.kodiak.finance/#/berachain_mainnet/pools/0x6ff710767d7aa77f9d0a83d6b14086834570f30d",
+      "description": "Acquired by depositing liquidity into the AIBERA | WBERA Pool on Kodiak",
+      "owner": "HoneyFun AI"
     }
   ]
 }
