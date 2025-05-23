@@ -199,6 +199,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747147250/protocols/HoneyFun%20AI.png",
       "url": "https://app.honey.fun/",
       "description": "We're bringing virtuals to Berachain. Create your memecoin/AI Agent in few clicks."
+    },
+    {
+      "name": "Roots",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748027532/protocols/roots.jpg",
+      "url": "https://app.rootsfi.com",
+      "description": "Roots is a Berachain-native decentralized lending protocol that optimizes for capital efficiency by allowing users to mint its stablecoin MEAD against yield-generating assets, offering no-interest loans, minimal fees, and the ability to pursue additional DeFi opportunities while retaining their underlying APR."
     }
   ],
   "vaults": [
@@ -1470,6 +1476,16 @@
       "url": "https://v3.info.kodiak.finance/#/berachain_mainnet/pools/0x6ff710767d7aa77f9d0a83d6b14086834570f30d",
       "description": "Acquired by depositing liquidity into the AIBERA | WBERA Pool on Kodiak",
       "owner": "HoneyFun AI"
+    },
+    {
+      "stakingTokenAddress": "0x2A9EA10b60Ab02e9B8960a08b4996e6Bf5eA5EAb",
+      "vaultAddress": "0xf5049dd5b043e8af5758c03ff0cf80626ffef6df",
+      "name": "MEAD | HONEY",
+      "protocol": "Roots",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748027438/vaults/0xf5049dd5b043e8af5758c03ff0cf80626ffef6df.png",
+      "url": "https://hub.berachain.com/pools/0x2a9ea10b60ab02e9b8960a08b4996e6bf5ea5eab000000000000000000000162/details/",
+      "description": "Acquired by depositing WBTC, WETH, WBERA or BYUSD, USDCe into the Roots collateral pool.",
+      "owner": "Roots"
     }
   ]
 }
