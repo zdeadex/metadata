@@ -1234,7 +1234,7 @@
       "protocol": "BULL ISH",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746110086/vaults/0x7E6E4DacFF9aB49804667e1d7B76E921a8fbBE44.png",
       "url": "https://game.bullas.xyz/",
-      "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
+      "description": "Acquired by spanking the bera in game to enter a 300-slot queue, earning BGT while providing liquidity. Each spank moves players through the queue, with their stake being removed after 300 spanks.",
       "owner": "BULL ISH"
     },
     {
@@ -1350,7 +1350,7 @@
     {
       "stakingTokenAddress": "0x5e4Fe86C4f6fB2203fbFb77FD6eC3Cb300B639AA",
       "vaultAddress": "0x2461040526130a0ea1a0ed44b9c9d3331f3897ff",
-      "name": "KODI DOLO-WBERA",
+      "name": "Kodiak - DOLO-WBERA",
       "protocol": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746544756/vaults/p6lxbzhntjy3ijnmrvhb.jpg",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5e4fe86c4f6fb2203fbfb77fd6ec3cb300b639aa?farm=0x2461040526130a0ea1a0ed44b9c9d3331f3897ff&chain=berachain_mainnet",
@@ -1360,12 +1360,12 @@
     {
       "stakingTokenAddress": "0x53f786662FF5fbeC135f913ab93C6B3366e90a46",
       "vaultAddress": "0x1cc12219dada26bd8bb6831b6c3063de17f9d399",
-      "name": "50aSUGAR-50HONEY-WEIGHTED",
-      "protocol": "Kodiak",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.kodiak.finance/",
-      "description": "Acquired by depositing liquidity into the 50aSUGAR-50HONEY-WEIGHTED Pool on Kodiak",
-      "owner": "Kodiak"
+      "name": "Jiko - ASUGAR | HONEY",
+      "protocol": "Hub",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748274230/vaults/kngiuy4vzcuvfgqoj7xw.png",
+      "url": "https://hub.berachain.com/pools/0x53f786662ff5fbec135f913ab93c6b3366e90a4600020000000000000000014e/details",
+      "description": "Acquired by depositing liquidity into the Jiko - ASUGAR | HONEY Pool on Hub",
+      "owner": "Jiko"
     },
     {
       "stakingTokenAddress": "0xd6eb8ae479EdF452d264493708c85AA798CCCdFd",
