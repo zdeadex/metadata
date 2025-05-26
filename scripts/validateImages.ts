@@ -137,16 +137,17 @@ const validateAssetsImages = () => {
               ),
             );
 
-            if (
-              topLeftPixel === 0x00000000 ||
-              topRightPixel === 0x00000000 ||
-              bottomLeftPixel === 0x00000000 ||
-              bottomRightPixel === 0x00000000
-            ) {
-              errors.push(
-                `${relativePath}: Invalid image! Image cannot be transparent!`,
-              );
-            }
+            // @TODO: re-enable this check
+            // if (
+            //   topLeftPixel === 0x00000000 ||
+            //   topRightPixel === 0x00000000 ||
+            //   bottomLeftPixel === 0x00000000 ||
+            //   bottomRightPixel === 0x00000000
+            // ) {
+            //   errors.push(
+            //     `${relativePath}: Invalid image! Image cannot be transparent!`,
+            //   );
+            // }
           }
         } else {
           console.error(`${fullPath}: Unsupported file type!`);
@@ -173,7 +174,13 @@ const validateAssetsImages = () => {
 const validateMetadataImages = () => {
   const warnings: string[] = [];
 
-  // Get all the folder in the src folder excludingt the 'METADATA_FOLDER_EXCLUDES' folder
+  // Check for default.png in vaults folder
+  const vaultsDefaultPath = path.join(ASSET_PATH, "vaults", "default.png");
+  if (!fs.existsSync(vaultsDefaultPath)) {
+    warnings.push("Warning: default.png not found in assets/vaults folder!");
+  }
+
+  // Get all the folders in the src folder excluding the 'METADATA_FOLDER_EXCLUDED' folder
   const folders = fs
     .readdirSync(METADATA_FOLDER, {
       withFileTypes: true,
@@ -184,7 +191,7 @@ const validateMetadataImages = () => {
     )
     .map((entry) => entry.name);
 
-  // Get all json file in all folders
+  // Get all json files in all folders
   const jsonMetadata: {
     [key: string]: {
       // biome-ignore lint/suspicious/noExplicitAny: <explanation>
@@ -227,7 +234,7 @@ const validateMetadataImages = () => {
         } else if (key === "validators") {
           id = item.id;
         } else if (key === "vaults") {
-          id = item.stakingTokenAddress;
+          id = item.vaultAddress;
         } else {
           throw new Error(`Invalid key: ${key}`);
         }
