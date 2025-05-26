@@ -1480,12 +1480,79 @@
     {
       "stakingTokenAddress": "0x2A9EA10b60Ab02e9B8960a08b4996e6Bf5eA5EAb",
       "vaultAddress": "0xf5049dd5b043e8af5758c03ff0cf80626ffef6df",
-      "name": "MEAD | HONEY",
+      "name": "Roots - MEAD | HONEY",
       "protocol": "Roots",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748027438/vaults/0xf5049dd5b043e8af5758c03ff0cf80626ffef6df.png",
       "url": "https://app.rootsfi.com",
       "description": "Acquired by depositing WBTC, WETH, WBERA or BYUSD, USDCe into the Roots collateral pool.",
       "owner": "Roots"
-    }
-  ]
+    },
+    {
+      // TODO - get missing info
+      "stakingTokenAddress": "0xf91CfBB6c7203D1D659e3C2FcAF4A0f7dD51B3D8",
+      "vaultAddress": "0x999008608dcf23d5dca29b3c863d4353f61de243",
+      "*name": "Hub - Bpaw-RVST-UNI-V2",
+      "*protocol": "Hub",
+      "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0x999008608dcf23d5dca29b3c863d4353f61de243",
+      "*description": "Obtain Bpaw Reward Vault Staking Token from Hub",
+      "*owner": "Hub"
+    },
+    {
+      // TODO - get missing info
+      "stakingTokenAddress": "0xf91CfBB6c7203D1D659e3C2FcAF4A0f7dD51B3D8",
+      "vaultAddress": "0xeee277a91f9f50cda5d188522c921820a848cd99",
+      "*name": "Hub - STEERUV20",
+      "*protocol": "Hub",
+      "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0xeee277a91f9f50cda5d188522c921820a848cd99",
+      "*description": "Obtain STEERUV20 Token from Hub",
+      "*owner": "Hub"
+    },
+    {
+    // TODO - get missing info, change all logoURIs to default
+    "stakingTokenAddress": "0x9f20cda4ebe746929cdb9e0ffca60e4a335a0b15",
+    "vaultAddress": "0x9f20cda4ebe746929cdb9e0ffca60e4a335a0b15",
+    "*name": "Kodiak - STG | HONEY",
+    "*protocol": "Kodiak",
+    "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+    "url": "https://hub.berachain.com/vaults/0xeee277a91f9f50cda5d188522c921820a848cd99",
+    "*description": "Acquired by depositing liquidity into the STG | HONEY Pool on Kodiak",
+    "*owner": "Kodiak"
+    },
+    {
+      // TODO - get missing info, change all logoURIs to default
+      "stakingTokenAddress": "0xCF21469a78aC96f4d84Eb4e77E515A8A672330CF",
+      "vaultAddress": "0x33414563ab271b8720569329aabc8767fc507af3",
+      "*name": "Hub - Bpaw-RVST-eWBERA-6",
+      "*protocol": "Hub",
+      "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0x33414563ab271b8720569329aabc8767fc507af3",
+      "*description": "Obtain Bpaw-RVST-EKV Token from Hub",
+      "*owner": "Hub"
+    },
+    {
+      // TODO - get missing info, change all logoURIs to default
+      "stakingTokenAddress": "0x0B0944cf9cCB0A4D4CCFb2b2EE0C3d893DF16AcF",
+      "vaultAddress": "0x0b88337309905e19ae708b03763fd4a750b23b40",
+      "*name": "Hub - Bpaw-RVST-eLBGT-1",
+      "*protocol": "Hub",
+      "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0x0b88337309905e19ae708b03763fd4a750b23b40",
+      "*description": "Obtain Bpaw-RVST-eLBGT-1 Token from Hub",
+      "*owner": "Hub"
+    },
+    {
+      // TODO - get missing info, change all logoURIs to default
+      "stakingTokenAddress": "0x62CF6e355C77Edb6f5C8eb2085A85cf4dE4c1852",
+      "vaultAddress": "0x006b0d54b0b85c0f9a6041cabd97f2a545eccf3c",
+      "*name": "Beraborrow - bUNIBTC",
+      "*protocol": "Beraborrow",
+      "*logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://hub.berachain.com/vaults/0x006b0d54b0b85c0f9a6041cabd97f2a545eccf3c",
+      "*description": "Acquired by depositing bUNIBTC into the Liquid Stability Pool on Beraborrow",
+      "*owner": "Berraborrow"
+    },
+
+  
 }
