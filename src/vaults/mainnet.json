@@ -1490,22 +1490,22 @@
     {
       "stakingTokenAddress": "0xf91CfBB6c7203D1D659e3C2FcAF4A0f7dD51B3D8",
       "vaultAddress": "0x999008608dcf23d5dca29b3c863d4353f61de243",
-      "name": "Hub - Bpaw-RVST-UNI-V2",
-      "protocol": "Hub",
+      "name": "Bpaw-RVST-UNI-V2",
+      "protocol": "HUB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0x999008608dcf23d5dca29b3c863d4353f61de243",
       "description": "Obtain Bpaw Reward Vault Staking Token from Hub",
-      "owner": "Hub"
+      "owner": "HUB"
     },
     {
       "stakingTokenAddress": "0xDB78B4166580917c9604f8DdfBea5F49B493845c",
       "vaultAddress": "0xeee277a91f9f50cda5d188522c921820a848cd99",
-      "name": "Hub - STEERUV20",
-      "protocol": "Hub",
+      "name": "STEERUV20",
+      "protocol": "HUB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0xeee277a91f9f50cda5d188522c921820a848cd99",
       "description": "Obtain STEERUV20 staking token from Hub",
-      "owner": "Hub"
+      "owner": "HUB"
     },
     {
       "stakingTokenAddress": "0x9f20cda4ebe746929cdb9e0ffca60e4a335a0b15",
@@ -1520,22 +1520,22 @@
     {
       "stakingTokenAddress": "0xCF21469a78aC96f4d84Eb4e77E515A8A672330CF",
       "vaultAddress": "0x33414563ab271b8720569329aabc8767fc507af3",
-      "name": "Hub - Bpaw-RVST-eWBERA-6",
-      "protocol": "Hub",
+      "name": "Bpaw-RVST-eWBERA-6",
+      "protocol": "HUB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0x33414563ab271b8720569329aabc8767fc507af3",
       "description": "Obtain Bpaw-RVST-EKV Token from Hub",
-      "owner": "Hub"
+      "owner": "HUB"
     },
     {
       "stakingTokenAddress": "0x0B0944cf9cCB0A4D4CCFb2b2EE0C3d893DF16AcF",
       "vaultAddress": "0x0b88337309905e19ae708b03763fd4a750b23b40",
-      "name": "Hub - Bpaw-RVST-eLBGT-1",
-      "protocol": "Hub",
+      "name": "Bpaw-RVST-eLBGT-1",
+      "protocol": "HUB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0x0b88337309905e19ae708b03763fd4a750b23b40",
       "description": "Obtain Bpaw-RVST-eLBGT-1 Token from Hub",
-      "owner": "Hub"
+      "owner": "HUB"
     },
     {
       "stakingTokenAddress": "0x62CF6e355C77Edb6f5C8eb2085A85cf4dE4c1852",
