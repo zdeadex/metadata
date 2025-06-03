@@ -54,7 +54,7 @@
       "id": "0x865a04fc3fb234b69595fc464b00604e8e1f387d47dc6bca2d1503a82d2e20060334ef275c764136f13b87447bd3d0a8",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/despread.png",
       "name": "DeSpread",
-      "description": "We provide refined perspective for Web3 pioneers. Founded in 2019, DeSpread is a consulting firm specializing in Web3 & blockchain. It actively contributes to Web3’s mass adoption by supporting the growth of various startups and protocols.",
+      "description": "Korean Beras are coming. DeSpread provides a data-driven growth strategy for expanding into APAC regions.",
       "website": "https://despread.io",
       "twitter": "https://x.com/DeSpreadLabs"
     },
@@ -465,6 +465,14 @@
       "description": "Korean Beras are coming. DeSpread provides a data-driven growth strategy for expanding into APAC regions.",
       "website": "https://despread.io",
       "twitter": "https://x.com/DeSpreadLabs"
+    },
+    {
+      "id": "0x8e98ca2aaa76909360e4b1cf2e87ed2839222ab37495b067b3257cef256dbeabeca55ec72465d0fb2321a9b73f495e0f",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748439531/validators/0x8e98ca2aaa76909360e4b1cf2e87ed2839222ab37495b067b3257cef256dbeabeca55ec72465d0fb2321a9b73f495e0f.png",
+      "name": "Infrared by KudasaiJP",
+      "description": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support.",
+      "website": "https://kudasai.co.jp",
+      "twitter": "https://x.com/kudasai_japan"
     }
   ]
 }
