@@ -9,7 +9,7 @@ import validatorSchemas from "../schemas/validators.schema.json" with {
   type: "json",
 };
 import vaultSchemas from "../schemas/vaults.schema.json" with { type: "json" };
-import type { Token, Vault, Validator, Protocol } from "./types";
+import type { Protocol, Token, Validator, Vault } from "./types";
 
 const ajv = new Ajv({
   validateSchema: false,
