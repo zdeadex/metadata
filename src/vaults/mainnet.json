@@ -33,6 +33,12 @@
       "description": "Kodiak is a decentralized exchange for the Berachain ecosystem."
     },
     {
+      "name": "Yeet",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1749485201/protocols/Yeet.png",
+      "url": "https://yeetit.xyz",
+      "description": "GigaBonzi"
+    },
+    {
       "name": "Infrared Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745504839/protocols/infrared.png",
       "url": "https://infrared.finance/",
@@ -1516,6 +1522,16 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x595b1ecd5ec42fb5f321d4162b04965eab8f1388?farm=0x9f20cda4ebe746929cdb9e0ffca60e4a335a0b15&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the STG | HONEY Pool on Kodiak",
       "owner": "Kodiak"
+    },
+    {
+      "stakingTokenAddress": "0x412c9f79779AE6C3a13a318252b29c559be756Ca",
+      "vaultAddress": "0x5fc9d951787c297b3b1ade8a871b84d9aa717608",
+      "name": "Yeet - YEET | wgBERA",
+      "protocol": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748885568/vaults/0x5fc9d951787c297b3b1ade8a871b84d9aa717608.png",
+      "url": "https://yeetit.xyz",
+      "description": "Acquired by depositing liquidity into the YEET | wgBERA island on Kodiak",
+      "owner": "Yeet"
     },
     {
       "stakingTokenAddress": "0xCF21469a78aC96f4d84Eb4e77E515A8A672330CF",
