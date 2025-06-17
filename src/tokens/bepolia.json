@@ -62,6 +62,22 @@
     },
     {
       "chainId": 80069,
+      "address": "0x6e8d0eCfCE5c2b7587263923e23d141F6364c7f9",
+      "symbol": "bbUSDC",
+      "name": "bbUSDC",
+      "decimals": 18,
+      "tags": []
+    },   
+    {
+      "chainId": 80069,
+      "address": "0xe0037233a4a21c6334CFa67895A4BeaDc87B2c40",
+      "symbol": "bbPYUSD",
+      "name": "bbPYUSD",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 80069,
       "address": "0xC8d68e161227b180c5046E706E0A6d8ab78D83C5",
       "symbol": "bbINC1",
       "name": "bbINC1",
