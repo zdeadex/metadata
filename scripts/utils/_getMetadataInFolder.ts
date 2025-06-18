@@ -1,11 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
-
+import type { TokensFile } from "../../src/tokens/types";
+import type { ValidatorsFile } from "../../src/validators/types";
+import type { VaultsFile } from "../../src/vaults/types";
 import type { ValidChainName } from "../_constants";
-
-import type tokensType from "../../src/tokens/mainnet.json";
-import type validatorsType from "../../src/validators/mainnet.json";
-import type vaultsType from "../../src/vaults/mainnet.json";
 import { isValidChainName } from "./_isValidChainName";
 /**
  * Reads and parses metadata files from a specified folder
@@ -20,10 +18,10 @@ export function getMetadataInFolder<
 ): {
   chain: ValidChainName;
   content: T extends "tokens"
-    ? typeof tokensType
+    ? TokensFile
     : T extends "vaults"
-      ? typeof vaultsType
-      : typeof validatorsType;
+      ? VaultsFile
+      : ValidatorsFile;
   /**
    * Used for annotations
    */
