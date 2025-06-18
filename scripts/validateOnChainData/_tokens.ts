@@ -1,6 +1,6 @@
 import { erc20Abi, getAddress, isAddress, zeroAddress } from "viem";
 
-import type { TokensFile } from "../../src/tokens/types";
+import type { TokensFile } from "../../src/types/tokens";
 import { CASE_SENSITIVE_ADDRESSES } from "../_constants";
 import { clients, formatAnnotation } from "../utils";
 import { ALLOWED_NAME_AND_SYMBOL_PATCHES } from "./_allowedTokenPatches";

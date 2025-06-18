@@ -1,5 +1,5 @@
 import { getAddress, isAddress, isAddressEqual, zeroAddress } from "viem";
-import type { VaultsFile } from "../../src/vaults/types";
+import type { VaultsFile } from "../../src/types/vaults";
 import {
   CASE_SENSITIVE_ADDRESSES,
   REWARD_VAULT_FACTORIES,

@@ -2,10 +2,11 @@
 // ================================================================
 import fs from "node:fs";
 import path from "node:path";
+import chalk from "chalk";
 import sharp from "sharp";
-import type { TokensFile } from "../src/tokens/types";
-import type { ValidatorsFile } from "../src/validators/types";
-import type { VaultsFile } from "../src/vaults/types";
+import type { TokensFile } from "../src/types/tokens";
+import type { ValidatorsFile } from "../src/types/validators";
+import type { VaultsFile } from "../src/types/vaults";
 
 // Config
 // ================================================================
@@ -212,9 +213,20 @@ const validateAssetsImages = async () => {
               );
             }
           }
-        } else {
-          console.error(`${fullPath}: Unsupported file type!`);
-          process.exit(1); // Force exit with error code 1 to fail CI
+        } else if (
+          ext === ".webp" ||
+          ext === ".gif" ||
+          ext === ".bmp" ||
+          ext === ".tiff"
+        ) {
+          errors.push(
+            `${path.relative(ASSET_PATH, fullPath)}: Invalid file type! Only PNG and JPG images are allowed. Found: ${ext}`,
+          );
+        } else if (!entry.name.startsWith(".")) {
+          // Only warn for non-hidden files that aren't images
+          console.warn(
+            `${path.relative(ASSET_PATH, fullPath)}: Non-image file found.`,
+          );
         }
       }
     }
@@ -224,9 +236,16 @@ const validateAssetsImages = async () => {
   await processDirectory(ASSET_PATH);
 
   if (errors.length > 0) {
-    console.error(`${errors.length} Errors found in assets folder:`);
-    errors.forEach((error) => console.error("\x1b[31m%s\x1b[0m", error));
+    console.error(
+      chalk.red.bold(`\n${errors.length} Errors found in assets folder:`),
+    );
+    errors.forEach((error) => console.error(chalk.red(`  ${error}`)));
+    console.error(
+      chalk.red.bold("\nPlease fix these issues before proceeding."),
+    );
     process.exit(1); // Force exit with error code 1 to fail CI
+  } else {
+    console.log(chalk.green.bold("\nAll image validations passed!"));
   }
 };
 
@@ -332,8 +351,12 @@ const validateMetadataImages = async () => {
   }
 
   if (warnings.length > 0) {
-    console.warn(`${warnings.length} Errors found in metadata:`);
-    warnings.forEach((error) => console.warn("\x1b[33m%s\x1b[0m", error));
+    console.warn(
+      chalk.yellow.bold(`\n${warnings.length} Warnings found in metadata:`),
+    );
+    warnings.forEach((error) => console.warn(chalk.yellow(`  ${error}`)));
+  } else {
+    console.log(chalk.green.bold("\nAll metadata validations passed!"));
   }
 };
 

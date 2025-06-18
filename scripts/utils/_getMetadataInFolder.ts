@@ -1,8 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
-import type { TokensFile } from "../../src/tokens/types";
-import type { ValidatorsFile } from "../../src/validators/types";
-import type { VaultsFile } from "../../src/vaults/types";
+import type { TokensFile } from "../../src/types/tokens";
+import type { ValidatorsFile } from "../../src/types/validators";
+import type { VaultsFile } from "../../src/types/vaults";
 import type { ValidChainName } from "../_constants";
 import { isValidChainName } from "./_isValidChainName";
 /**
