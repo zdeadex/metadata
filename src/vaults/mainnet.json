@@ -1568,7 +1568,7 @@
       "vaultAddress": "0x4974ee5f484a3c05f181aeb380cd7c411dd79c0e",
       "name": "Smilee - wgBERA | WBERA",
       "protocol": "HUB",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750288681/vaults/0x4974ee5f484a3c05f181aeb380cd7c411dd79c0e.jpg",
       "url": "https://hub.berachain.com/vaults/0xa068760e9bec127b7cd1655ea2ec992aa0a1631d/",
       "description": "Stake your BERA in Smilee Finance and mint wgBERA to access this Liquidity Pool.",
       "owner": "Smilee"
