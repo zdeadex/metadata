@@ -1567,7 +1567,17 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.beraborrow.com/den/borrow/WBTC-uniBTC",
       "description": "Acquired by depositing bUNIBTC into a CDP on BeraBorrow",
-      "owner": "Berraborrow"
+      "owner": "Beraborrow"
+    },
+    {
+      "stakingTokenAddress": "0x8628e618b66E7CdDBe0AdC84B96bEa3977954507",
+      "vaultAddress": "0xdB0bd1f417E1b3906D348473A6C11978c0E1552A",
+      "name": "Beraborrow | wgBERA",
+      "protocol": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750276347/vaults/0xdB0bd1f417E1b3906D348473A6C11978c0E1552A.jpg",
+      "url": "https://app.beraborrow.com/den/borrow/wgBERA",
+      "description": "This token will be deposited by the Beraborrow collVault on behalf of users who use wgBERA as collateral to mint NECT on beraborrow.",
+      "owner": "Beraborrow"
     },
     {
       "stakingTokenAddress": "0xc5240664229DB09d5327681CB9346412a8e78aB1",
