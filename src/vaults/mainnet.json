@@ -217,6 +217,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748027532/protocols/TWIN%20Finance%20Protocol%20Image.png",
       "url": "https://app.twinfinance.io/",
       "description": "TWIN Finance is a synthetic assets protocol for derivatives of real-world assets on Berachain"
+    },
+    {
+      "name": "Aquabera",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505341/protocols/berachainhub.png",
+      "url": "https://app.aquabera.com/explore",
+      "description": "Liquidity management protocol that maximizes your returns while minimizing risks without requiring constant oversight."
     }
   ],
   "vaults": [
@@ -1567,7 +1573,17 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.beraborrow.com/den/borrow/WBTC-uniBTC",
       "description": "Acquired by depositing bUNIBTC into a CDP on BeraBorrow",
-      "owner": "Beraborrow"
+      "owner": "Berraborrow"
+    },
+    {
+      "stakingTokenAddress": "0x8f32C1b7C9E2c60D357B7949a43540162248a21E",
+      "vaultAddress": "0xA068760E9bEc127b7Cd1655Ea2EC992AA0A1631D",
+      "name": "Smilee - wgBERA | WBERA",
+      "protocol": "HUB",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750288681/vaults/0x4974ee5f484a3c05f181aeb380cd7c411dd79c0e.jpg",
+      "url": "https://hub.berachain.com/vaults/0xa068760e9bec127b7cd1655ea2ec992aa0a1631d/",
+      "description": "Stake your BERA in Smilee Finance and mint wgBERA to access this Liquidity Pool.",
+      "owner": "Smilee"
     },
     {
       "stakingTokenAddress": "0x8628e618b66E7CdDBe0AdC84B96bEa3977954507",
@@ -1618,6 +1634,16 @@
       "url": "https://app.twinfinance.io/",
       "description": "Acquired by depositing liquidity into the iMSTR-HONEY pool on Kodiak",
       "owner": "TWIN Finance"
+    },
+    {
+      "stakingTokenAddress": "0xB34FCA9739249578D93a22ce02bf7FaD277bAD35",
+      "vaultAddress": "0x6fD82191550c53414B1d4cE982a8424CE039697B",
+      "name": "BurrBear - NECT | USDC.e | USD₮0 | HONEY",
+      "protocol": "BurrBear",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750294929/vaults/0x6fD82191550c53414B1d4cE982a8424CE039697B.png",
+      "url": "https://app.burrbear.io/#/berachain/pool/0xb34fca9739249578d93a22ce02bf7fad277bad35000000000000000000000013",
+      "description": "Acquired by depositing liquidity into the NECT | USDC.e | USD₮0 | HONEY Pool on BurrBear",
+      "owner": "BurrBear"
     }
   ]
 }
