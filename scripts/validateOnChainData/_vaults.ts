@@ -16,7 +16,7 @@ export async function validateVaults(
   },
 ) {
   const { rawContent, path, ...vaultMetadata } = file;
-
+  const categories = vaultMetadata.content.categories;
   // Track duplicates
   const vaultAddresses = new Map<string, { name: string; index: number }>();
   const stakingTokenAddresses = new Map<
@@ -176,6 +176,21 @@ export async function validateVaults(
             file: path,
           }),
         );
+      }
+
+      if (vault.category) {
+        for (const category of vault.category) {
+          if (!categories.some((c) => c.slug === category)) {
+            errors.push(
+              formatAnnotation({
+                rawContent,
+                xPath: `/vaults/${idx}/category`,
+                message: `${category} is not a valid category. Should be one of ${categories.map((c) => c.slug).join(", ")}`,
+                file: path,
+              }),
+            );
+          }
+        }
       }
     }),
   );
