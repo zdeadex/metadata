@@ -191,13 +191,13 @@ export async function validateVaults(
         );
       }
 
-      if (vault.category) {
-        for (const category of vault.category) {
+      if (vault.categories) {
+        for (const category of vault.categories) {
           if (!categories.some((c) => c.slug === category)) {
             errors.push(
               formatAnnotation({
                 rawContent,
-                xPath: `/vaults/${idx}/category`,
+                xPath: `/vaults/${idx}/categories`,
                 message: `${category} is not a valid category. Should be one of ${categories.map((c) => c.slug).join(", ")}`,
                 file: path,
               }),

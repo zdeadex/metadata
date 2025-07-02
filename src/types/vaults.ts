@@ -28,5 +28,5 @@ export interface Vault {
   logoURI?: string;
   url: string;
   description?: string;
-  category?: string[];
+  categories?: string[];
 }
