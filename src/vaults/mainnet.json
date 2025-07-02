@@ -8,6 +8,9 @@
     {
       "slug": "gamefi",
       "description": "GameFi is a category of blockchain-based games that combine elements of traditional gaming with blockchain technology."
+    },
+    {
+      "slug": "memecoin"
     }
   ],
   "protocols": [
@@ -580,6 +583,7 @@
       "vaultAddress": "0x193fF57dc9EFA1DeC154946c10332bA31C8e72b2",
       "name": "BM - WBERA | BM",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742838273/Ecosystem/hbt1hvsanbb0mgddvnjb.png",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x0FD67ac75F9DF51f5d81F582417B318F44b45f5c?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BM - WBERA | BM Pool on Kodiak",
@@ -634,6 +638,7 @@
       "vaultAddress": "0xA6cAB22B1b64532aF6779d7227983D1Be1Bd317E",
       "name": "Beraplug - PLUG | WBERA",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743022530/tokens/hcvy0j5uaoeornxzhbft.png",
       "url": "https://v2.info.kodiak.finance/pair/0xac1d44f0284634eb04ffa56c76d47e839224b46f?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Beraplug - PLUG | WBERA Pool on Kodiak",
@@ -677,6 +682,7 @@
       "vaultAddress": "0x524FC4F013d66E9fED424e58C5ada7d5B139761d",
       "name": "HPOS10I - WBERA | BITCOIN",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742838273/Ecosystem/i4paodhr59anubt8rvlj.png",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x2CaFe99dB26Cf86Ae8587F5934830d25aD5C3Cb3?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the HPOS10I - WBERA | BITCOIN Pool on Kodiak",
@@ -764,6 +770,7 @@
       "vaultAddress": "0xDf5C6c28479e21C5F36cEB0C44Ae15975dE844ba",
       "name": "BeraXBT - BIXBT | WBERA",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743429746/tokens/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e.png",
       "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e?chain=berachain_mainnet",
       "description": "virtual, analytical consciousness bringing deep analysis to berachain",
@@ -884,6 +891,7 @@
       "vaultAddress": "0x46accbeE0248A94527c65Cb8EEF916a7e74f6D66",
       "name": "Beratardio - BERATARDIO | WBERA",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743513356/tokens/wu5gnzwstmazfyvxydea.png",
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xa2a3170f94b55c835f8483Bc2486D41Ff0c90F28?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Beratardio - BERATARDIO | WBERA pool on Kodiak v2",
@@ -1027,6 +1035,7 @@
       "name": "Henlo - Henlocker100M",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809287/vaults/jtwci2jihaa3qsken4st.png",
       "protocol": "Beradrome",
+      "category": ["memecoin"],
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
@@ -1037,6 +1046,7 @@
       "name": "Henlo - Henlocker330M",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809304/vaults/skd0lvbdpgl8sekmsal6.png",
       "protocol": "Beradrome",
+      "category": ["memecoin"],
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
@@ -1047,6 +1057,7 @@
       "name": "Henlo - Henlocker420M",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809324/vaults/axl1mvuynagmkd2ijf3d.png",
       "protocol": "Beradrome",
+      "category": ["memecoin"],
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
@@ -1057,6 +1068,7 @@
       "name": "Henlo - Henlocker690M",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809339/vaults/h1eelb9pk0lfajxqdjg7.png",
       "protocol": "Beradrome",
+      "category": ["memecoin"],
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
@@ -1067,6 +1079,7 @@
       "name": "Henlo - Henlocker1B",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809364/vaults/kxovurpaj05qh1nqnsuq.png",
       "protocol": "Beradrome",
+      "category": ["memecoin"],
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO"
@@ -1099,6 +1112,7 @@
       "name": "HENLO - WBERA | HENLO ",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809255/vaults/zb9g0azdtve8difxpfb7.png",
       "protocol": "Aquabera",
+      "category": ["memecoin"],
       "url": "https://app.aquabera.com/vault/0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
       "description": "Acquired by depositing liquidity into the Aquabera - WBERA-HENLO Pool on Kodiak.",
       "owner": "HENLO"
@@ -1185,6 +1199,7 @@
       "vaultAddress": "0xa7782ff04de0e7f7084eedb364f485efed3fcc49",
       "name": "GRQ-WBERA",
       "protocol": "Kodiak",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746108623/vaults/0xa7782ff04de0e7f7084eedb364f485efed3fcc49.jpg",
       "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0xcA9088895e3390E503cac9ae95abaccdba20822e?chain=berachain_mainnet",
       "description": "Stake GRQ-WBERA LP on our platform to earn sGRQ and BGT rewards.",
@@ -1591,6 +1606,7 @@
       "vaultAddress": "0x9a60189fc1372fab170fe642d162fc972b6ac31b",
       "name": "HoneyFun AI - AIBERA | WBERA",
       "protocol": "HoneyFun AI",
+      "category": ["memecoin"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x9a60189fc1372fab170fe642d162fc972b6ac31b.png",
       "url": "https://v3.info.kodiak.finance/#/berachain_mainnet/pools/0x6ff710767d7aa77f9d0a83d6b14086834570f30d",
       "description": "Acquired by depositing liquidity into the AIBERA | WBERA Pool on Kodiak",
