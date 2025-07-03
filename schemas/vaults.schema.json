@@ -82,12 +82,14 @@
             "type": "string",
             "pattern": "^(https://[^\\s]+)$"
           },
-          "category": {
+          "categories": {
             "type": "array",
             "items": {
               "type": "string"
             },
-            "minLength": 1
+            "$comment": "This is an array of categories. If it is present, it must have exactly one item. It's an array for future proofing.",
+            "minItems": 1,
+            "maxItems": 1
           },
           "description": {
             "type": "string"
