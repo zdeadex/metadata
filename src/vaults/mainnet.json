@@ -238,7 +238,7 @@
     },
     {
       "name": "Plutus",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1751932453/protocols/plutus.png",
       "url": "https://plutus.fi",
       "description": "Liquidity, Yield, and Stability — chains simplified. Parent protocol for Orange Finance, Berancia, Deep Thought, and LPfun. Plutus provides delta neutral yield strategies, simple interfaces for advanced strategies, and a berachain native algorithmic stable coin plsHONEY"
     }
