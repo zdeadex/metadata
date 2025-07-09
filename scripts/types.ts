@@ -14,6 +14,7 @@ export interface Token {
 export interface Vault {
   vaultAddress: string;
   stakingTokenAddress: string;
+  action?: string;
   name: string;
   protocol: string;
   logoURI: string;

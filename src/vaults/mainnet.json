@@ -235,6 +235,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505341/protocols/berachainhub.png",
       "url": "https://app.aquabera.com/explore",
       "description": "Liquidity management protocol that maximizes your returns while minimizing risks without requiring constant oversight."
+    },
+    {
+      "name": "Plutus",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1751932453/protocols/plutus.png",
+      "url": "https://plutus.fi",
+      "description": "Liquidity, Yield, and Stability — chains simplified. Parent protocol for Orange Finance, Berancia, Deep Thought, and LPfun. Plutus provides delta neutral yield strategies, simple interfaces for advanced strategies, and a berachain native algorithmic stable coin plsHONEY"
     }
   ],
   "vaults": [
@@ -1925,6 +1931,17 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xc4c039178a79e614609e592d7689ecb3107758b1000200000000000000000020",
       "description": "Acquired by depositing liquidity into the BURR | NECT Pool on BurrBear",
       "owner": "BurrBear"
+    },
+    {
+      "stakingTokenAddress": "0xe38e2273df9ca6f2cd6f2ea0b13399e65bf799f1",
+      "vaultAddress": "0x9e4ff9F6f255eCb3fb3937e81439a2c69377F3af",
+      "name": "Kodiak - PLUTUS | WBERA 0.3% Island",
+      "protocol": "Kodiak",
+      "categories": ["defi"],
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1751932344/vaults/0x9e4ff9F6f255eCb3fb3937e81439a2c69377F3af.png",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xe38e2273dF9CA6f2Cd6F2ea0B13399e65BF799f1?chain=berachain_mainnet",
+      "description": "Provide liquidity to Kodiak PLUTUS-WBERA Island.",
+      "owner": "Plutus"
     }
   ]
 }
