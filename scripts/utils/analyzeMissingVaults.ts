@@ -121,19 +121,18 @@ class MissingVaultAnalyzer {
 
         // Use specific column indices based on CSV structure
         if (fields.length >= 14) {
-          const protocolName = fields[5]?.trim() || '';
-          const protocolDescription = fields[6]?.trim() || '';
-          const protocolUrl = this.fixURL(fields[7]?.trim() || '');
-          const protocolLogoUrl = this.fixLogoURI(fields[8]?.trim() || '');
-          const vaultName = fields[9]?.trim() || '';
-          const vaultAddress = this.fixVaultAddress(fields[10]?.trim() || '');
-          const vaultLogoUrl = this.fixLogoURI(fields[11]?.trim() || '');
-          const stakingAddress = this.fixVaultAddress(fields[12]?.trim() || '');
-          const description = fields[13]?.trim() || '';
-          
+          const protocolName = fields[5]?.trim() || "";
+          const _protocolDescription = fields[6]?.trim() || "";
+          const protocolUrl = this.fixURL(fields[7]?.trim() || "");
+          const protocolLogoUrl = this.fixLogoURI(fields[8]?.trim() || "");
+          const vaultName = fields[9]?.trim() || "";
+          const vaultAddress = this.fixVaultAddress(fields[10]?.trim() || "");
+          const vaultLogoUrl = this.fixLogoURI(fields[11]?.trim() || "");
+          const stakingAddress = this.fixVaultAddress(fields[12]?.trim() || "");
+          const description = fields[13]?.trim() || "";
+
           // Only include rows with valid vault addresses
           if (vaultAddress && stakingAddress && protocolName && vaultName) {
-            
             const row: CSVRow = {
               protocolName,
               vaultName,
@@ -142,9 +141,9 @@ class MissingVaultAnalyzer {
               protocolUrl,
               protocolLogoUrl,
               vaultLogoUrl,
-              description
+              description,
             };
-            
+
             rows.push(row);
           }
         }
@@ -253,18 +252,22 @@ class MissingVaultAnalyzer {
 
   private fixLogoURI(logoURI: string): string {
     // Replace invalid logoURIs with default Cloudinary URL
-    if (!logoURI || 
-        logoURI.includes("drive.google.com") ||
-        logoURI.includes("docs.") ||
-        logoURI.includes("static.kodiak.finance") ||
-        logoURI.includes("github.com") ||
-        logoURI.includes("imgur.com") ||
-        logoURI.includes("i.imgur.com") ||
-        logoURI.includes("pbs.twimg.com") ||
-        logoURI.includes("honeypotfinance.notion.site") ||
-        logoURI.includes("static.frax.com") ||
-        !logoURI.startsWith("https://") ||
-        !logoURI.match(/^(https:\/\/raw\.githubusercontent\.com\/berachain\/metadata\/[^\s]+|https:\/\/(assets|coin-images)\.coingecko\.com\/[^\s]+|https:\/\/res\.cloudinary\.com\/duv0g402y\/[^\s]+)$/)) {
+    if (
+      !logoURI ||
+      logoURI.includes("drive.google.com") ||
+      logoURI.includes("docs.") ||
+      logoURI.includes("static.kodiak.finance") ||
+      logoURI.includes("github.com") ||
+      logoURI.includes("imgur.com") ||
+      logoURI.includes("i.imgur.com") ||
+      logoURI.includes("pbs.twimg.com") ||
+      logoURI.includes("honeypotfinance.notion.site") ||
+      logoURI.includes("static.frax.com") ||
+      !logoURI.startsWith("https://") ||
+      !logoURI.match(
+        /^(https:\/\/raw\.githubusercontent\.com\/berachain\/metadata\/[^\s]+|https:\/\/(assets|coin-images)\.coingecko\.com\/[^\s]+|https:\/\/res\.cloudinary\.com\/duv0g402y\/[^\s]+)$/,
+      )
+    ) {
       return "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png";
     }
     return logoURI;
@@ -273,47 +276,50 @@ class MissingVaultAnalyzer {
   private fixURL(url: string): string {
     // Fix malformed URLs
     if (!url) return "";
-    
+
     let fixedUrl = url.trim();
-    
+
     // Handle complex URLs with multiple domains
     if (fixedUrl.includes(",") || fixedUrl.includes(" and ")) {
       // Take the first URL if multiple are provided
-      const firstUrl = fixedUrl.split(/[,\s]+and\s+/)[0].split(",")[0].trim();
+      const firstUrl = fixedUrl
+        .split(/[,\s]+and\s+/)[0]
+        .split(",")[0]
+        .trim();
       fixedUrl = firstUrl;
     }
-    
+
     // Add https:// if missing
     if (!fixedUrl.startsWith("http")) {
       fixedUrl = `https://${fixedUrl}`;
     }
-    
+
     // Remove trailing commas and extra text
     fixedUrl = fixedUrl.replace(/,\s*[^,]+$/, "");
     fixedUrl = fixedUrl.replace(/\s+and\s+[^,\s]+\.com/, "");
-    
+
     // Handle special cases
     if (fixedUrl.includes("Webapp not live yet")) {
       return "https://berachain.com";
     }
-    
+
     if (fixedUrl.includes("QIA itself does have a dapp")) {
       return "https://panda.kodiak.finance/trade/0x41fc191d145307667ea3e50f244b78de9cddf53f";
     }
-    
+
     return fixedUrl;
   }
 
   private fixVaultAddress(address: string): string {
     // Ensure vault address is properly formatted
     if (!address || !address.startsWith("0x")) return "";
-    
+
     // Remove any extra characters and ensure it's 42 characters (0x + 40 hex chars)
     const cleanAddress = address.replace(/[^0-9a-fA-Fx]/g, "");
     if (cleanAddress.length === 42) {
       return cleanAddress;
     }
-    
+
     return "";
   }
 
@@ -419,7 +425,7 @@ class MissingVaultAnalyzer {
     const existingProtocolUrls = new Set(
       this.jsonData.protocols
         .map((protocol) => protocol.url.toLowerCase())
-        .filter((url) => url && url !== "https://berachain.com")
+        .filter((url) => url && url !== "https://berachain.com"),
     );
 
     const csvProtocolNames = new Set(
@@ -437,16 +443,19 @@ class MissingVaultAnalyzer {
 
       // Extract individual protocol names from complex multi-protocol entries
       const individualProtocols = this.extractIndividualProtocols(name);
-      
+
       // Check if any individual protocol already exists
       for (const individualProtocol of individualProtocols) {
         if (existingProtocolNames.has(individualProtocol)) {
           return false;
         }
-        
+
         // Check if any existing protocol contains this individual protocol or vice versa
         for (const existingName of existingProtocolNames) {
-          if (individualProtocol.includes(existingName) || existingName.includes(individualProtocol)) {
+          if (
+            individualProtocol.includes(existingName) ||
+            existingName.includes(individualProtocol)
+          ) {
             return false;
           }
         }
@@ -454,9 +463,9 @@ class MissingVaultAnalyzer {
 
       // Check if protocol URL already exists
       const csvRow = this.csvData.find(
-        (row) => row.protocolName.toLowerCase() === name
+        (row) => row.protocolName.toLowerCase() === name,
       );
-      if (csvRow && csvRow.protocolUrl) {
+      if (csvRow?.protocolUrl) {
         const normalizedUrl = this.fixURL(csvRow.protocolUrl).toLowerCase();
         if (existingProtocolUrls.has(normalizedUrl)) {
           return false;
@@ -469,15 +478,15 @@ class MissingVaultAnalyzer {
 
   private extractIndividualProtocols(complexName: string): string[] {
     const protocols: string[] = [];
-    
+
     // Handle common patterns in multi-protocol names
     const patterns = [
-      /([a-zA-Z]+)\s*:\s*([^,]+)/g,  // "Protocol: description"
-      /([a-zA-Z]+)\s*\(\s*([^)]+)\s*\)/g,  // "Protocol (description)"
-      /([a-zA-Z]+)\s*and\s*([a-zA-Z]+)/g,  // "Protocol1 and Protocol2"
-      /([a-zA-Z]+)\s*,\s*([a-zA-Z]+)/g,    // "Protocol1, Protocol2"
+      /([a-zA-Z]+)\s*:\s*([^,]+)/g, // "Protocol: description"
+      /([a-zA-Z]+)\s*\(\s*([^)]+)\s*\)/g, // "Protocol (description)"
+      /([a-zA-Z]+)\s*and\s*([a-zA-Z]+)/g, // "Protocol1 and Protocol2"
+      /([a-zA-Z]+)\s*,\s*([a-zA-Z]+)/g, // "Protocol1, Protocol2"
     ];
-    
+
     // Extract protocol names from complex descriptions
     for (const pattern of patterns) {
       const matches = complexName.matchAll(pattern);
@@ -486,19 +495,28 @@ class MissingVaultAnalyzer {
         if (match[2]) protocols.push(match[2].toLowerCase());
       }
     }
-    
+
     // Also check for common protocol names that might be embedded
     const commonProtocols = [
-      'goldilocks', 'origami', 'steer', 'beradrome', 'kodiak', 'dolomite', 
-      'euler', 'infrared', 'wasabee', 'fatbera', 'berabtc'
+      "goldilocks",
+      "origami",
+      "steer",
+      "beradrome",
+      "kodiak",
+      "dolomite",
+      "euler",
+      "infrared",
+      "wasabee",
+      "fatbera",
+      "berabtc",
     ];
-    
+
     for (const protocol of commonProtocols) {
       if (complexName.includes(protocol)) {
         protocols.push(protocol);
       }
     }
-    
+
     return [...new Set(protocols)]; // Remove duplicates
   }
 
@@ -613,7 +631,9 @@ class MissingVaultAnalyzer {
       if (protocolData) {
         // Check if protocol URL already exists
         const existingProtocol = this.jsonData.protocols.find(
-          (p) => p.url === protocolData.protocolUrl && protocolData.protocolUrl !== ""
+          (p) =>
+            p.url === protocolData.protocolUrl &&
+            protocolData.protocolUrl !== "",
         );
 
         if (!existingProtocol) {
@@ -632,12 +652,12 @@ class MissingVaultAnalyzer {
     // Add missing vaults (check for duplicates)
     missingVaults.forEach((vault) => {
       const fixedVaultAddress = this.fixVaultAddress(vault.vaultAddress);
-      
+
       // Check if vault address already exists
       const existingVault = this.jsonData.vaults.find(
-        (v) => v.vaultAddress.toLowerCase() === fixedVaultAddress.toLowerCase()
+        (v) => v.vaultAddress.toLowerCase() === fixedVaultAddress.toLowerCase(),
       );
-      
+
       if (!existingVault) {
         const newVault: Vault = {
           stakingTokenAddress: this.fixVaultAddress(vault.stakingTokenAddress),
