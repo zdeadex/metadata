@@ -2081,7 +2081,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.henlo.com",
-      "description": "https://docs.google.com/spreadsheets/d/1QhriUWGMbMXycyii_xSm8Ixl9CBUghrQQRDFMxvUAEQ/edit?gid=0#gid=0",
+      "description": "Henlo Wall is a staking vault for HENLO token holders, providing rewards and governance participation opportunities.",
       "owner": "Foundation",
       "action": "Stake Henlo Wall"
     },
@@ -2105,7 +2105,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.beraborrow.com/",
-      "description": "https://docs.google.com/spreadsheets/d/16Fy2xv9SZJD-T8_ukg0qpNu5Z6kyylfsawakSL4hnQk/edit?usp=sharing",
+      "description": "KODIAK - ZERO | NECT vault allows users to stake liquidity from the ZERO and NECT token pair on Kodiak through Beraborrow.",
       "owner": "Foundation",
       "action": "Stake KODIAK - ZERO \\ / NECT"
     },
@@ -2117,7 +2117,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://origami.finance/collections",
-      "description": "https://docs.google.com/spreadsheets/d/1yHqisxaokqZsAcBjGX8ZMOLDvmf168DUtc1u5TzKJdw/edit?usp=sharing",
+      "description": "hOHM-HONEY LP vault allows staking of liquidity provider tokens from the hOHM and HONEY pair on Kodiak through Origami Finance.",
       "owner": "Foundation",
       "action": "Stake hOHM-HONEY LP on Kodiak"
     },
@@ -2129,7 +2129,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.notion.so/BaddieBounty-Public-Dashboard-208b0c2bc28880f68befec981f348ae6",
-      "description": "N/A",
+      "description": "Baddie Content Vault provides rewards for content creators and community members in the Berabaddies ecosystem.",
       "owner": "Foundation",
       "action": "Stake Baddie Content Vault"
     },
@@ -2141,7 +2141,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://yeetit.xyz",
-      "description": "NA",
+      "description": "Yeet BGT Auction vault allows participation in BGT token auctions through the Yeet protocol.",
       "owner": "Foundation",
       "action": "Stake Yeet BGT Auction"
     },
@@ -2153,7 +2153,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.itsallzero.com/",
-      "description": "https://docs.google.com/spreadsheets/d/1exgjh6XuPa91514t82-gQ9kSNUpS6-u5yK1PUtjCHr0/edit?usp=sharing",
+      "description": "KODIAK - ZERO | iBGT vault allows staking of liquidity from the ZERO and iBGT token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "Foundation",
       "action": "Stake KODIAK - ZERO \\ / iBGT"
     },
@@ -2177,7 +2177,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap?chain=berachain_mainnet",
-      "description": "n/a",
+      "description": "Kodiak - SolvBTC.BNB | SolvBTC 0.3% Island vault allows staking of liquidity from the SolvBTC.BNB and SolvBTC pair with 0.3% fee tier on Kodiak.",
       "owner": "Foundation",
       "action": "Stake Kodiak - SolvBTC.BNB \\ / SolvBTC 0.3% Island"
     },
@@ -2189,7 +2189,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap?chain=berachain_mainnet",
-      "description": "n/a",
+      "description": "Kodiak - SolvBTC.BNB | xSolvBTC 0.3% Island vault allows staking of liquidity from the SolvBTC.BNB and xSolvBTC pair with 0.3% fee tier on Kodiak.",
       "owner": "Foundation",
       "action": "Stake Kodiak - SolvBTC.BNB \\ / xSolvBTC 0.3% Island"
     },
@@ -2201,7 +2201,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap",
-      "description": "https://docs.google.com/spreadsheets/d/1advzFBK8DBvkNQHSrQqvAPfT2uOMnPBrgOQqOK369zo/edit?usp=sharing",
+      "description": "Kodiak - SOL | HONEY 0.3% Island vault allows staking of liquidity from the SOL and HONEY token pair with 0.3% fee tier on Kodiak.",
       "owner": "Foundation",
       "action": "Stake Kodiak - SOL \\ / HONEY 0.3% Island"
     },
@@ -2213,7 +2213,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://berachain.com",
-      "description": "N/A",
+      "description": "Ultraviolet | uvPREM-iBERA vault allows staking of premium iBERA tokens through the Ultraviolet protocol.",
       "owner": "Foundation",
       "action": "Stake Ultraviolet \\ / uvPREM-iBERA"
     },
@@ -2225,7 +2225,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://origami.finance",
-      "description": "https://docs.google.com/spreadsheets/d/1yHqisxaokqZsAcBjGX8ZMOLDvmf168DUtc1u5TzKJdw/edit?gid=0#gid=0",
+      "description": "OHM-hOHM LP vault allows staking of liquidity provider tokens from the OHM and hOHM pair on Kodiak through Origami Finance.",
       "owner": "Foundation",
       "action": "Stake OHM-hOHM LP on Kodiak"
     },
@@ -2249,7 +2249,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.itsallzero.com/",
-      "description": "https://docs.google.com/spreadsheets/d/19DgL--ofBCRg7fRIC9u0z7HO9EF4QAFgvwVI4rT0xpQ/edit?gid=0#gid=0",
+      "description": "Kodiak - WBERA | ZERO vault allows staking of liquidity from the WBERA and ZERO token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "Foundation",
       "action": "Stake Kodiak - WBERA \\ / ZERO"
     },
@@ -2261,7 +2261,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://dapp.paddlefi.com/moneymarket",
-      "description": "https://docs.google.com/spreadsheets/d/18_j76uwsAADZCC_DxJaJpDWssO7dpAGxFKI9ILBP80E/edit?usp=sharing",
+      "description": "Paddle - WBERA | SteadyTeddys vault allows staking of liquidity from the WBERA and SteadyTeddys token pair on Paddle Finance.",
       "owner": "Foundation",
       "action": "Stake Paddle - WBERA \\ / SteadyTeddys"
     },
@@ -2273,7 +2273,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://kettle.shop",
-      "description": "N/A",
+      "description": "Kettle Volume Reward Vault provides rewards based on trading volume and activity on the Kettle protocol.",
       "owner": "Foundation",
       "action": "Stake Kettle Volume Reward Vault"
     },
@@ -2321,7 +2321,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://streamprotocol.money/",
-      "description": "https://docs.google.com/spreadsheets/d/1m1_0AllzOeUEeIHzS18mQMaMnp2SSL25fAvjc_Z9j3w/edit?usp=sharing",
+      "description": "xUSD-HONEY vault allows staking of liquidity from the xUSD and HONEY token pair on Stream Protocol.",
       "owner": "Foundation",
       "action": "Stake xUSD-HONEY"
     },
@@ -2357,7 +2357,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.ether.fi/",
-      "description": "https://docs.google.com/spreadsheets/d/1MizDTRf02Bj2veFBW_R9UfzjnqwyDCbBFKhfW-qGN5g/edit?usp=sharing",
+      "description": "Ether.Fi Liquid Bera ETH vault allows staking of liquid staking tokens for Bera ETH through Ether.Fi's liquid staking protocol.",
       "owner": "Foundation",
       "action": "Stake Ether.Fi Liquid Bera ETH"
     },
@@ -2369,7 +2369,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.ether.fi/",
-      "description": "https://docs.google.com/spreadsheets/d/1SCYdNeAUB_owxpWAhE1TNmB67_1nfW3g90NKLK-TBSE/edit?gid=0#gid=0",
+      "description": "Ether.Fi Liquid Bera BTC vault allows staking of liquid staking tokens for Bera BTC through Ether.Fi's liquid staking protocol.",
       "owner": "Foundation",
       "action": "Stake Ether.Fi Liquid Bera BTC"
     },
@@ -2381,7 +2381,7 @@
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://frax.com",
-      "description": "https://docs.google.com/spreadsheets/d/1py7y-72iAszk-woxM1QaAVCS1uuTcrv4KmkWU6aO9dw/edit?usp=sharing",
+      "description": "Sweet Frax - frxUSD/HONEY vault allows staking of liquidity from the frxUSD and HONEY token pair through Frax Finance.",
       "owner": "Foundation",
       "action": "Stake Sweet Frax - frxUSD/HONEY"
     }
