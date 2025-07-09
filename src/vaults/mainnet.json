@@ -452,7 +452,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xe416c064946112c1626d6700d1081a750b1b1dd7000200000000000000000008",
       "description": "Acquired by depositing liquidity into the Smilee - NECT | wgBERA Pool on BurrBear",
       "owner": "Smilee",
-      "action": "Stake Smilee - NECT / wgBERA"
+      "action": "Stake NECT / wgBERA"
     },
     {
       "stakingTokenAddress": "0x88c983bf3d4A9Adcee14e1b4f1C446c4C5853EA3",
@@ -466,7 +466,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x88c983bf3d4a9adcee14e1b4f1c446c4c5853ea3?farm=0x25acec3a1766a0d02d7c8e22f48533d32d7b311b&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the iBERA-wgBERA Pool on Kodiak",
       "owner": "Smilee",
-      "action": "Stake Smilee - iBERA / wgBERA"
+      "action": "Stake iBERA / wgBERA"
     },
     {
       "stakingTokenAddress": "0x567f32E86BE3e3963CdBc1887b5043B701f113d9",
@@ -480,7 +480,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x567f32e86be3e3963cdbc1887b5043b701f113d9000000000000000000000006",
       "description": "The stable pool wgBERA-BERA, including the official Liquid Staking Token from Smilee Finance.",
       "owner": "Smilee",
-      "action": "Stake Smilee - WBERA / wgBERA"
+      "action": "Stake WBERA / wgBERA"
     },
     {
       "stakingTokenAddress": "0x62C030B29a6Fef1B32677499e4a1F1852a8808c0",
@@ -494,7 +494,7 @@
       "url": "https://hub.berachain.com/pools/0x62c030b29a6fef1b32677499e4a1f1852a8808c00000000000000000000000c6/details/",
       "description": "Acquired by depositing liquidity into the Infrared - WBERA | iBERA Pool on Hub",
       "owner": "Infrared Finance",
-      "action": "Stake Infrared - WBERA / iBERA"
+      "action": "Stake WBERA / iBERA"
     },
     {
       "stakingTokenAddress": "0xb66d97C1dE2BC2b61EEf8EF9c761a87521DF207d",
@@ -508,7 +508,7 @@
       "url": "https://hub.berachain.com/pools/0xb66d97c1de2bc2b61eef8ef9c761a87521df207d00020000000000000000005d/details/",
       "description": "Acquired by depositing liquidity into the Stride - stBGT | WBERA Pool on Hub",
       "owner": "Stride",
-      "action": "Stake Stride - stBGT / WBERA"
+      "action": "Stake stBGT / WBERA"
     },
     {
       "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
@@ -522,7 +522,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/v2/add/0x6969696969696969696969696969696969696969/0xb7e448e5677d212b8c8da7d6312e8afc49800466?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the WBERA - LOCKS Kodiak pool and staking the LP token on Beradrome.",
       "owner": "Goldilocks DAO",
-      "action": "Stake WBERA - LOCKS Beradrome Kodiak V2 LP"
+      "action": "Stake WBERA / LOCKS"
     },
     {
       "stakingTokenAddress": "0x2461e93D5963C2bB69de499676763E67A63c7Ba5",
@@ -536,7 +536,7 @@
       "url": "https://hub.berachain.com/pools/0x2461e93d5963c2bb69de499676763e67a63c7ba50002000000000000000000c2/details/",
       "description": "Acquired by depositing liquidity into the Dinero - DINERO | WBERA Pool on Hub",
       "owner": "Dinero",
-      "action": "Stake Dinero - DINERO / WBERA"
+      "action": "Stake DINERO / WBERA"
     },
     {
       "stakingTokenAddress": "0x03bCcF796cDef61064c4a2EffdD21f1AC8C29E92",
@@ -550,7 +550,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x03bccf796cdef61064c4a2effdd21f1ac8c29e92?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Dinero - WETH | beraETH Pool on Kodiak",
       "owner": "Dinero",
-      "action": "Stake Dinero - WETH / beraETH"
+      "action": "Stake WETH / beraETH"
     },
     {
       "stakingTokenAddress": "0x705Fc16BA5A1EB67051934F2Fb17EacaE660F6c7",
@@ -564,7 +564,7 @@
       "url": "https://hub.berachain.com/pools/0x705fc16ba5a1eb67051934f2fb17eacae660f6c70002000000000000000000d5/details/",
       "description": "Acquired by depositing liquidity into the BeraPaw - WBERA | LBGT Pool on Hub",
       "owner": "BeraPaw",
-      "action": "Stake BeraPaw - WBERA / LBGT"
+      "action": "Stake WBERA / LBGT"
     },
     {
       "stakingTokenAddress": "0xEc8BA456b4e009408d0776cdE8B91f8717D13Fa1",
@@ -578,7 +578,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xec8ba456b4e009408d0776cde8b91f8717d13fa1?farm=0x0710abffb1a54211a5e88d18bf9854cba86d0819&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Yeet - YEET | WBERA Pool on Kodiak",
       "owner": "Yeet",
-      "action": "Stake Yeet - YEET / WBERA"
+      "action": "Stake YEET / WBERA"
     },
     {
       "stakingTokenAddress": "0xf9845a03F7e6b06645A03a28b943C8A4B5fE7BCC",
@@ -592,7 +592,7 @@
       "url": "https://v3.info.kodiak.finance/berachain_mainnet#/berachain_mainnet/pools/0x37640ccf25e5f189c3d8c1a188d28d09953fd612",
       "description": "Acquired by depositing liquidity into the Beramonium - BERA | BERAMO Pool on Kodiak",
       "owner": "Beramonium",
-      "action": "Stake Beramonium - BERA / BERAMO"
+      "action": "Stake BERA / BERAMO"
     },
     {
       "stakingTokenAddress": "0x3000C6BF0AAEb813e252B584c4D9a82f99e7a71D",
@@ -606,7 +606,7 @@
       "url": "https://app.dolomite.io/balances",
       "description": "Acquired by depositing rUSD into Dolomite",
       "owner": "Dolomite",
-      "action": "Stake Reservoir / Dolomite - drUSD"
+      "action": "Stake drUSD"
     },
     {
       "stakingTokenAddress": "0x1fb6c1aDE4F9083b2EA42ED3fa9342e41788D4b5",
@@ -620,7 +620,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x1fb6c1ade4f9083b2ea42ed3fa9342e41788d4b5?chain=berachain_mainnet",
       "description": "Acquired by depositing rUSD and USDT0 in the LP on Kodiak",
       "owner": "Reservoir",
-      "action": "Stake Reservoir / Tether - rUSD-USD₮0"
+      "action": "Stake rUSD-USD₮0"
     },
     {
       "stakingTokenAddress": "0x7fd165B73775884a38AA8f2B384A53A3Ca7400E6",
@@ -634,7 +634,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x7fd165b73775884a38aa8f2b384a53a3ca7400e6?farm=0x34852c863d266100f573d4d1fd1d0cfe20602da0&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Reservoir rUSD | HONEY Pool on Kodiak",
       "owner": "Reservoir",
-      "action": "Stake Reservoir rUSD / HONEY"
+      "action": "Stake rUSD / HONEY"
     },
     {
       "stakingTokenAddress": "0x98bDEEde9A45C28d229285d9d6e9139e9F505391",
@@ -648,7 +648,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x98bdeede9a45c28d229285d9d6e9139e9f505391?farm=0x815596fa7c4d983d1ca5304e5b48978424c1b448&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Olympus - OHM | HONEY Pool on Kodiak",
       "owner": "Olympus",
-      "action": "Stake Olympus - OHM / HONEY"
+      "action": "Stake OHM / HONEY"
     },
     {
       "stakingTokenAddress": "0x083a86797db5B6F738CE9E0599F6bE17d3059275",
@@ -661,7 +661,7 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742841609/reward-vaults/icons/544876aa-568f-4f78-b318-b16d02e23bd6.png",
       "url": "https://www.beradrome.com/swap",
       "owner": "Beradrome",
-      "action": "Stake Beradrome - hiBERO / HONEY"
+      "action": "Stake hiBERO / HONEY"
     },
     {
       "stakingTokenAddress": "0x4a254B11810B8EBb63C5468E438FC561Cb1bB1da",
@@ -675,7 +675,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x4a254B11810B8EBb63C5468E438FC561Cb1bB1da?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Kodiak - WBERA | HONEY Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - WBERA / HONEY"
+      "action": "Stake WBERA / HONEY"
     },
     {
       "stakingTokenAddress": "0x9659dc8c1565E0bd82627267e3b4eEd1a377ebE6",
@@ -689,7 +689,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x9659dc8c1565E0bd82627267e3b4eEd1a377ebE6?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Kodiak - WETH | WBERA Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - WETH / WBERA"
+      "action": "Stake WETH / WBERA"
     },
     {
       "stakingTokenAddress": "0xF06EA29FCF4765200742d29E685973a1870EaC98",
@@ -703,7 +703,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xF06EA29FCF4765200742d29E685973a1870EaC98?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | WBERA Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - WBTC / WBERA"
+      "action": "Stake WBTC / WBERA"
     },
     {
       "stakingTokenAddress": "0xdcA120bd3A13250B67f6FAA5c29c1F38eC6EBeCE",
@@ -717,7 +717,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xdcA120bd3A13250B67f6FAA5c29c1F38eC6EBeCE?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Holdstation - HOLD | WBERA Pool on Kodiak",
       "owner": "Holdstation",
-      "action": "Stake Holdstation - HOLD / WBERA"
+      "action": "Stake HOLD / WBERA"
     },
     {
       "stakingTokenAddress": "0xcfFBFD665BEdB19B47837461A5aBf4388C560D35",
@@ -731,7 +731,7 @@
       "url": "https://www.bulla.exchange/pools/0x01ad86d9946c04917970578ff50f6ae4822214da",
       "description": "Acquired by depositing liquidity into the Bulla - BERA | iBGT Pool on Bulla Exchange",
       "owner": "Bulla Exchange",
-      "action": "Stake Bulla - BERA / iBGT"
+      "action": "Stake BERA / iBGT"
     },
     {
       "stakingTokenAddress": "0x258d8933B625566fBe057874121783a2808aDafA",
@@ -745,7 +745,7 @@
       "url": "https://hub.berachain.com/pools/0x258d8933b625566fbe057874121783a2808adafa0000000000000000000000c1/details/",
       "description": "Acquired by depositing liquidity into the Dinero - WETH | beraETH Pool on Hub",
       "owner": "Dinero",
-      "action": "Stake Dinero - WETH / beraETH"
+      "action": "Stake WETH / beraETH"
     },
     {
       "stakingTokenAddress": "0x57161d6272F47cd48BA165646c802f001040C2E0",
@@ -759,7 +759,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x57161d6272f47cd48ba165646c802f001040c2e0?farm=0x19ecf480652a7de3a60dd7fd7012daed6c79e3e9&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Dinero - STONE | beraETH Pool on Kodiak",
       "owner": "Dinero",
-      "action": "Stake Dinero - STONE / beraETH"
+      "action": "Stake STONE / beraETH"
     },
     {
       "stakingTokenAddress": "0xE3EeB9e48934634d8B5B39A0d15DD89eE0F969C4",
@@ -773,7 +773,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xE3EeB9e48934634d8B5B39A0d15DD89eE0F969C4?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Infrared - WBERA-iBERA Pool on Kodiak",
       "owner": "Infrared Finance",
-      "action": "Stake Infrared - WBERA-iBERA"
+      "action": "Stake WBERA / iBERA"
     },
     {
       "stakingTokenAddress": "0x564f011D557aAd1cA09BFC956Eb8a17C35d490e0",
@@ -787,7 +787,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x564f011D557aAd1cA09BFC956Eb8a17C35d490e0?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Infrared - WBERA-iBGT Pool on Kodiak",
       "owner": "Infrared Finance",
-      "action": "Stake Infrared - WBERA-iBGT"
+      "action": "Stake WBERA / iBGT"
     },
     {
       "stakingTokenAddress": "0x93A913351CaE2D8C82C4b85f699726947eB76d32",
@@ -801,7 +801,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x93A913351CaE2D8C82C4b85f699726947eB76d32?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Ramen - RAMEN | BERA Pool on Kodiak",
       "owner": "Ramen Finance",
-      "action": "Stake Ramen - RAMEN / BERA"
+      "action": "Stake RAMEN / BERA"
     },
     {
       "stakingTokenAddress": "0x0FD67ac75F9DF51f5d81F582417B318F44b45f5c",
@@ -815,7 +815,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x0FD67ac75F9DF51f5d81F582417B318F44b45f5c?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BM - WBERA | BM Pool on Kodiak",
       "owner": "BM",
-      "action": "Stake BM - WBERA / BM"
+      "action": "Stake WBERA / BM"
     },
     {
       "stakingTokenAddress": "0xEf8C3239E0D8Be9d58f145E18F5909Ddad681365",
@@ -829,7 +829,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xEf8C3239E0D8Be9d58f145E18F5909Ddad681365?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the NAV - NAV | BERA Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake NAV - NAV / BERA"
+      "action": "Stake NAV / BERA"
     },
     {
       "stakingTokenAddress": "0x97431F104be73FC0e6fc731cE84486DA05C48871",
@@ -843,7 +843,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x97431f104be73fc0e6fc731ce84486da05c48871?farm=0xcd1982b07adfa787a88dc1157b9fa3221d25fcaf&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the StakeStone - WETH | STONE Pool on Kodiak",
       "owner": "StakeStone",
-      "action": "Stake StakeStone - WETH / STONE"
+      "action": "Stake WETH / STONE"
     },
     {
       "stakingTokenAddress": "0x8b161685135e9FbC5475169e1adDc0F2C4b7c343",
@@ -857,7 +857,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x8b161685135e9fbc5475169e1addc0f2c4b7c343?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Stride - stBGT | BERA Pool on Kodiak",
       "owner": "Stride",
-      "action": "Stake Stride - stBGT / BERA"
+      "action": "Stake stBGT / BERA"
     },
     {
       "stakingTokenAddress": "0x3879451f4f69F0c2d37CaD45319cFf2E7d29C596",
@@ -871,7 +871,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x3879451f4f69f0c2d37cad45319cff2e7d29c596?farm=0x11fadf69a02340a676b4bd2a27ffd952094fae99&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Solv - SolvBTC | WBTC Pool on Kodiak",
       "owner": "Solv Protocol",
-      "action": "Stake Solv - SolvBTC / WBTC"
+      "action": "Stake SolvBTC / WBTC"
     },
     {
       "stakingTokenAddress": "0xE8b92cd9771ebaad873A8E1b1B55404aECfDBc9d",
@@ -885,7 +885,7 @@
       "url": "https://v2.info.kodiak.finance/pair/0xac1d44f0284634eb04ffa56c76d47e839224b46f?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Beraplug - PLUG | WBERA Pool on Kodiak",
       "owner": "Beraplug",
-      "action": "Stake Beraplug - PLUG / WBERA"
+      "action": "Stake PLUG / WBERA"
     },
     {
       "stakingTokenAddress": "0x43E487126c4F37D1915cF02a90B5C5295AFb1790",
@@ -899,7 +899,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x43e487126c4f37d1915cf02a90b5c5295afb1790?farm=0x3fc5cb0290c82680afe9ef8cdde5468d74c85705&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Solv - SolvBTC.BBN | SolvBTC Pool on Kodiak",
       "owner": "Solv Protocol",
-      "action": "Stake Solv - xSolvBTC/solvBTC"
+      "action": "Stake xSolvBTC / solvBTC"
     },
     {
       "stakingTokenAddress": "0xB67D60fc02E0870EdDca24D4fa8eA516c890152b",
@@ -913,7 +913,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xb67d60fc02e0870eddca24d4fa8ea516c890152b?farm=0x8ee2627aff73e285f1a83b6e8bb7e9945f404a1b&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Bedrock - WBTC | uniBTC Pool on Kodiak",
       "owner": "Bedrock",
-      "action": "Stake Bedrock - WBTC / uniBTC"
+      "action": "Stake WBTC / uniBTC"
     },
     {
       "stakingTokenAddress": "0x7CeBCc76A2faecC0aE378b340815fcbb71eC1Fe0",
@@ -927,7 +927,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x7cebcc76a2faecc0ae378b340815fcbb71ec1fe0?farm=0xc196d595dece185ea39f8e1c3ce07a274ac31985&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Avalon Labs - USDa | sUSDa Pool on Kodiak",
       "owner": "Avalon Labs",
-      "action": "Stake Avalon Labs - USDa / sUSDa"
+      "action": "Stake USDa / sUSDa"
     },
     {
       "stakingTokenAddress": "0x2CaFe99dB26Cf86Ae8587F5934830d25aD5C3Cb3",
@@ -941,7 +941,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x2CaFe99dB26Cf86Ae8587F5934830d25aD5C3Cb3?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the HPOS10I - WBERA | BITCOIN Pool on Kodiak",
       "owner": "HarryPotterObamaSonic10inu ($BITCOIN)",
-      "action": "Stake HPOS10I - WBERA / BITCOIN"
+      "action": "Stake WBERA / BITCOIN"
     },
     {
       "stakingTokenAddress": "0xb5D46214F4ec7f910CB433E412d32ee817986E90",
@@ -955,7 +955,7 @@
       "url": "https://www.bulla.exchange/pools/0x901c19842e400c6a0c214dc0960f84fcfd4ee3d0",
       "description": "Acquired by depositing liquidity into the Bulla - BERA | HONEY Pool on Bulla Exchange",
       "owner": "Bulla Exchange",
-      "action": "Stake Bulla - BERA / HONEY"
+      "action": "Stake BERA / HONEY"
     },
     {
       "stakingTokenAddress": "0x5fADc07d47D3dC1e81932eaFBE39fdEF9ba11865",
@@ -969,7 +969,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5fadc07d47d3dc1e81932eafbe39fdef9ba11865?farm=0xaa9c3d4ac242ab6eb9790861e1b4d6fbd6619cf4&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Renzo - ezETH | wETH Pool on Kodiak",
       "owner": "Renzo",
-      "action": "Stake Renzo - ezETH / wETH"
+      "action": "Stake ezETH / wETH"
     },
     {
       "stakingTokenAddress": "0x28a54EaeEc63fBb1175d13466a9ada5f3175D577",
@@ -983,7 +983,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x28a54EaeEc63fBb1175d13466a9ada5f3175D577?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the NOME - USDbr | HONEY Pool on Kodiak",
       "owner": "NOME",
-      "action": "Stake NOME - USDbr / HONEY"
+      "action": "Stake USDbr / HONEY"
     },
     {
       "stakingTokenAddress": "0xc227C8639A41db8393DD1B4EAc41464a62D64Fb4",
@@ -997,7 +997,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xc227c8639a41db8393dd1b4eac41464a62d64fb4?farm=0x3c8e4d4324f7ab2e3238c23a2838a762ecb7051d&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Olympus - OHM | wBERA Pool on Kodiak",
       "owner": "Olympus",
-      "action": "Stake Olympus - OHM / wBERA"
+      "action": "Stake OHM / wBERA"
     },
     {
       "stakingTokenAddress": "0xD10E65A5F8cA6f835F2B1832e37cF150fb955f23",
@@ -1011,7 +1011,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23000000000000000000000004",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | HONEY Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / USDC.e / HONEY"
+      "action": "Stake NECT / USDC.e / HONEY"
     },
     {
       "stakingTokenAddress": "0xC95AB9Eff8fB48760703c74416764B8f898AFa1b",
@@ -1025,7 +1025,7 @@
       "url": "https://app.wasabi.xyz/earn?vault=sWBERA&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi",
-      "action": "Stake Wasabi - sWBERA"
+      "action": "Stake sWBERA"
     },
     {
       "stakingTokenAddress": "0xd948212F077e552533158bECbC1882c1b19c40FE",
@@ -1039,7 +1039,7 @@
       "url": "https://app.wasabi.xyz/earn?vault=sHONEY&network=berachain",
       "description": "Acquired by depositing BERA into the sWBERA Vault on Wasabi",
       "owner": "Wasabi",
-      "action": "Stake Wasabi - sHONEY"
+      "action": "Stake sHONEY"
     },
     {
       "stakingTokenAddress": "0xe454C546C8F3875e928910Abc653De5f8c432F11",
@@ -1053,7 +1053,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/v2/add/ETH/0x147c9A7F5265D7cA9a671C3817b212a0cF88856e?chain=berachain_mainnet",
       "description": "virtual, analytical consciousness bringing deep analysis to berachain",
       "owner": "BeraXBT",
-      "action": "Stake BeraXBT - BIXBT / WBERA"
+      "action": "Stake BIXBT / WBERA"
     },
     {
       "stakingTokenAddress": "0x273c832797Bfda1C0826a786670D041282Bd6aFc",
@@ -1067,7 +1067,7 @@
       "url": "https://exchange.kuma.bid/rewards/taker",
       "description": "Earned by trading on the Kuma Perps DEX",
       "owner": "Kuma",
-      "action": "Stake Kuma - Trade Rewards"
+      "action": "Trade on Kuma"
     },
     {
       "stakingTokenAddress": "0xd9a747880393f7c33cEf1aea36909b36d421F7E5",
@@ -1081,7 +1081,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xd9a747880393f7c33cef1aea36909b36d421f7e5?farm=0xc080b212caaa1ebbccde1434d6efe6359eda2084&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BREAD | OHM Pool on Kodiak Finance",
       "owner": "BakerDAO",
-      "action": "Stake BakerDAO - BREAD / OHM"
+      "action": "Stake BREAD / OHM"
     },
     {
       "stakingTokenAddress": "0x26bBc26415c6316890565f5f73017F85EE70B60c",
@@ -1095,7 +1095,7 @@
       "url": "https://app.madhoney.fi/vault",
       "description": "Acquired by depositing liquidity into the NECT | HONEY Pool on a D8X powered DEX like MadHoney.fi",
       "owner": "D8X",
-      "action": "Stake D8X - NECT / HONEY"
+      "action": "Stake NECT / HONEY"
     },
     {
       "stakingTokenAddress": "0x561fd767EEC89CFd94048DF7C5402C7194eF4580",
@@ -1109,7 +1109,7 @@
       "url": "https://app.bro.trade",
       "description": "Acquired by trading on bro.trade",
       "owner": "bro.trade",
-      "action": "Stake bro.trade - Trading Rewards"
+      "action": "Trade on bro.trade"
     },
     {
       "stakingTokenAddress": "0xEC06041013b3a97c58b9ab61eAE9079Bc594EdA3",
@@ -1123,7 +1123,7 @@
       "url": "https://wasabee.honeypotfinance.xyz/vault/0xec06041013b3a97c58b9ab61eae9079bc594eda3",
       "description": "Acquired by depositing liquidity into the WETH | WBERA Pool on Wasabee",
       "owner": "Wasabee",
-      "action": "Stake Wasabee - WETH / WBERA"
+      "action": "Stake WETH / WBERA"
     },
     {
       "stakingTokenAddress": "0xac04b1AbADF214B57f7Ade1DD905AB7aCac23a6b",
@@ -1137,7 +1137,7 @@
       "url": "https://wasabee.honeypotfinance.xyz/vault/0xac04b1AbADF214B57f7Ade1DD905AB7aCac23a6b",
       "description": "Acquired by depositing liquidity into the wgBERA | WBERA Pool on Wasabee",
       "owner": "Wasabee",
-      "action": "Stake Wasabee - wgBERA / WBERA"
+      "action": "Stake wgBERA / WBERA"
     },
     {
       "stakingTokenAddress": "0xE57D868d244d2Cf2E9679eaBa2A3048E58674565",
@@ -1151,7 +1151,7 @@
       "url": "https://wasabee.honeypotfinance.xyz/vault/0xE57D868d244d2Cf2E9679eaBa2A3048E58674565",
       "description": "Acquired by depositing liquidity into the iBERA | WBERA Pool on Wasabee",
       "owner": "Wasabee",
-      "action": "Stake Wasabee - iBERA / WBERA"
+      "action": "Stake iBERA / WBERA"
     },
     {
       "stakingTokenAddress": "0x7cEC734717d8C45a02A1218934B6AacEF00C392a",
@@ -1165,7 +1165,7 @@
       "url": "https://app.euler.finance/vault/0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc?network=berachain",
       "description": "Acquired by depositing HONEY into the MEV Capital Berchain Cluster HONEY Vault on Euler",
       "owner": "Euler",
-      "action": "Stake Euler - EVK Vault eHONEY-1"
+      "action": "Stake eHONEY-1"
     },
     {
       "stakingTokenAddress": "0x4d89c3854a46Ffe46244dC30bF28B9b2ef7f800b",
@@ -1179,7 +1179,7 @@
       "url": "https://app.euler.finance/vault/0x89FD57175EcEEC45992e07c206e5A864Fa6aF433?network=berachain",
       "description": "Acquired by depositing HONEY into the Re7 Labs HONEY Vault on Euler",
       "owner": "Euler",
-      "action": "Stake Euler - EVK Vault eHONEY-2"
+      "action": "Stake eHONEY-2"
     },
     {
       "stakingTokenAddress": "0xAf3Ab50BdAeA7aCfa07FAd209bbAd504F28c8BCF",
@@ -1193,7 +1193,7 @@
       "url": "https://app.euler.finance/vault/0x027DcAfB223f69d41Bd413C50854017718419585?network=berachain",
       "description": "Acquired by depositing HONEY into the Tulipa Hive HONEY Vault on Euler",
       "owner": "Euler",
-      "action": "Stake Euler - EVK Vault eHONEY-3"
+      "action": "Stake eHONEY-3"
     },
     {
       "stakingTokenAddress": "0xa2a3170f94b55c835f8483Bc2486D41Ff0c90F28",
@@ -1207,7 +1207,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xa2a3170f94b55c835f8483Bc2486D41Ff0c90F28?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Beratardio - BERATARDIO | WBERA pool on Kodiak v2",
       "owner": "Beratardio",
-      "action": "Stake Beratardio - BERATARDIO / WBERA"
+      "action": "Stake BERATARDIO / WBERA"
     },
     {
       "stakingTokenAddress": "0x597877Ccf65be938BD214C4c46907669e3E62128",
@@ -1249,7 +1249,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x337ef1eb6c8bbed571170fc2b468608ab9e2aac8?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the LBGT | WBERA Pool on Kodiak",
       "owner": "BeraPaw",
-      "action": "Stake LBGT / WBERA KODIAK ISLAND"
+      "action": "Stake LBGT / WBERA"
     },
     {
       "stakingTokenAddress": "0x9B155cF7a4E5911AC35AB2173D0f58e1d39570Fd",
@@ -1263,7 +1263,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x9b155cf7a4e5911ac35ab2173d0f58e1d39570fd?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the OOGA | WBERA Island Pool on Kodiak",
       "owner": "Ooga Booga",
-      "action": "Stake Kodiak Island OOGA-WBERA-1%"
+      "action": "Stake OOGA / WBERA"
     },
     {
       "stakingTokenAddress": "0xbac7DC9Cc4142580Ac968f65eFc673183a226cdF",
@@ -1277,7 +1277,7 @@
       "url": "https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/",
       "description": "LXP is acquired by using LODE (i.e. trading and completing quest campaigns). LXP is a proxy for trading rebates and rewards, it does not have liquidity nor is intended to be traded. LXP must be claimed and staked in our rewards vault (https://hub.berachain.com/vaults/0x127696d2e3a4ea1f4eed1afef608e8901cbe8965/) to be eligible for rewards. Please review our full proposal here: https://hub.forum.berachain.com/t/request-for-lxp-reward-vault-lode/316.",
       "owner": "LODE TRADE",
-      "action": "Stake LXP Rewards Vault"
+      "action": "Trade on LODE"
     },
     {
       "stakingTokenAddress": "0xfC4994e0A4780ba7536d7e79611468B6bde14CaE",
@@ -1291,7 +1291,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xfc4994e0a4780ba7536d7e79611468b6bde14cae?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Ether.fi - WBTC | eBTC Pool on Kodiak",
       "owner": "Ether.fi",
-      "action": "Stake Ether.fi - WBTC / eBTC"
+      "action": "Stake eBTC / WBTC"
     },
     {
       "stakingTokenAddress": "0xA0cAbFc04Fc420b3d31BA431d18eB5bD33B3f334",
@@ -1305,7 +1305,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xa0cabfc04fc420b3d31ba431d18eb5bd33b3f334?chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Ether.fi - WETH | weETH Pool on Kodiak",
       "owner": "Ether.fi",
-      "action": "Stake Ether.fi - WETH / weETH"
+      "action": "Stake weETH / WETH"
     },
     {
       "stakingTokenAddress": "0x54c603173CA92A42B81f8838d705fd3E0f98D5D4",
@@ -1319,7 +1319,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x54c603173CA92A42B81f8838d705fd3E0f98D5D4?farm=0x359424085d84c490a7b276e4bc72cef90a04068b&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BREAD | LBGT Pool on Kodiak Finance",
       "owner": "BakerDAO",
-      "action": "Stake BakerDAO - BREAD / LBGT"
+      "action": "Stake BREAD / LBGT"
     },
     {
       "stakingTokenAddress": "0x1b7B061091BD2C900723107889Fe44F825d6C921",
@@ -1333,7 +1333,7 @@
       "url": "https://hub.berachain.com/pools/0x1b7B061091BD2C900723107889Fe44F825d6C92100020000000000000000010c/details/",
       "description": "Acquired by depositing liquidity into the Wizzwoods - WIZZ|WBERA Pool on Hub",
       "owner": "Wizzwoods",
-      "action": "Stake Wizzwoods - WIZZ / WBERA"
+      "action": "Stake WIZZ / WBERA"
     },
     {
       "stakingTokenAddress": "0x55a050f76541C2554e9dfA3A0b4e665914bF92EA",
@@ -1347,7 +1347,7 @@
       "url": "https://app.webera.finance/vault?token=bera&type=lst",
       "description": "$weWBERA is acquired by depositing $BERA into the BERA Vault on WeBera Finance",
       "owner": "WeBera",
-      "action": "Stake webera-vault-wbera"
+      "action": "Stake WBERA"
     },
     {
       "stakingTokenAddress": "0x396A3D0B799B1a0B1EaA17e75B4DEa412400860b",
@@ -1361,7 +1361,7 @@
       "url": "https://app.webera.finance/vault?token=ibera&type=bera-lst",
       "description": "$weiBERA is acquired by depositing $IBERA into the IBERA Vault on WeBera Finance",
       "owner": "WeBera",
-      "action": "Stake webera-vault-ibera"
+      "action": "Stake iBERA"
     },
     {
       "stakingTokenAddress": "0x56449b16ff2b1E5EE61F532ceFFDa8F408f718a1",
@@ -1375,7 +1375,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x56449b16ff2b1E5EE61F532ceFFDa8F408f718a1?farm=0xed0fb3170390ef82e13102f36fa7fd5047722890&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Bedrock - BR | WBERA Pool on Kodiak",
       "owner": "Bedrock",
-      "action": "Stake Bedrock - BR / WBERA"
+      "action": "Stake BR / WBERA"
     },
     {
       "stakingTokenAddress": "0xC857F2bA47B0560E0B8fCd4Dd82b943B5ee88d2b",
@@ -1389,7 +1389,7 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO",
-      "action": "Stake Henlo - Henlocker100M"
+      "action": "Lock HENLO (Henlocker100M)"
     },
     {
       "stakingTokenAddress": "0x94CA1028eE60E5B28CdA22c0e7b6743017a9B7b6",
@@ -1403,7 +1403,7 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO",
-      "action": "Stake Henlo - Henlocker330M"
+      "action": "Lock HENLO (Henlocker330M)"
     },
     {
       "stakingTokenAddress": "0x94b12404D6163c3E49ED876fb25034A946A40Dd8",
@@ -1417,7 +1417,7 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO",
-      "action": "Stake Henlo - Henlocker420M"
+      "action": "Lock HENLO (Henlocker420M)"
     },
     {
       "stakingTokenAddress": "0x872130cED110e2a4325693C0802B6A0112B3615B",
@@ -1431,7 +1431,7 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO",
-      "action": "Stake Henlo - Henlocker690M"
+      "action": "Lock HENLO (Henlocker690M)"
     },
     {
       "stakingTokenAddress": "0xFb32f8c7D363790A6CCd89f8d20047612aba633B",
@@ -1445,7 +1445,7 @@
       "url": "https://app.henlo.com/lock",
       "description": "Acquired by price-locking tokens into a henlocker and staking on Henlo or Beradrome.",
       "owner": "HENLO",
-      "action": "Stake Henlo - Henlocker1B"
+      "action": "Lock HENLO (Henlocker1B)"
     },
     {
       "stakingTokenAddress": "0x36b933554782b108bb9962ac00c498acbceb706d",
@@ -1459,7 +1459,7 @@
       "url": "https://d2.finance/strategies/HyperBera.USDC?chainId=80094&tab=1",
       "description": "Acquired by deposited USDC.e into the HyperBera.USDC strategy vault on D2 Finance (during funding periods).",
       "owner": "D2 Finance",
-      "action": "Stake HyperBera.USDC"
+      "action": "Stake USDC.e (HyperBera)"
     },
     {
       "stakingTokenAddress": "0xbe75c8a7e58c7901d2e128dc8d3b6de2481f1f79",
@@ -1473,7 +1473,7 @@
       "url": "https://d2.finance/strategies/dgnBeraland?chainId=80094&tab=2",
       "description": "Acquired by deposited USDC.e into the dgnBeraland strategy vault on D2 Finance (during funding periods).",
       "owner": "D2 Finance",
-      "action": "Stake dgnBeraland"
+      "action": "Stake USDC.e (dgnBeraland)"
     },
     {
       "stakingTokenAddress": "0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
@@ -1487,7 +1487,7 @@
       "url": "https://app.aquabera.com/vault/0x04fD6a7B02E2e48caedaD7135420604de5f834f8",
       "description": "Acquired by depositing liquidity into the Aquabera - WBERA-HENLO Pool on Kodiak.",
       "owner": "HENLO",
-      "action": "Stake HENLO - WBERA / HENLO"
+      "action": "Stake WBERA / HENLO"
     },
     {
       "stakingTokenAddress": "0xD6620E78B89E8fdB5dFA675D55001C7FaD424bDc",
@@ -1501,7 +1501,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xd6620e78b89e8fdb5dfa675d55001c7fad424bdc?farm=0x284f8d4b98fed32f154911102053a0c1ab621fc0&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into  the POLLEN | WBERA Island on Kodiak",
       "owner": "Beraborrow",
-      "action": "Stake POLLEN / WBERA Kodiak Island"
+      "action": "Stake WBERA / POLLEN"
     },
     {
       "stakingTokenAddress": "0xaD445256Ff81171043A5e7Cd8831e4371B000176",
@@ -1515,7 +1515,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xad445256ff81171043a5e7cd8831e4371b000176?farm=0x15f1156f56a06af851cbdc0aceb0780bbcb913c4&chain=berachain_mainnet",
       "description": "Acquired by staking KODI iBERA-osBGT LP Token from Kodiak",
       "owner": "OpenState",
-      "action": "Stake Kodiak - OpenState - osBGT/iBERA"
+      "action": "Stake iBERA / osBGT"
     },
     {
       "stakingTokenAddress": "0x7f2B60fDff1494A0E3e060532c9980d7fad0404B",
@@ -1529,7 +1529,7 @@
       "url": "https://app.dolomite.io/",
       "description": "Acquire dHONEY by supplying HONEY on Dolomite.io",
       "owner": "Dolomite",
-      "action": "Stake Dolomite - dHONEY"
+      "action": "Stake HONEY"
     },
     {
       "stakingTokenAddress": "0xAa97D791Afc02AF30cf0B046172bb05b3c306517",
@@ -1543,7 +1543,7 @@
       "url": "https://app.dolomite.io/",
       "description": "Acquire dwBERA by supplying BERA  on Dolomite.io",
       "owner": "Dolomite",
-      "action": "Stake Dolomite - dWBERA"
+      "action": "Stake dWBERA"
     },
     {
       "stakingTokenAddress": "0x5347e5133b22A680Ee94b7e62803E848F8d8C92e",
@@ -1557,7 +1557,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e?chain=berachain_mainnet",
       "description": "Deposit liquidity into the Kodiak yBGT/yBERA pool",
       "owner": "Bearn",
-      "action": "Stake BEARN - yBGT / yBERA"
+      "action": "Stake yBGT / yBERA"
     },
     {
       "stakingTokenAddress": "0x1ac0E38eE5f66F6fa46E1644BB6B73bEe598b953",
@@ -1571,7 +1571,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x1ac0e38ee5f66f6fa46e1644bb6b73bee598b953?farm=0x6b9ae55362e65e2a615681824a6334cc3f29e658&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Bedrock - brBTC | uniBTC Pool on Kodiak",
       "owner": "Bedrock",
-      "action": "Stake Bedrock - brBTC / uniBTC"
+      "action": "Stake brBTC / uniBTC"
     },
     {
       "stakingTokenAddress": "0x112b77a77753b092306b1c04bd70215fed4e00a1",
@@ -1585,7 +1585,7 @@
       "url": "https://app.euler.finance/vault/0x112B77A77753b092306b1c04Bd70215FeD4e00a1?network=berachain",
       "description": "Acquire eNECT-1 by supplying NECT on the ZeroLend market on Euler",
       "owner": "ZeroLend",
-      "action": "Stake NECT - Euler"
+      "action": "Stake eNECT-1"
     },
     {
       "stakingTokenAddress": "0x68Cac522833F38E088EEC5e356956C02F0268063",
@@ -1613,7 +1613,7 @@
       "url": "https://app.concrete.xyz/vault/0xe96E0D5DdA2e24050F43AF92EbB3293f6e605C9a",
       "description": "Acquired by depositing USDT0 into Concrete's Berachain Stables vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - USDT"
+      "action": "Stake USDT0"
     },
     {
       "stakingTokenAddress": "0x585934AfBf1FA9f563b80283F8B916Dd8F66a9b6",
@@ -1627,7 +1627,7 @@
       "url": "https://app.concrete.xyz/vault/0x585934AfBf1FA9f563b80283F8B916Dd8F66a9b6",
       "description": "Acquired by depositing USDe into Concrete's Berachain Stables vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - USDe"
+      "action": "Stake USDe"
     },
     {
       "stakingTokenAddress": "0xc3cac88fd629652BBe0C3454D5d3049368A73849",
@@ -1641,7 +1641,7 @@
       "url": "https://app.concrete.xyz/vault/0xc3cac88fd629652BBe0C3454D5d3049368A73849",
       "description": "Acquired by depositing USDC.e into Concrete's Berachain Stables vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - USDC"
+      "action": "Stake USDC.e"
     },
     {
       "stakingTokenAddress": "0x81235952ad93987F74e074994Def2a7e1D6F1Fb0",
@@ -1655,7 +1655,7 @@
       "url": "https://app.concrete.xyz/vault/0x81235952ad93987F74e074994Def2a7e1D6F1Fb0",
       "description": "Acquired by depositing HONEY into Concrete's Berachain Stables vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - HONEY"
+      "action": "Stake HONEY"
     },
     {
       "stakingTokenAddress": "0xd08E3652e6b29EBdD58fe93B422513862FB49899",
@@ -1669,7 +1669,7 @@
       "url": "https://app.concrete.xyz/vault/0xd08E3652e6b29EBdD58fe93B422513862FB49899",
       "description": "Acquired by depositing sUSDe into Concrete's Berachain Stables vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - sUSDe"
+      "action": "Stake sUSDe"
     },
     {
       "stakingTokenAddress": "0x8d3e53f5521927E5c78D42B4f9e08ae8DF91B772",
@@ -1683,7 +1683,7 @@
       "url": "https://app.concrete.xyz/vault/0x8d3e53f5521927E5c78D42B4f9e08ae8DF91B772",
       "description": "Acquired by depositing WETH into Concrete's Berachain Ethereum vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - WETH"
+      "action": "Stake WETH"
     },
     {
       "stakingTokenAddress": "0x49BEE393825BBAC404fEfE6E24f34854f30905D2",
@@ -1697,7 +1697,7 @@
       "url": "https://app.concrete.xyz/vault/0x49BEE393825BBAC404fEfE6E24f34854f30905D2",
       "description": "Acquired by depositing BeraETH into Concrete's Berachain Ethereum vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - BeraETH"
+      "action": "Stake BeraETH"
     },
     {
       "stakingTokenAddress": "0xB6E3C1154e07f8a3dc04a9a28648C7AA30511120",
@@ -1711,7 +1711,7 @@
       "url": "https://app.concrete.xyz/vault/0xB6E3C1154e07f8a3dc04a9a28648C7AA30511120",
       "description": "Acquired by depositing LBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - LBTC"
+      "action": "Stake LBTC"
     },
     {
       "stakingTokenAddress": "0x335e7b56054F830883D1509AFDce58DedceFb29C",
@@ -1725,7 +1725,7 @@
       "url": "https://app.concrete.xyz/vault/0x335e7b56054F830883D1509AFDce58DedceFb29C",
       "description": "Acquired by depositing WBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - WBTC"
+      "action": "Stake WBTC"
     },
     {
       "stakingTokenAddress": "0x068D072d1ee7647B9d649a7C2046166Aa81af3D3",
@@ -1739,7 +1739,7 @@
       "url": "https://app.concrete.xyz/vault/0x068D072d1ee7647B9d649a7C2046166Aa81af3D3",
       "description": "Acquired by depositing uniBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - uniBTC"
+      "action": "Stake uniBTC"
     },
     {
       "stakingTokenAddress": "0x127BF6361ff7495F2A69d83d9Ad2092D3dfEE7Ab",
@@ -1753,7 +1753,7 @@
       "url": "https://app.concrete.xyz/vault/0x127BF6361ff7495F2A69d83d9Ad2092D3dfEE7Ab",
       "description": "Acquired by depositing FTBC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - FBTC"
+      "action": "Stake FBTC"
     },
     {
       "stakingTokenAddress": "0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
@@ -1767,7 +1767,7 @@
       "url": "https://app.concrete.xyz/vault/0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
       "description": "Acquired by depositing BERA or WBERA into Concrete's Berachain Bera vault",
       "owner": "Concrete",
-      "action": "Stake Concrete - BERA"
+      "action": "Stake BERA"
     },
     {
       "stakingTokenAddress": "0xe49Ff31B2B3Fd346b0d1832d9fE224ee0d1c1F9e",
@@ -1781,7 +1781,7 @@
       "url": "https://app.concrete.xyz/vault/0xe49Ff31B2B3Fd346b0d1832d9fE224ee0d1c1F9e",
       "description": "Acquired by depositing HONEY into Concrete's Berabaddies Earn Vault",
       "owner": "Concrete",
-      "action": "Stake Concrete x Berabaddies - HONEY"
+      "action": "Stake HONEY (Concrete x Berabaddies)"
     },
     {
       "stakingTokenAddress": "0xA15E1De8a220Ca9C63DB4E8a1E9043fb953B3713",
@@ -1795,7 +1795,7 @@
       "url": "https://app.concrete.xyz/vault/0xA15E1De8a220Ca9C63DB4E8a1E9043fb953B3713",
       "description": "Acquired by depositing BERA or WBERA into Concrete's Berabaddies Earn Vault",
       "owner": "Concrete",
-      "action": "Stake Concrete x Berabaddies - BERA"
+      "action": "Stake BERA (Concrete x Berabaddies)"
     },
     {
       "stakingTokenAddress": "0xdDD3Ea5De9c70973E224D938B8f392EC4CC0171C",
@@ -1809,7 +1809,7 @@
       "url": "https://game.bullas.xyz/",
       "description": "Acquired by spanking the bera in game to enter a 300-slot queue, earning BGT while providing liquidity. Each spank moves players through the queue, with their stake being removed after 300 spanks",
       "owner": "BULL ISH",
-      "action": "Stake Bull Ish V2"
+      "action": "Spank Ass"
     },
     {
       "stakingTokenAddress": "0xe87E5456Cc78578D1FcD95048FA639e5e32eE63A",
@@ -1823,7 +1823,7 @@
       "url": "https://www.bera.bet/",
       "description": "Bet on SX Bet (bera.bet) and earn SXBRT",
       "owner": "SX Bet",
-      "action": "Stake SX Bet - Bera Betting Rewards"
+      "action": "Bet on SX Bet"
     },
     {
       "stakingTokenAddress": "0xf6b16E73d3b0e2784AAe8C4cd06099BE65d092Bf",
@@ -1837,7 +1837,7 @@
       "url": "https://hub.berachain.com/vaults/0x9df027ed06635ecdfe811009f2291d347ea90357/",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | HONEY Island on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - WBTC / HONEY"
+      "action": "Stake WBTC | HONEY"
     },
     {
       "stakingTokenAddress": "0x58FDB6EEbf7df7Ce4137994436fb0e629Bb84b84",
@@ -1851,7 +1851,7 @@
       "url": "https://hub.berachain.com/vaults/0x0308f87226efacc51983bea842be57dc45de772c/",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | WETH Island on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - WBTC / WETH"
+      "action": "Stake WBTC | WETH"
     },
     {
       "stakingTokenAddress": "0xAc8a437d1e6905E419431662AEAd90fB04ac3008",
@@ -1865,7 +1865,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xac8a437d1e6905e419431662aead90fb04ac300800020000000000000000000f",
       "description": "Acquired by depositing liquidity into the BURR | wgBERA Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - BURR / wgBERA"
+      "action": "Stake BURR | wgBERA"
     },
     {
       "stakingTokenAddress": "0x46fcd35431f5B371224ACC2e2E91732867B1A77e",
@@ -1879,7 +1879,7 @@
       "url": "https://app.ether.fi/liquid/bera-btc",
       "description": "Ether.fi - primeLiquidBeraBTC",
       "owner": "Ether.fi",
-      "action": "Stake Ether.fi - primeLiquidBeraBTC"
+      "action": "Stake primeLiquidBeraBTC"
     },
     {
       "stakingTokenAddress": "0xB83742330443f7413DBD2aBdfc046dB0474a944e",
@@ -1893,7 +1893,7 @@
       "url": "https://app.ether.fi/liquid/bera-eth",
       "description": "Ether.fi - primeLiquidBeraETH",
       "owner": "Ether.fi",
-      "action": "Stake Ether.fi - primeLiquidBeraETH"
+      "action": "Stake primeLiquidBeraETH"
     },
     {
       "stakingTokenAddress": "0x24afcEB372b755F4953e738d6b38E9e4646D9F57",
@@ -1907,7 +1907,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x24afceb372b755f4953e738d6b38e9e4646d9f57?farm=0x199f156bba61496401dc2a009b5f69eb9a7e6f21&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the iBERA-iBGT Pool on Kodiak",
       "owner": "Infrared",
-      "action": "Stake KODI iBERA-iBGT"
+      "action": "Stake iBERA / iBGT"
     },
     {
       "stakingTokenAddress": "0xf6c6Be0FF6d6F70A04dBE4F1aDE62cB23053Bd95",
@@ -1921,7 +1921,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0xf6c6be0ff6d6f70a04dbe4f1ade62cb23053bd95?farm=0xc6506d205c92f9acd69779ed0c547557f3ad4607&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the WETH-HONEY Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake KODI WETH-HONEY"
+      "action": "Stake WETH / HONEY"
     },
     {
       "stakingTokenAddress": "0x2BDB8C39A3808eB9A03dE69925b6b158A57c57e6",
@@ -1935,7 +1935,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x2bdb8c39a3808eb9a03de69925b6b158a57c57e6?farm=0x6135e9e556b7aaaf66d2d6e8e47b96e2de6b602f&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the WBERA-AVL Pool on Kodiak",
       "owner": "Avalon",
-      "action": "Stake KODI WBERA-AVL"
+      "action": "Stake WBERA / AVL"
     },
     {
       "stakingTokenAddress": "0x5e4Fe86C4f6fB2203fbFb77FD6eC3Cb300B639AA",
@@ -1949,7 +1949,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x5e4fe86c4f6fb2203fbfb77fd6ec3cb300b639aa?farm=0x2461040526130a0ea1a0ed44b9c9d3331f3897ff&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the DOLO-WBERA Pool on Kodiak",
       "owner": "Dolomite",
-      "action": "Stake Kodiak - DOLO-WBERA"
+      "action": "Stake DOLO / WBERA"
     },
     {
       "stakingTokenAddress": "0x53f786662FF5fbeC135f913ab93C6B3366e90a46",
@@ -1963,7 +1963,7 @@
       "url": "https://hub.berachain.com/pools/0x53f786662ff5fbec135f913ab93c6b3366e90a4600020000000000000000014e/details",
       "description": "Acquired by depositing liquidity into the Jiko - ASUGAR | HONEY Pool on Hub",
       "owner": "Jiko",
-      "action": "Stake Jiko - ASUGAR / HONEY"
+      "action": "Stake ASUGAR / HONEY"
     },
     {
       "stakingTokenAddress": "0xd6eb8ae479EdF452d264493708c85AA798CCCdFd",
@@ -1977,7 +1977,7 @@
       "url": "https://app.dolomite.io/balances",
       "description": "Acquired by depositing uniBTC into Dolomite",
       "owner": "Bedrock",
-      "action": "Stake Bedrock / Dolomite - duniBTC"
+      "action": "Stake duniBTC"
     },
     {
       "stakingTokenAddress": "0x8EF48ae9DF6165acc9754297BF28F5877c229C03",
@@ -1991,7 +1991,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x8ef48ae9df6165acc9754297bf28f5877c229c03?farm=0x284f8d4b98fed32f154911102053a0c1ab621fc0&chain=berachain_mainnet",
       "description": "Acquired by providing liquidity into the NECT | USD₮0 - Island on Kodiak",
       "owner": "Beraborrow",
-      "action": "Stake NECT / USD₮0 - Kodiak Island"
+      "action": "Stake NECT | USD₮0"
     },
     {
       "stakingTokenAddress": "0x9f6cf7aCb2F16f7d906EeeCB0a6020a5Cf91A41d",
@@ -2005,7 +2005,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x9f6cf7acb2f16f7d906eeecb0a6020a5cf91a41d",
       "description": "Acquired by depositing liquidity into LAIR | BERA pool on Kodiak",
       "owner": "Lair",
-      "action": "Stake LAIR / BERA - Kodiak"
+      "action": "Stake LAIR / BERA"
     },
     {
       "stakingTokenAddress": "0x0F6f337B09cb5131cF0ce9df3Beb295b8e728F3B",
@@ -2019,7 +2019,7 @@
       "url": "https://app.solv.finance/bera?network=bera",
       "description": "Token can be minted/burned by providing or withdrawing liquidity into the vault",
       "owner": "Solv Protocol",
-      "action": "Stake Solv - SolvBTC.BERA"
+      "action": "Stake SolvBTC.BERA"
     },
     {
       "stakingTokenAddress": "0x718E92b415b8C59797801fc8B132339483349d28",
@@ -2033,7 +2033,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x718e92b415b8c59797801fc8b132339483349d2800020000000000000000001a",
       "description": "Acquired by depositing liquidity into the NECT | COIN Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / COIN"
+      "action": "Stake NECT / COIN"
     },
     {
       "stakingTokenAddress": "0x2395483d2F96A26aFc80E7cc3454Ea59311cEf08",
@@ -2047,7 +2047,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x2395483d2f96a26afc80e7cc3454ea59311cef0800020000000000000000001b",
       "description": "Acquired by depositing liquidity into the NECT | iCOIN Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / iCOIN"
+      "action": "Stake NECT / iCOIN"
     },
     {
       "stakingTokenAddress": "0x8213bB9C018edC0295b177278aeAA1a704f123ab",
@@ -2061,7 +2061,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x8213bb9c018edc0295b177278aeaa1a704f123ab000200000000000000000018",
       "description": "Acquired by depositing liquidity into the NECT | NVDA Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / NVDA"
+      "action": "Stake NECT / NVDA"
     },
     {
       "stakingTokenAddress": "0x10990Bf8C7cbC045eD482ED83Dc44cbCdA23ca23",
@@ -2075,7 +2075,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0x10990bf8c7cbc045ed482ed83dc44cbcda23ca23000200000000000000000019",
       "description": "Acquired by depositing liquidity into the NECT | iNVDA Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / iNVDA"
+      "action": "Stake NECT / iNVDA"
     },
     {
       "stakingTokenAddress": "0xCbeF1B65399065c2DE2C495971e90466ff38f2d0",
@@ -2089,7 +2089,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xcbef1b65399065c2de2c495971e90466ff38f2d000000000000000000000001e",
       "description": "Acquired by depositing liquidity into the WBTC | SolvBTC | xSolvBTC Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - WBTC / SolvBTC / xSolvBTC"
+      "action": "Stake WBTC / SolvBTC / xSolvBTC"
     },
     {
       "stakingTokenAddress": "0x7aEF016302C3a27417372CF3AA74A1708D1Ca291",
@@ -2103,7 +2103,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x7aef016302c3a27417372cf3aa74a1708d1ca291?farm=0xbc8c3d0cecef980e1f4a4775bd354614be163556&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the BERAMO | BERA pool on Kodiak",
       "owner": "Beramonium",
-      "action": "Stake Kodiak - BERAMO / BERA"
+      "action": "Stake BERAMO / BERA"
     },
     {
       "stakingTokenAddress": "0x217B9476Ecd8783C59ED0ed64C359B8F2b9cCd3a",
@@ -2117,7 +2117,7 @@
       "url": "https://v3.info.kodiak.finance/#/berachain_mainnet/pools/0x6ff710767d7aa77f9d0a83d6b14086834570f30d",
       "description": "Acquired by depositing liquidity into the AIBERA | WBERA Pool on Kodiak",
       "owner": "HoneyFun AI",
-      "action": "Stake HoneyFun AI - AIBERA / WBERA"
+      "action": "Stake AIBERA / WBERA"
     },
     {
       "stakingTokenAddress": "0x2A9EA10b60Ab02e9B8960a08b4996e6Bf5eA5EAb",
@@ -2131,7 +2131,7 @@
       "url": "https://app.rootsfi.com",
       "description": "Acquired by depositing WBTC, WETH, WBERA or BYUSD, USDCe into the Roots collateral pool.",
       "owner": "Roots",
-      "action": "Stake Roots - MEAD / HONEY"
+      "action": "Stake MEAD / HONEY"
     },
     {
       "stakingTokenAddress": "0xf91CfBB6c7203D1D659e3C2FcAF4A0f7dD51B3D8",
@@ -2159,7 +2159,7 @@
       "url": "https://www.goldilocksdao.io/goldivault/vault/oribgt",
       "description": "Provide liquidity on Kodiak for oriBGT/oriBGT-OT via Steer managed concentrated liquidity pool",
       "owner": "Goldilocks",
-      "action": "Stake oriBGT Goldivault Liquidity Pool"
+      "action": "Stake oriBGT / oriBGT-OT"
     },
     {
       "stakingTokenAddress": "0x595b1EcD5EC42fb5F321D4162b04965eaB8F1388",
@@ -2173,7 +2173,7 @@
       "url": "https://app.kodiak.finance/#/liquidity/pools/0x595b1ecd5ec42fb5f321d4162b04965eab8f1388?farm=0x9f20cda4ebe746929cdb9e0ffca60e4a335a0b15&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the STG | HONEY Pool on Kodiak",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - STG / HONEY"
+      "action": "Stake STG / HONEY"
     },
     {
       "stakingTokenAddress": "0x412c9f79779AE6C3a13a318252b29c559be756Ca",
@@ -2187,7 +2187,7 @@
       "url": "https://yeetit.xyz",
       "description": "Acquired by depositing liquidity into the YEET | wgBERA island on Kodiak",
       "owner": "Yeet",
-      "action": "Stake Yeet - YEET / wgBERA"
+      "action": "Stake YEET / wgBERA"
     },
     {
       "stakingTokenAddress": "0xCF21469a78aC96f4d84Eb4e77E515A8A672330CF",
@@ -2229,7 +2229,7 @@
       "url": "https://app.beraborrow.com/den/borrow/WBTC-uniBTC",
       "description": "Acquired by depositing bUNIBTC into a CDP on BeraBorrow",
       "owner": "Berraborrow",
-      "action": "Stake Beraborrow - bUNIBTC"
+      "action": "Stake bUNIBTC"
     },
     {
       "stakingTokenAddress": "0x8f32C1b7C9E2c60D357B7949a43540162248a21E",
@@ -2243,7 +2243,7 @@
       "url": "https://hub.berachain.com/vaults/0xa068760e9bec127b7cd1655ea2ec992aa0a1631d/",
       "description": "Stake your BERA in Smilee Finance and mint wgBERA to access this Liquidity Pool.",
       "owner": "Smilee",
-      "action": "Stake Smilee - wgBERA / WBERA"
+      "action": "Stake wgBERA / WBERA"
     },
     {
       "stakingTokenAddress": "0x8628e618b66E7CdDBe0AdC84B96bEa3977954507",
@@ -2257,7 +2257,7 @@
       "url": "https://app.beraborrow.com/den/borrow/wgBERA",
       "description": "This token will be deposited by the Beraborrow collVault on behalf of users who use wgBERA as collateral to mint NECT on beraborrow.",
       "owner": "Beraborrow",
-      "action": "Stake Beraborrow / wgBERA"
+      "action": "Stake wgBERA"
     },
     {
       "stakingTokenAddress": "0xc5240664229DB09d5327681CB9346412a8e78aB1",
@@ -2271,7 +2271,7 @@
       "url": "https://app.twinfinance.io/",
       "description": "Acquired by depositing liquidity into the AAPL-HONEY pool on Kodiak",
       "owner": "TWIN Finance",
-      "action": "Stake TWIN AAPL-HONEY"
+      "action": "Stake AAPL / HONEY"
     },
     {
       "stakingTokenAddress": "0x408dF611Cd2CA38b4c692517f64c8960d568F021",
@@ -2285,7 +2285,7 @@
       "url": "https://app.twinfinance.io/",
       "description": "Acquired by depositing liquidity into the iAAPL-HONEY pool on Kodiak",
       "owner": "TWIN Finance",
-      "action": "Stake TWIN iAAPL-HONEY"
+      "action": "Stake iAAPL / HONEY"
     },
     {
       "stakingTokenAddress": "0xE0dA06290f72c16dd7a296751E0fA20706a703A2",
@@ -2299,7 +2299,7 @@
       "url": "https://app.twinfinance.io/",
       "description": "Acquired by depositing liquidity into the MSTR-HONEY pool on Kodiak",
       "owner": "TWIN Finance",
-      "action": "Stake TWIN MSTR-HONEY"
+      "action": "Stake MSTR / HONEY"
     },
     {
       "stakingTokenAddress": "0xf0443861359b059D3d69daa655b878901Da0F930",
@@ -2313,7 +2313,7 @@
       "url": "https://app.twinfinance.io/",
       "description": "Acquired by depositing liquidity into the iMSTR-HONEY pool on Kodiak",
       "owner": "TWIN Finance",
-      "action": "Stake TWIN iMSTR-HONEY"
+      "action": "Stake iMSTR / HONEY"
     },
     {
       "stakingTokenAddress": "0xB34FCA9739249578D93a22ce02bf7FaD277bAD35",
@@ -2327,7 +2327,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xb34fca9739249578d93a22ce02bf7fad277bad35000000000000000000000013",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | USD₮0 | HONEY Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - NECT / USDC.e / USD₮0 / HONEY"
+      "action": "Stake NECT / USDC.e / USD₮0 / HONEY"
     },
     {
       "stakingTokenAddress": "0xC4C039178a79e614609e592d7689eCB3107758b1",
@@ -2341,7 +2341,7 @@
       "url": "https://app.burrbear.io/#/berachain/pool/0xc4c039178a79e614609e592d7689ecb3107758b1000200000000000000000020",
       "description": "Acquired by depositing liquidity into the BURR | NECT Pool on BurrBear",
       "owner": "BurrBear",
-      "action": "Stake BurrBear - BURR / NECT"
+      "action": "Stake BURR / NECT"
     },
     {
       "stakingTokenAddress": "0xe38e2273df9ca6f2cd6f2ea0b13399e65bf799f1",
