@@ -110,46 +110,76 @@ class MissingVaultAnalyzer {
     const lines = content.split("\n");
     const rows: CSVRow[] = [];
 
+    // Parse header row for column mapping
+    let headerMap: Record<string, number> = {};
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line || line.startsWith("#")) continue;
+      let fields = this.parseCSVLine(line);
+      // Skip the first column (row number) for header
+      if (
+        fields.includes("Your Protocol Name") &&
+        fields.includes("Protocol Description")
+      ) {
+        fields = fields.slice(1); // skip row number column
+        fields.forEach((col, idx) => {
+          headerMap[col.trim()] = idx;
+        });
+        lines.splice(i, 1);
+        break;
+      }
+    }
+
+    // Use exact header names from the user's CSV
+    const PROTOCOL_NAME = "Your Protocol Name";
+    const PROTOCOL_DESCRIPTION = "Protocol Description";
+    const PROTOCOL_URL = "Protocol URL (link to dApp)";
+    const PROTOCOL_LOGO = "Protocol Logo URL";
+    const VAULT_NAME = "Vault Name (Example: iBGT on Infrared or Wasabee - WETH | WBERA)";
+    const VAULT_ADDRESS = "Reward Vault Address: (insert only the contract address)";
+    const VAULT_LOGO = "Logo URL: Vault Image used for Staking Token Image (1024x1024 and non-transparent other may DELAY metadata)";
+    const STAKING_TOKEN_ADDRESS = "Staking Token Contract Address";
+    const VAULT_DESCRIPTION = "Describe how a user should acquire this staking token";
+
     // Find the actual data rows (skip headers and metadata)
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim();
       if (!line || line.startsWith("#")) continue;
+      let fields = this.parseCSVLine(line);
+      fields = fields.slice(1); // skip row number column for data rows
+      // Only process rows where required fields are present and valid
+      const protocolName = fields[headerMap[PROTOCOL_NAME]]?.trim() || "";
+      const protocolDescription = fields[headerMap[PROTOCOL_DESCRIPTION]]?.trim() || "";
+      const protocolUrl = this.fixURL(fields[headerMap[PROTOCOL_URL]]?.trim() || "");
+      const protocolLogoUrl = fields[headerMap[PROTOCOL_LOGO]]?.trim() || "";
+      const vaultName = fields[headerMap[VAULT_NAME]]?.trim() || "";
+      const vaultAddress = this.fixVaultAddress(fields[headerMap[VAULT_ADDRESS]]?.trim() || "");
+      const vaultLogoUrl = fields[headerMap[VAULT_LOGO]]?.trim() || "";
+      const stakingAddress = this.fixVaultAddress(fields[headerMap[STAKING_TOKEN_ADDRESS]]?.trim() || "");
+      const description = fields[headerMap[VAULT_DESCRIPTION]]?.trim() || "";
 
-      // Look for lines that contain vault addresses (0x...)
-      if (line.includes("0x") && line.length > 100) {
-        const fields = this.parseCSVLine(line);
-
-        // Use specific column indices based on CSV structure
-        if (fields.length >= 14) {
-          const protocolName = fields[5]?.trim() || "";
-          const _protocolDescription = fields[6]?.trim() || "";
-          const protocolUrl = this.fixURL(fields[7]?.trim() || "");
-          const protocolLogoUrl = this.fixLogoURI(fields[8]?.trim() || "");
-          const vaultName = fields[9]?.trim() || "";
-          const vaultAddress = this.fixVaultAddress(fields[10]?.trim() || "");
-          const vaultLogoUrl = this.fixLogoURI(fields[11]?.trim() || "");
-          const stakingAddress = this.fixVaultAddress(fields[12]?.trim() || "");
-          const description = fields[13]?.trim() || "";
-
-          // Only include rows with valid vault addresses
-          if (vaultAddress && stakingAddress && protocolName && vaultName) {
-            const row: CSVRow = {
-              protocolName,
-              vaultName,
-              vaultAddress,
-              stakingTokenAddress: stakingAddress,
-              protocolUrl,
-              protocolLogoUrl,
-              vaultLogoUrl,
-              description,
-            };
-
-            rows.push(row);
-          }
-        }
+      // Only include rows with valid vault addresses and protocol names
+      if (
+        protocolName &&
+        vaultName &&
+        vaultAddress &&
+        stakingAddress &&
+        /^0x[a-fA-F0-9]{40}$/.test(vaultAddress) &&
+        /^0x[a-fA-F0-9]{40}$/.test(stakingAddress)
+      ) {
+        const row: CSVRow = {
+          protocolName,
+          vaultName,
+          vaultAddress,
+          stakingTokenAddress: stakingAddress,
+          protocolUrl,
+          protocolLogoUrl,
+          vaultLogoUrl,
+          description,
+        };
+        rows.push(row);
       }
     }
-
     return rows;
   }
 

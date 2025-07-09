@@ -246,37 +246,37 @@
       "name": "HENLO",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.henlo.com",
-      "description": "https://docs.google.com/spreadsheets/d/1QhriUWGMbMXycyii_xSm8Ixl9CBUghrQQRDFMxvUAEQ/edit?gid=0#gid=0"
+      "description": "HENLO is a memecoin built by 0xHoneyJar, designed for deep integration into Berachain PoL and DeFi ecosystem."
     },
     {
       "name": "Origami Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://origami.finance/collections",
-      "description": "https://docs.google.com/spreadsheets/d/1yHqisxaokqZsAcBjGX8ZMOLDvmf168DUtc1u5TzKJdw/edit?usp=sharing"
+      "description": "Origami Finance offers automated DeFi strategies and yield optimization on Berachain."
     },
     {
       "name": "Berabaddies Content Protocol",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.notion.so/BaddieBounty-Public-Dashboard-208b0c2bc28880f68befec981f348ae6",
-      "description": "N/A"
+      "description": "Berabaddies Content Protocol is a platform for incentivizing and managing content creation in the Berachain ecosystem."
     },
     {
       "name": "GOING to ZERO",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.itsallzero.com/",
-      "description": "https://docs.google.com/spreadsheets/d/1exgjh6XuPa91514t82-gQ9kSNUpS6-u5yK1PUtjCHr0/edit?usp=sharing"
+      "description": "GOING to ZERO is a DeFi protocol focused on experimental tokenomics and community-driven incentives."
     },
     {
       "name": "Ultraviolet",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://berachain.com",
-      "description": "N/A"
+      "description": "Ultraviolet is a Berachain-native protocol for innovative DeFi products and liquidity strategies."
     },
     {
       "name": "fatBERA",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.fatbera.xyz/",
-      "description": "https://docs.google.com/spreadsheets/d/1X0D7pJXa2v6v_51MITSbESGUc02FEmyxWodQ3_09JQo/edit?usp=sharing"
+      "description": "fatBERA is a liquid staking token and yield product in the Berachain ecosystem."
     },
     {
       "name": "Eden",
@@ -294,13 +294,49 @@
       "name": "Paddle Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://dapp.paddlefi.com/moneymarket",
-      "description": "https://docs.google.com/spreadsheets/d/18_j76uwsAADZCC_DxJaJpDWssO7dpAGxFKI9ILBP80E/edit?usp=sharing"
+      "description": "Paddle Finance is a decentralized money market protocol on Berachain, enabling lending and borrowing of digital assets."
     },
     {
       "name": "Kettle",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://kettle.shop",
-      "description": "N/A"
+      "description": "Kettle is a DeFi protocol on Berachain focused on innovative yield and liquidity strategies."
+    },
+    {
+      "name": "Stream Protocol",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://streamprotocol.money/",
+      "description": "Stream Protocol is a decentralized platform for streaming payments and programmable money on Berachain."
+    },
+    {
+      "name": "Lair Finance",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.lair.fi",
+      "description": "Lair Finance is a DeFi protocol for liquidity management and yield optimization on Berachain."
+    },
+    {
+      "name": "beraBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://berabtc.xyz/",
+      "description": "beraBTC is a wrapped Bitcoin token and liquidity product on Berachain."
+    },
+    {
+      "name": "Beraji-KO",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://app.beraji.com/",
+      "description": "Beraji-KO is a DeFi protocol for innovative staking and liquidity solutions on Berachain."
+    },
+    {
+      "name": "Frax Finance",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://frax.com",
+      "description": "Frax Finance is a decentralized stablecoin and DeFi platform, offering the FRAX stablecoin and related products."
+    },
+    {
+      "name": "Ooga Booga",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
+      "url": "https://www.oogabooga.io/",
+      "description": "Ooga Booga is a meme and DeFi protocol on Berachain, focused on community-driven incentives and fun."
     },
     {
       "name": "Honeypot Finance",
@@ -315,12 +351,6 @@
       "description": "The staking token is a dummy ERC-20 owned wholly by the BakerDAO multisig, where rewards earned are distributed to BakerDAO users with active loans and loops initiated after the snapshot block (block 5623025). Although it is technically owned wholly by BakerDAO, the true beneficial ownership will be decentralized, with protocol users owning the shares. Since only users who open debt positions after snapshot will be beneficial owners, there are none as of yet"
     },
     {
-      "name": "Stream Protocol",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://streamprotocol.money/",
-      "description": "https://docs.google.com/spreadsheets/d/1m1_0AllzOeUEeIHzS18mQMaMnp2SSL25fAvjc_Z9j3w/edit?usp=sharing"
-    },
-    {
       "name": "Quod In Altum",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://panda.kodiak.finance/trade/0x41fc191d145307667ea3e50f244b78de9cddf53f",
@@ -330,43 +360,13 @@
       "name": "Stargate Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://stargate.finance/",
-      "description": "https://docs.google.com/spreadsheets/d/1VRT-qSvMcHiWHBQYlcHwMafMcXJhXi0QYZcXMezdCl8/edit"
+      "description": "Stargate Finance is a cross-chain liquidity transfer protocol that enables seamless token transfers between different blockchains."
     },
     {
       "name": "Golidilocks: Defi DAO (AMM, Yield Tokenisation platform and NFT lending), Origami (automated defi strategies) and Steer (automated liquidity manager)",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://goldilocksdao.io",
       "description": "Almost all supply currently in Beradrome farm."
-    },
-    {
-      "name": "Lair Finance",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.lair.fi",
-      "description": "https://app.kodiak.finance/#/liquidity/pools/0x9f6cf7acb2f16f7d906eeecb0a6020a5cf91a41d?farm=0x33e38ccd66a3c07f0e22bb3751a6a0fc0335f31c&chain=berachain_mainnet"
-    },
-    {
-      "name": "beraBTC",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://berabtc.xyz/",
-      "description": "https://docs.google.com/spreadsheets/d/16mbnD_VbyDYcK6qmn4xv0M-PGqt8Srhpsg7U2ELouaM/edit?usp=sharing"
-    },
-    {
-      "name": "Beraji-KO",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://app.beraji.com/",
-      "description": "https://docs.google.com/spreadsheets/d/1Q0ORJGcFZgoEWWJSWbdhkGPqxiBslXaiBET5yyNfXq8/edit?usp=sharing"
-    },
-    {
-      "name": "Frax Finance",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://frax.com",
-      "description": "https://docs.google.com/spreadsheets/d/1py7y-72iAszk-woxM1QaAVCS1uuTcrv4KmkWU6aO9dw/edit?usp=sharing"
-    },
-    {
-      "name": "Ooga Booga",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://www.oogabooga.io/",
-      "description": "https://docs.google.com/spreadsheets/d/1H_D42N7757bXqge3ygn-FFxryQA0Yjze5O2h-3_aL6E/edit?usp=sharing"
     }
   ],
   "vaults": [
