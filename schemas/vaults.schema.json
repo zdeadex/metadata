@@ -70,6 +70,11 @@
             "type": "string",
             "minLength": 1
           },
+          "action": {
+            "type": "string",
+            "description": "This is how the vault will be called on BeraHub. It should be a verb (e.g. Stake into...).",
+            "minLength": 1
+          },
           "protocol": {
             "type": "string",
             "minLength": 1
