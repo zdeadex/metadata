@@ -2100,14 +2100,14 @@
     {
       "stakingTokenAddress": "0xeD68db39C1d7a2Fea8Dcc85ED9b3f4f59112A020",
       "vaultAddress": "0xd8291187a9a45e7509f81fec03a49982eb63427d",
-      "name": "KODIAK - ZERO \\| NECT",
+      "name": "KODIAK - ZERO | NECT",
       "protocol": "Beraborrow",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.beraborrow.com/",
       "description": "KODIAK - ZERO | NECT vault allows users to stake liquidity from the ZERO and NECT token pair on Kodiak through Beraborrow.",
       "owner": "Beraborrow",
-      "action": "Stake KODIAK - ZERO \\ / NECT"
+      "action": "Stake KODIAK - ZERO / NECT"
     },
     {
       "stakingTokenAddress": "0x2a6f7008a884563df6fbf2d7676e696a44bb8896",
@@ -2148,14 +2148,14 @@
     {
       "stakingTokenAddress": "0xabcea3ead918c3c5eca9b85d25b5e463a35a5e66",
       "vaultAddress": "0xcd7c3b91de4a84942069201644b70d9570f2b9a9",
-      "name": "KODIAK - ZERO \\| iBGT",
+      "name": "KODIAK - ZERO | iBGT",
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.itsallzero.com/",
       "description": "KODIAK - ZERO | iBGT vault allows staking of liquidity from the ZERO and iBGT token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "GOING to ZERO",
-      "action": "Stake KODIAK - ZERO \\ / iBGT"
+      "action": "Stake KODIAK - ZERO / iBGT"
     },
     {
       "stakingTokenAddress": "0x13c8a3cC75961Bcf82bEdA2193bbBF8eeD7ee23e",
@@ -2172,50 +2172,50 @@
     {
       "stakingTokenAddress": "0x35B3833cbDCFaf3a842c90b775C632032648907D",
       "vaultAddress": "0xc7986e8bb129389380c6d6be9ca94266b42c8592",
-      "name": "Kodiak - SolvBTC.BNB \\| SolvBTC 0.3% Island",
+      "name": "Kodiak - SolvBTC.BNB | SolvBTC 0.3% Island",
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap?chain=berachain_mainnet",
       "description": "Kodiak - SolvBTC.BNB | SolvBTC 0.3% Island vault allows staking of liquidity from the SolvBTC.BNB and SolvBTC pair with 0.3% fee tier on Kodiak.",
       "owner": "Solv Protocol",
-      "action": "Stake Kodiak - SolvBTC.BNB \\ / SolvBTC 0.3% Island"
+      "action": "Stake Kodiak - SolvBTC.BNB / SolvBTC 0.3% Island"
     },
     {
       "stakingTokenAddress": "0xe21eFA586CC88271c8c87642440Ed49CCd000Ccc",
       "vaultAddress": "0x6dd21938c08dbc67fe6819ed11d904077ae49fa4",
-      "name": "Kodiak - SolvBTC.BNB \\| xSolvBTC 0.3% Island",
+      "name": "Kodiak - SolvBTC.BNB | xSolvBTC 0.3% Island",
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap?chain=berachain_mainnet",
       "description": "Kodiak - SolvBTC.BNB | xSolvBTC 0.3% Island vault allows staking of liquidity from the SolvBTC.BNB and xSolvBTC pair with 0.3% fee tier on Kodiak.",
       "owner": "Solv Protocol",
-      "action": "Stake Kodiak - SolvBTC.BNB \\ / xSolvBTC 0.3% Island"
+      "action": "Stake Kodiak - SolvBTC.BNB / xSolvBTC 0.3% Island"
     },
     {
       "stakingTokenAddress": "0x4d1b02ff3ce55b816bb916ad8f80479434830ea4",
       "vaultAddress": "0x0767038700605b50967EEa1e6440D6FD6c92c237",
-      "name": "Kodiak - SOL \\| HONEY 0.3% Island",
+      "name": "Kodiak - SOL | HONEY 0.3% Island",
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://app.kodiak.finance/#/swap",
       "description": "Kodiak - SOL | HONEY 0.3% Island vault allows staking of liquidity from the SOL and HONEY token pair with 0.3% fee tier on Kodiak.",
       "owner": "Kodiak",
-      "action": "Stake Kodiak - SOL \\ / HONEY 0.3% Island"
+      "action": "Stake Kodiak - SOL / HONEY 0.3% Island"
     },
     {
       "stakingTokenAddress": "0x6a924c5900977e167045DBA4A20475D541F86171",
       "vaultAddress": "0xa80f02A108b44CB51413Fde3AADEAbfaA59d68d8",
-      "name": "Ultraviolet \\| uvPREM-iBERA",
+      "name": "Ultraviolet | uvPREM-iBERA",
       "protocol": "Ultraviolet",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://berachain.com",
       "description": "Ultraviolet | uvPREM-iBERA vault allows staking of premium iBERA tokens through the Ultraviolet protocol.",
       "owner": "Ultraviolet",
-      "action": "Stake Ultraviolet \\ / uvPREM-iBERA"
+      "action": "Stake Ultraviolet / uvPREM-iBERA"
     },
     {
       "stakingTokenAddress": "0x84c1EE157b39cF3A8504F4751846Ad8F0FbE87D0",
@@ -2244,26 +2244,26 @@
     {
       "stakingTokenAddress": "0x091e41545e4a82e08f35bb51850e905537ced72e",
       "vaultAddress": "0xfe5fe99a4e5ae1f6212c1b32ed4ed6d1c1c6de57",
-      "name": "Kodiak - WBERA \\| ZERO",
+      "name": "Kodiak - WBERA | ZERO",
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.itsallzero.com/",
       "description": "Kodiak - WBERA | ZERO vault allows staking of liquidity from the WBERA and ZERO token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "GOING to ZERO",
-      "action": "Stake Kodiak - WBERA \\ / ZERO"
+      "action": "Stake Kodiak - WBERA / ZERO"
     },
     {
       "stakingTokenAddress": "0xe16761787cF9bB0D3fC2E5C726dAe906ce81B102",
       "vaultAddress": "0xeb7499ee3034a82458e91c036b0e73732d1267f5",
-      "name": "Paddle - WBERA \\| SteadyTeddys",
+      "name": "Paddle - WBERA | SteadyTeddys",
       "protocol": "Paddle Finance",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://dapp.paddlefi.com/moneymarket",
       "description": "Paddle - WBERA | SteadyTeddys vault allows staking of liquidity from the WBERA and SteadyTeddys token pair on Paddle Finance.",
       "owner": "Paddle Finance",
-      "action": "Stake Paddle - WBERA \\ / SteadyTeddys"
+      "action": "Stake Paddle - WBERA / SteadyTeddys"
     },
     {
       "stakingTokenAddress": "0x44a1610C0e57dd49638CC57b2638e3F0C847bd6b",
