@@ -18,37 +18,43 @@
       "name": "HUB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505341/protocols/berachainhub.png",
       "url": "https://hub.berachain.com",
-      "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
+      "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards.",
+      "tags": ["platform"]
     },
     {
       "name": "Concrete",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746315599/protocols/Concrete.png",
       "url": "https://app.concrete.xyz",
-      "description": "Concrete is the DeFi Liquidity Metalayer"
+      "description": "Concrete is the DeFi Liquidity Metalayer",
+      "tags": ["platform"]
     },
     {
       "name": "WeBera",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746540470/protocols/apc2lm6dzmxjj9o8pjio.png",
       "url": "https://webera.finance/",
-      "description": "WeBera is a permissionless yield abstraction layer designed to simplify participation in DeFi on the Berachain ecosystem."
+      "description": "WeBera is a permissionless yield abstraction layer designed to simplify participation in DeFi on the Berachain ecosystem.",
+      "tags": ["platform"]
     },
     {
       "name": "BurrBear",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505613/protocols/burrbear.png",
       "url": "https://app.burrbear.io/",
-      "description": ""
+      "description": "",
+      "tags": ["platform"]
     },
     {
       "name": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745504629/protocols/kodiak.png",
       "url": "https://app.kodiak.finance/",
-      "description": "Kodiak is a decentralized exchange for the Berachain ecosystem."
+      "description": "Kodiak is a decentralized exchange for the Berachain ecosystem.",
+      "tags": ["platform"]
     },
     {
       "name": "Yeet",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1749485201/protocols/Yeet.png",
       "url": "https://yeetit.xyz",
-      "description": "GigaBonzi"
+      "description": "GigaBonzi",
+      "tags": ["platform"]
     },
     {
       "name": "Infrared Finance",
@@ -60,67 +66,78 @@
       "name": "Dolomite",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1745319674/protocols/dolomite.jpg",
       "url": "https://dolomite.io/",
-      "description": "Dolomite is a decentralized money market protocol."
+      "description": "Dolomite is a decentralized money market protocol.",
+      "tags": ["platform"]
     },
     {
       "name": "D2 Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745430644/protocols/d2finance.png",
       "url": "https://d2.finance/strategies",
-      "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution."
+      "description": "D2 Finance is a multi-strategy fund delivering tokenized derivatives strategies and derivatives trading, in a 100% on-chain solution.",
+      "tags": ["platform"]
     },
     {
       "name": "Beraborrow",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505738/protocols/beraborrow.png",
       "url": "https://app.beraborrow.com/",
-      "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar"
+      "description": "Beraborrow unlocks instant liquidity against Berachain assets through the first PoL powered stablecoin, Nectar",
+      "tags": ["platform"]
     },
     {
       "name": "Beradrome",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742841609/reward-vaults/icons/544876aa-568f-4f78-b318-b16d02e23bd6.png",
       "url": "https://www.beradrome.com/",
-      "description": ""
+      "description": "",
+      "tags": ["platform"]
     },
     {
       "name": "Bulla Exchange",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742842241/reward-vaults/icons/1dd1de90-7d16-412b-8682-41d573d64d0a.png",
       "url": "https://www.bulla.exchange/",
-      "description": ""
+      "description": "",
+      "tags": ["platform"]
     },
     {
       "name": "Wasabi",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743451813/protocols/o2jkgouehmjdptfcswp6.png",
       "url": "https://wasabi.xyz/",
-      "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens."
+      "description": "Wasabi is a spot leverage DEX that allows you to long, short, swap, and earn on your favorite tokens.",
+      "tags": ["platform"]
     },
     {
       "name": "Kuma",
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x273c832797Bfda1C0826a786670D041282Bd6aFc.png",
       "url": "https://kuma.bid",
-      "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain's Proof-of-Liquidity."
+      "description": "Kuma is a layer 2 perpetual futures DEX powered by Berachain's Proof-of-Liquidity.",
+      "tags": ["platform"]
     },
     {
       "name": "D8X",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743510327/tokens/rvut4vnjcic8k9f5oaty.png",
       "url": "https://www.d8x.exchange/",
-      "description": "D8X powers leveraged trading for the Berachain Ecosystem on DEXs like MadHoney.fi"
+      "description": "D8X powers leveraged trading for the Berachain Ecosystem on DEXs like MadHoney.fi",
+      "tags": ["platform"]
     },
     {
       "name": "bro.trade",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743448666/reward-vaults/icons/pxfsjxx3qu4rzyqlk9vr.jpg",
       "url": "https://app.bro.trade",
-      "description": "bro.trade is a community-driven, decentralized cryptocurrency trading platform specializing in perpetual futures (perps)."
+      "description": "bro.trade is a community-driven, decentralized cryptocurrency trading platform specializing in perpetual futures (perps).",
+      "tags": ["platform"]
     },
     {
       "name": "Wasabee",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745502280/protocols/wasabee.png",
       "url": "https://wasabee.xyz/",
-      "description": "Wasabee is a meme DEX for the Berachain ecosystem"
+      "description": "Wasabee is a meme DEX for the Berachain ecosystem",
+      "tags": ["platform"]
     },
     {
       "name": "Euler",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746536668/protocols/orp4ms1wqluh2zkxa1yl.png",
       "url": "https://euler.finance/",
-      "description": "Euler is a decentralized lending protocol."
+      "description": "Euler is a decentralized lending protocol.",
+      "tags": ["platform"]
     },
     {
       "name": "Beratardio",
@@ -132,7 +149,8 @@
       "name": "IVX Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743538082/protocols/awmnyxwgvfitzn4vfpai.png",
       "url": "https://ivx.fi",
-      "description": "IVX is a liquid options AMM built on top of Berachain network that allow users to trade zero days to expiry option contracts over a variety of assets."
+      "description": "IVX is a liquid options AMM built on top of Berachain network that allow users to trade zero days to expiry option contracts over a variety of assets.",
+      "tags": ["platform"]
     },
     {
       "name": "Lode Trade",
@@ -150,7 +168,8 @@
       "name": "OpenState",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745684774/protocols/openstate.png",
       "url": "https://openstate.com/?chain=berachain",
-      "description": "Openstate enables scalable yield infrastructure. Earn top yields and enjoy instant liquidity for BGT and more - all on Openstate."
+      "description": "Openstate enables scalable yield infrastructure. Earn top yields and enjoy instant liquidity for BGT and more - all on Openstate.",
+      "tags": ["platform"]
     },
     {
       "name": "Bearn",
@@ -180,31 +199,36 @@
       "name": "BULL ISH",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746109953/protocols/bullish.jpg",
       "url": "https://game.bullas.xyz/",
-      "description": "Bull Ish is a Proof of Liquidity game where users spend BERA to 'spank a bera,' placing them in a queue to earn BGT while depositing the square root of their spank power into the Berachain vault."
+      "description": "Bull Ish is a Proof of Liquidity game where users spend BERA to 'spank a bera,' placing them in a queue to earn BGT while depositing the square root of their spank power into the Berachain vault.",
+      "tags": ["platform"]
     },
     {
       "name": "BeraPaw",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746111634/protocols/berapaw.png",
       "url": "https://www.berapaw.com/",
-      "description": "BeraPaw is an innovative liquid staking protocol that converts Berachain's native token into a more versatile and liquid asset, providing users with a seamless and hassle-free experience."
+      "description": "BeraPaw is an innovative liquid staking protocol that converts Berachain's native token into a more versatile and liquid asset, providing users with a seamless and hassle-free experience.",
+      "tags": ["platform"]
     },
     {
       "name": "SX Bet",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746467048/vaults/vsig2fewygwoxlvccbzd.png",
       "url": "https://bera.bet/",
-      "description": "On-chain sports betting exchange"
+      "description": "On-chain sports betting exchange",
+      "tags": ["platform"]
     },
     {
       "name": "Ether.fi",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.ether.fi",
-      "description": "Save, grow, spend."
+      "description": "Save, grow, spend.",
+      "tags": ["platform"]
     },
     {
       "name": "Solv Protocol",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747147250/protocols/Solv%20Protocol.png",
       "url": "https://solv.finance/",
-      "description": "Solv Protocol is a platform that offers a comprehensive set of financial services for Bitcoin holders, including lending, liquid staking, yield generation, and fund management. Powered by a large on-chain Bitcoin reserve, Solv unlocks the potential of Bitcoin's $1 trillion market."
+      "description": "Solv Protocol is a platform that offers a comprehensive set of financial services for Bitcoin holders, including lending, liquid staking, yield generation, and fund management. Powered by a large on-chain Bitcoin reserve, Solv unlocks the potential of Bitcoin's $1 trillion market.",
+      "tags": ["platform"]
     },
     {
       "name": "Beramonium",
@@ -216,13 +240,15 @@
       "name": "HoneyFun AI",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1747147250/protocols/HoneyFun%20AI.png",
       "url": "https://app.honey.fun/",
-      "description": "We're bringing virtuals to Berachain. Create your memecoin/AI Agent in few clicks."
+      "description": "We're bringing virtuals to Berachain. Create your memecoin/AI Agent in few clicks.",
+      "tags": ["platform"]
     },
     {
       "name": "Roots",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748027532/protocols/roots.png",
       "url": "https://app.rootsfi.com",
-      "description": "Roots is a Berachain-native decentralized lending protocol that optimizes for capital efficiency by allowing users to mint its stablecoin MEAD against yield-generating assets, offering no-interest loans, minimal fees, and the ability to pursue additional DeFi opportunities while retaining their underlying APR."
+      "description": "Roots is a Berachain-native decentralized lending protocol that optimizes for capital efficiency by allowing users to mint its stablecoin MEAD against yield-generating assets, offering no-interest loans, minimal fees, and the ability to pursue additional DeFi opportunities while retaining their underlying APR.",
+      "tags": ["platform"]
     },
     {
       "name": "TWIN Finance",
@@ -234,7 +260,8 @@
       "name": "Aquabera",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1745505341/protocols/berachainhub.png",
       "url": "https://app.aquabera.com/explore",
-      "description": "Liquidity management protocol that maximizes your returns while minimizing risks without requiring constant oversight."
+      "description": "Liquidity management protocol that maximizes your returns while minimizing risks without requiring constant oversight.",
+      "tags": ["platform"]
     },
     {
       "name": "Plutus",
@@ -246,19 +273,22 @@
       "name": "HENLO",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.henlo.com",
-      "description": "HENLO is a memecoin built by 0xHoneyJar, designed for deep integration into Berachain PoL and DeFi ecosystem."
+      "description": "HENLO is a memecoin built by 0xHoneyJar, designed for deep integration into Berachain PoL and DeFi ecosystem.",
+      "tags": ["platform"]
     },
     {
       "name": "Origami Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://origami.finance/collections",
-      "description": "Origami Finance offers automated DeFi strategies and yield optimization on Berachain."
+      "description": "Origami Finance offers automated DeFi strategies and yield optimization on Berachain.",
+      "tags": ["platform"]
     },
     {
       "name": "Berabaddies Content Protocol",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://www.notion.so/BaddieBounty-Public-Dashboard-208b0c2bc28880f68befec981f348ae6",
-      "description": "Berabaddies Content Protocol is a platform for incentivizing and managing content creation in the Berachain ecosystem."
+      "description": "Berabaddies Content Protocol is a platform for incentivizing and managing content creation in the Berachain ecosystem.",
+      "tags": ["platform"]
     },
     {
       "name": "GOING to ZERO",
@@ -270,7 +300,8 @@
       "name": "Ultraviolet",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://berachain.com",
-      "description": "Ultraviolet is a Berachain-native protocol for innovative DeFi products and liquidity strategies."
+      "description": "Ultraviolet is a Berachain-native protocol for innovative DeFi products and liquidity strategies.",
+      "tags": ["platform"]
     },
     {
       "name": "fatBERA",
@@ -282,7 +313,8 @@
       "name": "Eden",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://eden.sexualfi.com",
-      "description": "The Gachapon proxy contract [0x73C7677A8bC73178aE36aD97C984df79E99A18CE] holds 100% of the staking token, which is only a placeholder token."
+      "description": "The Gachapon proxy contract [0x73C7677A8bC73178aE36aD97C984df79E99A18CE] holds 100% of the staking token, which is only a placeholder token.",
+      "tags": ["platform"]
     },
     {
       "name": "Apiology DAO",
@@ -294,19 +326,22 @@
       "name": "Paddle Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://dapp.paddlefi.com/moneymarket",
-      "description": "Paddle Finance is a decentralized money market protocol on Berachain, enabling lending and borrowing of digital assets."
+      "description": "Paddle Finance is a decentralized money market protocol on Berachain, enabling lending and borrowing of digital assets.",
+      "tags": ["platform"]
     },
     {
       "name": "Kettle",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://kettle.shop",
-      "description": "Kettle is a DeFi protocol on Berachain focused on innovative yield and liquidity strategies."
+      "description": "Kettle is a DeFi protocol on Berachain focused on innovative yield and liquidity strategies.",
+      "tags": ["platform"]
     },
     {
       "name": "Stream Protocol",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://streamprotocol.money/",
-      "description": "Stream Protocol is a decentralized platform for streaming payments and programmable money on Berachain."
+      "description": "Stream Protocol is a decentralized platform for streaming payments and programmable money on Berachain.",
+      "tags": ["platform"]
     },
     {
       "name": "Lair Finance",
@@ -330,7 +365,8 @@
       "name": "Frax Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://frax.com",
-      "description": "Frax Finance is a decentralized stablecoin and DeFi platform, offering the FRAX stablecoin and related products."
+      "description": "Frax Finance is a decentralized stablecoin and DeFi platform, offering the FRAX stablecoin and related products.",
+      "tags": ["platform"]
     },
     {
       "name": "Ooga Booga",
@@ -342,13 +378,15 @@
       "name": "Honeypot Finance",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://wasabee.honeypotfinance.xyz/pools",
-      "description": "All-in-one Vault [0x9c52cD80455a9ee50610aC90e846e46E04014f6d] holds 100% of the staking token as the placeholder token."
+      "description": "All-in-one Vault [0x9c52cD80455a9ee50610aC90e846e46E04014f6d] holds 100% of the staking token as the placeholder token.",
+      "tags": ["platform"]
     },
     {
       "name": "BakerDAO",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743511182/tokens/uy0260lxub5dn38een6a.png",
       "url": "https://bakerdao.io",
-      "description": "The staking token is a dummy ERC-20 owned wholly by the BakerDAO multisig, where rewards earned are distributed to BakerDAO users with active loans and loops initiated after the snapshot block (block 5623025). Although it is technically owned wholly by BakerDAO, the true beneficial ownership will be decentralized, with protocol users owning the shares. Since only users who open debt positions after snapshot will be beneficial owners, there are none as of yet"
+      "description": "The staking token is a dummy ERC-20 owned wholly by the BakerDAO multisig, where rewards earned are distributed to BakerDAO users with active loans and loops initiated after the snapshot block (block 5623025). Although it is technically owned wholly by BakerDAO, the true beneficial ownership will be decentralized, with protocol users owning the shares. Since only users who open debt positions after snapshot will be beneficial owners, there are none as of yet",
+      "tags": ["platform"]
     },
     {
       "name": "Quod In Altum",

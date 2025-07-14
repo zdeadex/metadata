@@ -18,6 +18,7 @@ export interface Protocol {
   logoURI: string;
   url: string;
   description: string;
+  tags?: string[];
 }
 
 export interface Vault {

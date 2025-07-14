@@ -209,4 +209,40 @@ export async function validateVaults(
       }
     }),
   );
+
+  vaultMetadata.content.protocols.forEach((protocol, idx) => {
+    const isPlatform = protocol.tags?.includes("platform");
+    const vaultWithProtocol = vaultMetadata.content.vaults.find(
+      (vault) => vault.protocol === protocol.name,
+    );
+
+    if (isPlatform && !vaultWithProtocol) {
+      // If the protocol is marked as platform, it should have at least one active vault
+      // Otherwise, it should not be marked as platform
+      errors.push(
+        formatAnnotation({
+          rawContent,
+          xPath: `/protocols/${idx}/tags`,
+          message: `${protocol.name} protocol has no active vaults, but is marked as platform in the tags.`,
+          file: path,
+        }),
+      );
+    } else if (
+      !isPlatform &&
+      vaultMetadata.content.vaults.some(
+        (vault) => vault.protocol === protocol.name,
+      )
+    ) {
+      // If the protocol is not marked as platform, it should not have any active vaults
+      // Otherwise, it should be marked as platform
+      errors.push(
+        formatAnnotation({
+          rawContent,
+          xPath: `/protocols/${idx}/${protocol.tags !== undefined ? "tags" : "name"}`,
+          message: `${protocol.name} protocol has active vaults, but is not marked as platform in the tags.`,
+          file: path,
+        }),
+      );
+    }
+  });
 }
