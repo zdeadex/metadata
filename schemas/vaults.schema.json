@@ -48,6 +48,13 @@
           },
           "description": {
             "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "description": "This is an array of tags. Currently used for UI purposes.",
+            "items": {
+              "type": "string"
+            }
           }
         },
         "required": ["name", "url", "description", "logoURI"]
