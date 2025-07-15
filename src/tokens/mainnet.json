@@ -995,6 +995,15 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1751932877/tokens/0x6698EDe14709A9Dd8379744CC2D28F276E3d2Eac.png",
       "decimals": 18,
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x927439eef2e2520afa78d8742cae7be3e3e90b11",
+      "symbol": "mBGT",
+      "name": "market BGT",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/DTOVXLb.png",
+      "tags": []
     }
   ]
 }
