@@ -2133,7 +2133,7 @@
       "url": "https://yeetit.xyz",
       "description": "Player rewards smart contract (14.98%) 0xFeD81bE9A026211d82Cd06A3A2f384853cD0bB2B",
       "owner": "Yeet",
-      "action": "Stake Yeetarded Buyback Vault"
+      "action": "Yeet Buyback"
     },
     {
       "stakingTokenAddress": "0xeD68db39C1d7a2Fea8Dcc85ED9b3f4f59112A020",
@@ -2181,7 +2181,7 @@
       "url": "https://yeetit.xyz",
       "description": "Yeet BGT Auction vault allows participation in BGT token auctions through the Yeet protocol.",
       "owner": "Yeet",
-      "action": "Stake Yeet BGT Auction"
+      "action": "Yeet in the BGT Auction"
     },
     {
       "stakingTokenAddress": "0xabcea3ead918c3c5eca9b85d25b5e463a35a5e66",
