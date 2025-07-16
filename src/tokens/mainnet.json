@@ -1004,6 +1004,18 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752586947/tokens/0x927439eef2e2520afa78d8742cae7be3e3e90b11.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b",
+      "name": "SatLayer satSolvBTC.BERA",
+      "symbol": "satSolvBTC.BERA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b.jpg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solv-protocol-solvbtc-bbn"
+      }
     }
   ]
 }
