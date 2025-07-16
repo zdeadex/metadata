@@ -1008,7 +1008,7 @@
     {
       "chainId": 80094,
       "address": "0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b",
-      "name": "SatLayer satSolvBTC.BERA",
+      "name": "SatLayer SolvBTC.BERA",
       "symbol": "satSolvBTC.BERA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b.png",
