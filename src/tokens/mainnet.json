@@ -1015,6 +1015,7 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solv-protocol-solvbtc-bbn"
+      }
     },
     {
       "chainId": 80094,
