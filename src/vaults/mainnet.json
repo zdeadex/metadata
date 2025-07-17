@@ -1971,25 +1971,25 @@
       "stakingTokenAddress": "0xCF21469a78aC96f4d84Eb4e77E515A8A672330CF",
       "vaultAddress": "0x33414563ab271b8720569329aabc8767fc507af3",
       "name": "Bpaw-RVST-eWBERA-6",
-      "protocol": "HUB",
+      "protocol": "Euler",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0x33414563ab271b8720569329aabc8767fc507af3",
       "description": "Obtain Bpaw-RVST-EKV Token from Hub",
-      "owner": "HUB",
-      "action": "Stake Bpaw-RVST-eWBERA-6"
+      "owner": "BeraPaw",
+      "action": "Supply WBERA"
     },
     {
       "stakingTokenAddress": "0x0B0944cf9cCB0A4D4CCFb2b2EE0C3d893DF16AcF",
       "vaultAddress": "0x0b88337309905e19ae708b03763fd4a750b23b40",
       "name": "Bpaw-RVST-eLBGT-1",
-      "protocol": "HUB",
+      "protocol": "Euler",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://hub.berachain.com/vaults/0x0b88337309905e19ae708b03763fd4a750b23b40",
       "description": "Obtain Bpaw-RVST-eLBGT-1 Token from Hub",
-      "owner": "HUB",
-      "action": "Stake Bpaw-RVST-eLBGT-1"
+      "owner": "BeraPaw",
+      "action": "Supply LBGT"
     },
     {
       "stakingTokenAddress": "0x62CF6e355C77Edb6f5C8eb2085A85cf4dE4c1852",
@@ -2121,7 +2121,7 @@
       "url": "https://www.henlo.com",
       "description": "Henlo Wall is a staking vault for HENLO token holders, providing rewards and governance participation opportunities.",
       "owner": "HENLO",
-      "action": "Stake Henlo Wall"
+      "action": "Hold Henlo as it burns"
     },
     {
       "stakingTokenAddress": "0x4E1D8c85a1061816B22C109B221DEaD1690f9c00",
@@ -2157,7 +2157,7 @@
       "url": "https://origami.finance/collections",
       "description": "hOHM-HONEY LP vault allows staking of liquidity provider tokens from the hOHM and HONEY pair on Kodiak through Origami Finance.",
       "owner": "Origami Finance",
-      "action": "Stake hOHM-HONEY LP on Kodiak"
+      "action": "Stake hOHM / HONEY"
     },
     {
       "stakingTokenAddress": "0x5beBb84E5cBC8f7775f77Ba6ec29500575408CD2",
@@ -2169,7 +2169,7 @@
       "url": "https://www.notion.so/BaddieBounty-Public-Dashboard-208b0c2bc28880f68befec981f348ae6",
       "description": "Baddie Content Vault provides rewards for content creators and community members in the Berabaddies ecosystem.",
       "owner": "Berabaddies Content Protocol",
-      "action": "Stake Baddie Content Vault"
+      "action": "Create Baddie Content"
     },
     {
       "stakingTokenAddress": "0xD7CFdd9514b6Ef10e9cF271CF62955530adbC4eC",
@@ -2205,7 +2205,7 @@
       "url": "https://www.henlo.com",
       "description": "The staking token is 100% controlled by the Henlo Incinerator contract to manage the strategy. Instead here is a list of addresses controlling more of HENLO supply, as HENLO hodlers are the beneficiaries. https://docs.google.com/spreadsheets/d/1QhriUWGMbMXycyii_xSm8Ixl9CBUghrQQRDFMxvUAEQ/edit?gid=0#gid=0",
       "owner": "HENLO",
-      "action": "Stake Henlo Incinerator"
+      "action": "Hold Henlo as it burns"
     },
     {
       "stakingTokenAddress": "0x35B3833cbDCFaf3a842c90b775C632032648907D",
@@ -2253,7 +2253,7 @@
       "url": "https://berachain.com",
       "description": "Ultraviolet | uvPREM-iBERA vault allows staking of premium iBERA tokens through the Ultraviolet protocol.",
       "owner": "Ultraviolet",
-      "action": "Stake Ultraviolet / uvPREM-iBERA"
+      "action": "Stake uvPREM / iBERA"
     },
     {
       "stakingTokenAddress": "0x84c1EE157b39cF3A8504F4751846Ad8F0FbE87D0",
@@ -2265,7 +2265,7 @@
       "url": "https://origami.finance",
       "description": "OHM-hOHM LP vault allows staking of liquidity provider tokens from the OHM and hOHM pair on Kodiak through Origami Finance.",
       "owner": "Origami Finance",
-      "action": "Stake OHM-hOHM LP on Kodiak"
+      "action": "Stake OHM / hOHM"
     },
     {
       "stakingTokenAddress": "0x5f77967f5129cf2f294e070284ff0f0e6f838568",
@@ -2301,7 +2301,7 @@
       "url": "https://dapp.paddlefi.com/moneymarket",
       "description": "Paddle - WBERA | SteadyTeddys vault allows staking of liquidity from the WBERA and SteadyTeddys token pair on Paddle Finance.",
       "owner": "Paddle Finance",
-      "action": "Stake Paddle - WBERA / SteadyTeddys"
+      "action": "Stake WBERA / SteadyTeddys"
     },
     {
       "stakingTokenAddress": "0x44a1610C0e57dd49638CC57b2638e3F0C847bd6b",
@@ -2313,7 +2313,7 @@
       "url": "https://kettle.shop",
       "description": "Kettle Volume Reward Vault provides rewards based on trading volume and activity on the Kettle protocol.",
       "owner": "Kettle",
-      "action": "Stake Kettle Volume Reward Vault"
+      "action": "Trade on Kettle"
     },
     {
       "stakingTokenAddress": "0x6eE01549960F47B2e64Cb9fb26a9107e735910b5",
@@ -2337,7 +2337,7 @@
       "url": "https://bakerdao.io",
       "description": "The staking token is a dummy ERC-20 owned wholly by the BakerDAO multisig, where rewards earned are distributed to BakerDAO users with active loans and loops initiated after the snapshot block (block 5623025). Although it is technically owned wholly by BakerDAO, the true beneficial ownership will be decentralized, with protocol users owning the shares. Since only users who open debt positions after snapshot will be beneficial owners, there are none as of yet",
       "owner": "BakerDAO",
-      "action": "Stake BakerDAO Bread Borrowing"
+      "action": "Loop or loan"
     },
     {
       "stakingTokenAddress": "0x0B77545A4EB1B995e79BF85e0ed8d6Ee288ca632",
@@ -2349,7 +2349,7 @@
       "url": "https://openstate.com",
       "description": "0xB698A34305b7a10f563996C96E3298A34F6Dc87D",
       "owner": "OpenState",
-      "action": "Stake eWBERA-4-osBGT"
+      "action": "Stake eWBERA / osBGT"
     },
     {
       "stakingTokenAddress": "0x939fb917bf8579c959094364708ef03f17e71f25",
@@ -2361,7 +2361,7 @@
       "url": "https://streamprotocol.money/",
       "description": "xUSD-HONEY vault allows staking of liquidity from the xUSD and HONEY token pair on Stream Protocol.",
       "owner": "Stream Protocol",
-      "action": "Stake xUSD-HONEY"
+      "action": "Stake xUSD / HONEY"
     },
     {
       "stakingTokenAddress": "0x4979AAdE048867196Bc475D085EECB3965A60d1b",
@@ -2385,7 +2385,7 @@
       "url": "https://docs.berapaw.com/audits",
       "description": "100% of the token supply is controlled by BeraPaw's Proof of Liquidity Vault. 35% of the rewards will be used to incentivize the reward vault and 65% will be autocompounded for vault stakers. More information on the design: https://docs.berapaw.com/polStrategyVault",
       "owner": "BeraPaw",
-      "action": "Stake BeraPaw-Bulla-LBGT-HONEY"
+      "action": "Stake LBGT / HONEY (Bulla)"
     },
     {
       "stakingTokenAddress": "0x83599937c2C9bEA0E0E8ac096c6f32e86486b410",
@@ -2397,7 +2397,7 @@
       "url": "https://app.ether.fi/",
       "description": "Ether.Fi Liquid Bera ETH vault allows staking of liquid staking tokens for Bera ETH through Ether.Fi's liquid staking protocol.",
       "owner": "Ether.fi",
-      "action": "Stake Ether.Fi Liquid Bera ETH"
+      "action": "Stake liquidBeraETH"
     },
     {
       "stakingTokenAddress": "0xC673ef7791724f0dcca38adB47Fbb3AEF3DB6C80",
@@ -2409,7 +2409,7 @@
       "url": "https://app.ether.fi/",
       "description": "Ether.Fi Liquid Bera BTC vault allows staking of liquid staking tokens for Bera BTC through Ether.Fi's liquid staking protocol.",
       "owner": "Ether.fi",
-      "action": "Stake Ether.Fi Liquid Bera BTC"
+      "action": "Stake liquidBeraBTC"
     },
     {
       "stakingTokenAddress": "0xBcc717Bad424C87Acd02f0f30BDB2d95f8F339c3",
@@ -2421,7 +2421,7 @@
       "url": "https://frax.com",
       "description": "Sweet Frax - frxUSD/HONEY vault allows staking of liquidity from the frxUSD and HONEY token pair through Frax Finance.",
       "owner": "Frax Finance",
-      "action": "Stake Sweet Frax - frxUSD/HONEY"
+      "action": "Stake frxUSD / HONEY"
     },
     {
       "stakingTokenAddress": "0x3640587709a387B54B0DF555cD651A95A54fA900",
