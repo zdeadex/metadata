@@ -405,6 +405,13 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://goldilocksdao.io",
       "description": "Almost all supply currently in Beradrome farm."
+    },
+    {
+      "name": "SatLayer",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752757540/protocols/satlayer.png",
+      "url": "https://app.satlayer.xyz/",
+      "description": "SatLayer is the economic layer for Bitcoin, making the best asset now fully programmable.",
+      "tags": ["platform"]
     }
   ],
   "vaults": [
@@ -2434,6 +2441,18 @@
       "description": "Acquired by depositing liquidity into the Miso - mBGT | iBERA Pool on Kodiak",
       "owner": "Miso",
       "action": "Stake mBGT / iBERA"
+    },
+    {
+      "stakingTokenAddress": "0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b",
+      "vaultAddress": "0x3211E960Fff36715b9046C51A3AF6826D1a226e7",
+      "name": "SatLayer - satSolvBTC.BERA",
+      "protocol": "SatLayer",
+      "categories": ["defi"],
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752690570/vaults/0x3211E960Fff36715b9046C51A3AF6826D1a226e7.png",
+      "url": "https://app.satlayer.xyz/",
+      "description": "SatLayer - satSolvBTC.BERA vault allows staking of the satSolvBTC.BERA token on SatLayer.",
+      "owner": "SatLayer",
+      "action": "Stake satSolvBTC.BERA"
     }
   ]
 }
