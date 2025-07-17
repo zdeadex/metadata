@@ -2321,7 +2321,7 @@
       "name": "All-in-One Honeypot Vault",
       "protocol": "Honeypot Finance",
       "categories": ["defi"],
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/assets/tokens/0x6eE01549960F47B2e64Cb9fb26a9107e735910b5.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752721872/vaults/0xcf4f3eafe6ee37b33c5047f0e6562f764285de9d.png",
       "url": "https://leaderboard.honeypotfinance.xyz",
       "description": "All-in-one Vault [0x9c52cD80455a9ee50610aC90e846e46E04014f6d] holds 100% of the staking token as the placeholder token.",
       "owner": "Honeypot Finance",
