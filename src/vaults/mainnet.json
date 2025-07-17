@@ -2448,7 +2448,7 @@
       "name": "SatLayer - satSolvBTC.BERA",
       "protocol": "SatLayer",
       "categories": ["defi"],
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/vaults/0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752690570/vaults/0x3211E960Fff36715b9046C51A3AF6826D1a226e7.png",
       "url": "https://app.satlayer.xyz/",
       "description": "SatLayer - satSolvBTC.BERA vault allows staking of the satSolvBTC.BERA token on SatLayer.",
       "owner": "SatLayer",
