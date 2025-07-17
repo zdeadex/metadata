@@ -1001,7 +1001,7 @@
       "address": "0x93a0CB3ee34aA983db262F904021911eCD199228",
       "symbol": "BEE",
       "name": "Bee Token",
-      "logoURI": "https://docs.wasabee.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F0x93a0CB3ee34aA983db262F904021911eCD199228.2ede8cce.png&w=3840&q=75",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x93a0CB3ee34aA983db262F904021911eCD199228.jpg",
       "decimals": 18,
       "tags": []
     },
