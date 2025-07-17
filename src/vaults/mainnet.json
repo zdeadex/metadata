@@ -2453,6 +2453,18 @@
       "description": "SatLayer - satSolvBTC.BERA vault allows staking of the satSolvBTC.BERA token on SatLayer.",
       "owner": "SatLayer",
       "action": "Stake satSolvBTC.BERA"
+    },
+    {
+      "stakingTokenAddress": "0x30e148a79b898efa1ab1285f5eca71972a7e0ace",
+      "vaultAddress": "0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab",
+      "name": "Sumer - bSumer",
+      "protocol": "Sumer",
+      "categories": ["defi"],
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/vaults/0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab.png",
+      "url": "https://app.sumer.money",
+      "description": "For incentivizing the real Sumerian contributors",
+      "owner": "Sumer",
+      "action": "Stake bSumer"
     }
   ]
 }

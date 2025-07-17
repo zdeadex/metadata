@@ -1015,7 +1015,15 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solv-protocol-solvbtc-bbn"
-      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x30E148a79B898EFa1Ab1285F5Eca71972a7e0acE",
+      "symbol": "bSumer",
+      "name": "Bera Sumer Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x30e148a79b898efa1ab1285f5eca71972a7e0ace.png",
+      "tags": []
     }
   ]
 }
