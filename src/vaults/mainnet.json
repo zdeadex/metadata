@@ -2467,7 +2467,7 @@
       "name": "Sumer - bSumer",
       "protocol": "Sumer",
       "categories": ["defi"],
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/vaults/0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752861170/vaults/0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab.png",
       "url": "https://app.sumer.money",
       "description": "For incentivizing the real Sumerian contributors",
       "owner": "Sumer",
