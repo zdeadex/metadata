@@ -2443,7 +2443,7 @@
       "name": "Wasabee - BEE | WBERA",
       "protocol": "Wasabee",
       "categories": ["defi"],
-      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/vaults/0xC7fee55E923dDbc6c596b8fe7e14889bc3005b3C.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752845616/vaults/0xC7fee55E923dDbc6c596b8fe7e14889bc3005b3C.jpg",
       "url": "https://wasabee.honeypotfinance.xyz/vault/0x3640587709a387B54B0DF555cD651A95A54fA900",
       "description": "Acquired by depositing liquidity into the BEE | WBERA Pool on Wasabee",
       "owner": "Wasabee",
