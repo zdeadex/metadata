@@ -405,6 +405,20 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
       "url": "https://goldilocksdao.io",
       "description": "Almost all supply currently in Beradrome farm."
+    },
+    {
+      "name": "SatLayer",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752757540/protocols/satlayer.png",
+      "url": "https://app.satlayer.xyz/",
+      "description": "SatLayer is the economic layer for Bitcoin, making the best asset now fully programmable.",
+      "tags": ["platform"]
+    },
+    {
+      "name": "Sumer",
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/main/src/assets/tokens/0x30e148a79b898efa1ab1285f5eca71972a7e0ace.png",
+      "url": "https://Sumer.money/",
+      "description": "Sumer is a liquidity infrastructure that combines lending, synthetic assets and cross chain liquidity into one unified pool to maximize capital efficiency.",
+      "tags": ["platform"]
     }
   ],
   "vaults": [
@@ -2321,8 +2335,8 @@
       "name": "All-in-One Honeypot Vault",
       "protocol": "Honeypot Finance",
       "categories": ["defi"],
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://wasabee.honeypotfinance.xyz/pools",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752721872/vaults/0xcf4f3eafe6ee37b33c5047f0e6562f764285de9d.png",
+      "url": "https://leaderboard.honeypotfinance.xyz",
       "description": "All-in-one Vault [0x9c52cD80455a9ee50610aC90e846e46E04014f6d] holds 100% of the staking token as the placeholder token.",
       "owner": "Honeypot Finance",
       "action": "Stake All-in-One Honeypot Vault"
@@ -2446,6 +2460,30 @@
       "description": "Acquired by depositing liquidity into the Miso - mBGT | iBERA Pool on Kodiak",
       "owner": "Miso",
       "action": "Stake mBGT / iBERA"
+    },
+    {
+      "stakingTokenAddress": "0xFF21f46Bc9D78125705eEF6EfCA62f9420cfDB9b",
+      "vaultAddress": "0x3211E960Fff36715b9046C51A3AF6826D1a226e7",
+      "name": "SatLayer - satSolvBTC.BERA",
+      "protocol": "SatLayer",
+      "categories": ["defi"],
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752690570/vaults/0x3211E960Fff36715b9046C51A3AF6826D1a226e7.png",
+      "url": "https://app.satlayer.xyz/",
+      "description": "SatLayer - satSolvBTC.BERA vault allows staking of the satSolvBTC.BERA token on SatLayer.",
+      "owner": "SatLayer",
+      "action": "Stake satSolvBTC.BERA"
+    },
+    {
+      "stakingTokenAddress": "0x30e148a79b898efa1ab1285f5eca71972a7e0ace",
+      "vaultAddress": "0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab",
+      "name": "Sumer - bSumer",
+      "protocol": "Sumer",
+      "categories": ["defi"],
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752861170/vaults/0x2ce23c67a3fb0b9c6c8e3546725871e74b2a08ab.png",
+      "url": "https://app.sumer.money",
+      "description": "For incentivizing the real Sumerian contributors",
+      "owner": "Sumer",
+      "action": "Stake bSumer"
     }
   ]
 }
