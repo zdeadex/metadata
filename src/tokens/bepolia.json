@@ -141,6 +141,16 @@
       "extensions": {
         "pythPriceId": "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a"
       }
+    },
+    {
+      "chainId": 80069,
+      "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
+      "symbol": "sWBERA",
+      "name": "staked wBera",
+      "logoURI":
+        "https://res.cloudinary.com/duv0g402y/image/upload/v1752588171/brand/swbera.png",
+      "decimals": 18,
+      "tags": []
     }
   ]
 }
