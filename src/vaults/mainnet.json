@@ -3,7 +3,12 @@
   "name": "Berachain Mainnet Default Reward Vault List",
   "categories": [
     {
-      "slug": "defi"
+      "slug": "defi",
+      "subcategories": [
+        {
+          "slug": "amm"
+        }
+      ]
     },
     {
       "slug": "gamefi",
