@@ -481,6 +481,14 @@
       "description": "run for free by thj. 100% of commission distributed to mibera liquid backing. mibera.",
       "website": "https://www.honeyroad.xyz/",
       "twitter": "https://x.com/miberamaker333"
+    },
+    {
+      "id": "0x807899bd9f6a2592b8cf13dd4e01d9fc5c1bc039419e1e22cd54bb3b91f888e73837c7c9c98ecb1e991195d359d3c07a",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1753200771/src/validators/mainnet/gyket5ovocboeosnvlq5.png",
+      "name": "Hyperblocks",
+      "description": "Staking and securing blockchains with Hyperblocks",
+      "website": "https://hyperblocks.pro/",
+      "twitter": "https://x.com/hyper_blocks"
     }
   ]
 }
