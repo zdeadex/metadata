@@ -1051,7 +1051,7 @@
       "name": "OpenState BGT",
       "decimals": 18,
       "logoURI": "src/assets/tokens/0xD2C41BF4033A83C0FC3A7F58a392Bf37d6dCDb58.png",
-      "tags": []n
+      "tags": [],
       "extensions": {
         "coingeckoId": "openstate-bgt"
       }
