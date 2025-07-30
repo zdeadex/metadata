@@ -293,7 +293,7 @@
     {
       "chainId": 80094,
       "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
-      "name": "uniBTC",
+      "name": "Universal BTC",
       "symbol": "uniBTC",
       "decimals": 8,
       "logoURI": "https://coin-images.coingecko.com/coins/images/39599/large/uniBTC_200px.png?1723064455",
@@ -732,7 +732,7 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744808447/tokens/fudxzeljryceklkujvuw.png",
       "tags": [],
       "extensions": {
-        "coingeckoId": "bedrock"
+        "coingeckoId": "bedrock-token"
       }
     },
     {
@@ -1043,6 +1043,42 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1752861199/tokens/0x30E148a79B898EFa1Ab1285F5Eca71972a7e0acE.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xD2C41BF4033A83C0FC3A7F58a392Bf37d6dCDb58",
+      "symbol": "osBGT",
+      "name": "OpenState BGT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1753886119/src/tokens/mainnet/q2kcmxsqqq0reef3tnii.jpg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "openstate-bgt"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79",
+      "symbol": "POLLEN",
+      "name": "Pollen",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1753886118/src/tokens/mainnet/yipjk5nsvjy5jtafl7lg.jpg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "pollen-2"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "symbol": "brBTC",
+      "name": "Bedrock BTC",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1753886118/src/tokens/mainnet/afjuznzoiw1hsffzfpko.jpg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bedrock-btc"
+      }
     }
   ]
 }
