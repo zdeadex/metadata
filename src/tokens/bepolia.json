@@ -65,16 +65,39 @@
       "address": "0x6e8d0eCfCE5c2b7587263923e23d141F6364c7f9",
       "symbol": "bbUSDC",
       "name": "bbUSDC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
       "decimals": 18,
-      "tags": []
+      "tags": ["stablecoin", "featured"],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "pythPriceId": "0xeaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a"
+      }
     },
     {
       "chainId": 80069,
       "address": "0xe0037233a4a21c6334CFa67895A4BeaDc87B2c40",
       "symbol": "bbBYUSD",
       "name": "bbBYUSD",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1738732576/tokens/y6wa21vehnappbe2cruf.png",
       "decimals": 18,
-      "tags": []
+      "tags": ["stablecoin", "featured"],
+      "extensions": {
+        "coingeckoId": "paypal-usd",
+        "pythPriceId": "0xc1da1b73d7f01e7ddd54b3766cf7fcd644395ad14f70aa706ec5384c59e76692"
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x75A226792e574918855740eBE24aD2f06D4d0Fb9",
+      "symbol": "USD₮0",
+      "name": "Tether USD Coin",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+      "tags": ["stablecoin", "featured"],
+      "extensions": {
+        "coingeckoId": "tether",
+        "pythPriceId": "0x2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b"
+      }
     },
     {
       "chainId": 80069,
