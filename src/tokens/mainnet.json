@@ -79,7 +79,7 @@
       "decimals": 6,
       "tags": ["stablecoin", "featured"],
       "extensions": {
-        "coingeckoId": "berachain-pyusd",
+        "coingeckoId": "paypal-usd",
         "pythPriceId": "0x00456705ae9007ea761e95c724035a23a62fe9e444bbc744e11af7f050ab53c3"
       }
     },
