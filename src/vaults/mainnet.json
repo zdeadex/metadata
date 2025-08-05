@@ -1489,7 +1489,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_stables.png",
-      "url": "https://app.concrete.xyz/vault/0xe96E0D5DdA2e24050F43AF92EbB3293f6e605C9a",
+      "url": "https://app.concrete.xyz/vault/berachain/stables",
       "description": "Acquired by depositing USDT0 into Concrete's Berachain Stables vault",
       "owner": "Concrete",
       "action": "Stake USDT0"
@@ -1501,7 +1501,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_stables.png",
-      "url": "https://app.concrete.xyz/vault/0x585934AfBf1FA9f563b80283F8B916Dd8F66a9b6",
+      "url": "https://app.concrete.xyz/vault/berachain/stables",
       "description": "Acquired by depositing USDe into Concrete's Berachain Stables vault",
       "owner": "Concrete",
       "action": "Stake USDe"
@@ -1513,7 +1513,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_stables.png",
-      "url": "https://app.concrete.xyz/vault/0xc3cac88fd629652BBe0C3454D5d3049368A73849",
+      "url": "https://app.concrete.xyz/vault/berachain/stables",
       "description": "Acquired by depositing USDC.e into Concrete's Berachain Stables vault",
       "owner": "Concrete",
       "action": "Stake USDC.e"
@@ -1525,7 +1525,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_stables.png",
-      "url": "https://app.concrete.xyz/vault/0x81235952ad93987F74e074994Def2a7e1D6F1Fb0",
+      "url": "https://app.concrete.xyz/vault/berachain/stables",
       "description": "Acquired by depositing HONEY into Concrete's Berachain Stables vault",
       "owner": "Concrete",
       "action": "Stake HONEY"
@@ -1537,7 +1537,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_stables.png",
-      "url": "https://app.concrete.xyz/vault/0xd08E3652e6b29EBdD58fe93B422513862FB49899",
+      "url": "https://app.concrete.xyz/vault/berachain/stables",
       "description": "Acquired by depositing sUSDe into Concrete's Berachain Stables vault",
       "owner": "Concrete",
       "action": "Stake sUSDe"
@@ -1549,7 +1549,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_ethereum.png",
-      "url": "https://app.concrete.xyz/vault/0x8d3e53f5521927E5c78D42B4f9e08ae8DF91B772",
+      "url": "https://app.concrete.xyz/vault/berachain/ethereum",
       "description": "Acquired by depositing WETH into Concrete's Berachain Ethereum vault",
       "owner": "Concrete",
       "action": "Stake WETH"
@@ -1561,7 +1561,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472446/vaults/concrete_ethereum.png",
-      "url": "https://app.concrete.xyz/vault/0x49BEE393825BBAC404fEfE6E24f34854f30905D2",
+      "url": "https://app.concrete.xyz/vault/berachain/ethereum",
       "description": "Acquired by depositing BeraETH into Concrete's Berachain Ethereum vault",
       "owner": "Concrete",
       "action": "Stake BeraETH"
@@ -1573,7 +1573,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_btc.png",
-      "url": "https://app.concrete.xyz/vault/0xB6E3C1154e07f8a3dc04a9a28648C7AA30511120",
+      "url": "https://app.concrete.xyz/vault/berachain/bitcoin",
       "description": "Acquired by depositing LBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
       "action": "Stake LBTC"
@@ -1585,7 +1585,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_btc.png",
-      "url": "https://app.concrete.xyz/vault/0x335e7b56054F830883D1509AFDce58DedceFb29C",
+      "url": "https://app.concrete.xyz/vault/berachain/bitcoin",
       "description": "Acquired by depositing WBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
       "action": "Stake WBTC"
@@ -1597,7 +1597,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_btc.png",
-      "url": "https://app.concrete.xyz/vault/0x068D072d1ee7647B9d649a7C2046166Aa81af3D3",
+      "url": "https://app.concrete.xyz/vault/berachain/bitcoin",
       "description": "Acquired by depositing uniBTC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
       "action": "Stake uniBTC"
@@ -1609,7 +1609,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_btc.png",
-      "url": "https://app.concrete.xyz/vault/0x127BF6361ff7495F2A69d83d9Ad2092D3dfEE7Ab",
+      "url": "https://app.concrete.xyz/vault/berachain/bitcoin",
       "description": "Acquired by depositing FTBC into Concrete's Berachain Bitcoin vault",
       "owner": "Concrete",
       "action": "Stake FBTC"
@@ -1621,7 +1621,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_bera.png",
-      "url": "https://app.concrete.xyz/vault/0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
+      "url": "https://app.concrete.xyz/vault/berachain/bera/0xEC577E989c02b294D5b8f4324224a5B63F5beef7",
       "description": "Acquired by depositing BERA or WBERA into Concrete's Berachain Bera vault",
       "owner": "Concrete",
       "action": "Stake BERA"
@@ -1633,7 +1633,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_berabaddies.png",
-      "url": "https://app.concrete.xyz/vault/0xe49Ff31B2B3Fd346b0d1832d9fE224ee0d1c1F9e",
+      "url": "https://app.concrete.xyz/vault/berabaddies/earn",
       "description": "Acquired by depositing HONEY into Concrete's Berabaddies Earn Vault",
       "owner": "Concrete",
       "action": "Stake HONEY (Concrete x Berabaddies)"
@@ -1645,7 +1645,7 @@
       "protocol": "Concrete",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746472445/vaults/concrete_berabaddies.png",
-      "url": "https://app.concrete.xyz/vault/0xA15E1De8a220Ca9C63DB4E8a1E9043fb953B3713",
+      "url": "https://app.concrete.xyz/vault/berabaddies/earn",
       "description": "Acquired by depositing BERA or WBERA into Concrete's Berabaddies Earn Vault",
       "owner": "Concrete",
       "action": "Stake BERA (Concrete x Berabaddies)"
