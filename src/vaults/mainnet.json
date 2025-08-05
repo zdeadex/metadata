@@ -1681,7 +1681,7 @@
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746488545/vaults/upc8cajystcwryckwhnt.jpg",
-      "url": "https://hub.berachain.com/vaults/0x9df027ed06635ecdfe811009f2291d347ea90357/",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xf6b16e73d3b0e2784aae8c4cd06099be65d092bf?farm=0x9df027ed06635ecdfe811009f2291d347ea90357&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | HONEY Island on Kodiak",
       "owner": "Kodiak",
       "action": "Stake WBTC | HONEY"
@@ -1693,7 +1693,7 @@
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746489354/vaults/uhozqpke4jhxf8z5akhl.jpg",
-      "url": "https://hub.berachain.com/vaults/0x0308f87226efacc51983bea842be57dc45de772c/",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x58fdb6eebf7df7ce4137994436fb0e629bb84b84?farm=0x0308f87226efacc51983bea842be57dc45de772c&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the Kodiak - WBTC | WETH Island on Kodiak",
       "owner": "Kodiak",
       "action": "Stake WBTC | WETH"
@@ -1981,7 +1981,7 @@
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748885568/vaults/0x5fc9d951787c297b3b1ade8a871b84d9aa717608.png",
-      "url": "https://yeetit.xyz",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x412c9f79779ae6c3a13a318252b29c559be756ca?farm=0x5fc9d951787c297b3b1ade8a871b84d9aa717608&chain=berachain_mainnet",
       "description": "Acquired by depositing liquidity into the YEET | wgBERA island on Kodiak",
       "owner": "Yeet",
       "action": "Stake YEET / wgBERA"
@@ -2209,7 +2209,7 @@
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://www.itsallzero.com/",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0xabcea3ead918c3c5eca9b85d25b5e463a35a5e66?farm=0xcd7c3b91de4a84942069201644b70d9570f2b9a9&chain=berachain_mainnet",
       "description": "KODIAK - ZERO | iBGT vault allows staking of liquidity from the ZERO and iBGT token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "GOING to ZERO",
       "action": "Stake ZERO / iBGT"
@@ -2305,7 +2305,7 @@
       "protocol": "Kodiak",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534876/tokens/default.png",
-      "url": "https://www.itsallzero.com/",
+      "url": "https://app.kodiak.finance/#/liquidity/pools/0x091e41545e4a82e08f35bb51850e905537ced72e?farm=0xfe5fe99a4e5ae1f6212c1b32ed4ed6d1c1c6de57&chain=berachain_mainnet",
       "description": "Kodiak - WBERA | ZERO vault allows staking of liquidity from the WBERA and ZERO token pair on Kodiak through the GOING to ZERO protocol.",
       "owner": "GOING to ZERO",
       "action": "Stake WBERA / ZERO"
