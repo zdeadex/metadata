@@ -1079,6 +1079,15 @@
       "extensions": {
         "coingeckoId": "bedrock-btc"
       }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x09d4683d680aBF2ecD69F4D6Bcbc006abFE9f6Ad",
+      "symbol": "50sWBERA-50wgBERA-WEIGHTED",
+      "name": "sWBERA | wgBERA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1754411074/tokens/0x09d4683d680aBF2ecD69F4D6Bcbc006abFE9f6Ad.png",
+      "tags": []
     }
   ]
 }
