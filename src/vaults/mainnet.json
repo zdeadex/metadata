@@ -2513,6 +2513,18 @@
       "description": "Acquired by depositing swBERA and wgBERA into the sWBERA | wgBERA (20/80) on Berahub. Stake WBERA to get swBERA, stake BERA in Smilee to get wgBERA.",
       "owner": "Smilee",
       "action": "Stake sWBERA / wgBERA (20/80)"
+    },
+    {
+      "stakingTokenAddress": "0xe9b91292fc29753a723ded3574f3ad8ec77d08dc",
+      "vaultAddress": "0x28ace51d12f839c678ff15ba303aa6f6e64d05fa",
+      "name": "Smilee (80/20) - Shadow",
+      "protocol": "HUB",
+      "categories": ["defi"],
+      "logoURI": "",
+      "url": "https://hub.berachain.com/earn/0x28ace51d12f839c678ff15ba303aa6f6e64d05fa/",
+      "description": "Acquired by depositing swBERA and wgBERA into the sWBERA | wgBERA (80/20) on Berahub. Stake WBERA to get swBERA, stake BERA in Smilee to get wgBERA.",
+      "owner": "Smilee",
+      "action": "Stake sWBERA / wgBERA (80/20)"
     }
   ]
 }
