@@ -2493,10 +2493,10 @@
     {
       "stakingTokenAddress": "0x09d4683d680aBF2ecD69F4D6Bcbc006abFE9f6Ad",
       "vaultAddress": "0xce77a233a22873440496166b1d41a6feda93c3c5",
-      "name": "Smilee - sWBERA | wgBERA",
+      "name": "Smilee (50/50) - Harmony",
       "protocol": "HUB",
       "categories": ["defi"],
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1754410929/vaults/0xce77a233a22873440496166b1d41a6feda93c3c5.png",
+      "logoURI": "",
       "url": "https://hub.berachain.com/pools/0x09d4683d680abf2ecd69f4d6bcbc006abfe9f6ad00020000000000000000018f/details/",
       "description": "Acquired by depositing swBERA and wgBERA into the sWBERA | wgBERA Pool (50/50) on Berahub. Stake WBERA to get swBERA, stake BERA in Smilee to get wgBERA.",
       "owner": "Smilee",
