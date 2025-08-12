@@ -2501,6 +2501,18 @@
       "description": "Acquired by depositing swBERA and wgBERA into the sWBERA | wgBERA Pool (50/50) on Berahub. Stake WBERA to get swBERA, stake BERA in Smilee to get wgBERA.",
       "owner": "Smilee",
       "action": "Stake sWBERA / wgBERA"
+    },
+    {
+      "stakingTokenAddress": "0x7185e6cb1fcaf5d9e67af065b5e0fd8503e68be2",
+      "vaultAddress": "0x96325246424c5fc1d302765fc76ef66f16e0632c",
+      "name": "Smilee (20/80) - Rainbow",
+      "protocol": "HUB",
+      "categories": ["defi"],
+      "logoURI": "",
+      "url": "https://hub.berachain.com/earn/0x96325246424c5fc1d302765fc76ef66f16e0632c/",
+      "description": "Acquired by depositing swBERA and wgBERA into the sWBERA | wgBERA (20/80) on Berahub. Stake WBERA to get swBERA, stake BERA in Smilee to get wgBERA.",
+      "owner": "Smilee",
+      "action": "Stake sWBERA / wgBERA (20/80)"
     }
   ]
 }
