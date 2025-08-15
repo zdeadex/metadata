@@ -362,7 +362,7 @@
     },
     {
       "name": "Jiko",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748897429/vaults/kngiuy4vzcuvfgqoj7xw.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1755195985/protocols/jiko.png",
       "url": "https://app.beraji.com/",
       "description": "A yield optimizer protocol powering the PvP idle card game.",
       "tags": ["platform"]
@@ -2533,7 +2533,7 @@
       "name": "JIKO BET",
       "protocol": "Jiko",
       "categories": ["gamefi"],
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1748897429/vaults/0x58b4420c1462fcf00284ac21b75e0ee7eb405de4.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1755195943/vaults/0x58b4420c1462fcf00284ac21b75e0ee7eb405de4.png",
       "url": "https://app.beraji.com/game",
       "description": "Acquired by spending at least 5 HONEY in-game each day to qualify for that day’s BGT rewards. Eligible spending includes creating rooms, joining rooms, or predicting battles. Once the daily minimum is met, your total spend is converted into LP and auto-staked into the reward vault for BGT distribution.",
       "owner": "Jiko",
