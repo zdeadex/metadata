@@ -30,7 +30,7 @@
       "stakingTokenAddress": "0xDa94d2bfc516f1963C4c36f390a803D544688f71",
       "vaultAddress": "0x57abe4e0c59a650a7042e18493179dd5b91a3f61",
       "name": "Bepolia Foundation Vault #1",
-      "protocol": "HUB", 
+      "protocol": "HUB",
       "categories": ["foundation/test"],
       "url": "https://bepolia.hub.berachain.com/vaults/0x57abe4e0c59a650a7042e18493179dd5b91a3f61",
       "description": "Used for testing bribes automation for ayvee"
