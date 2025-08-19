@@ -65,14 +65,6 @@
       "protocol": "HUB",
       "categories": ["foundation"],
       "url": "https://bepolia.hub.berachain.com/vaults/0x668b25f09D1f505b774bb5F686874c401EE22730"
-    },
-    {
-      "stakingTokenAddress": "0xa40f40ea13d410b21ba375a6cdd4bd80757596a1",
-      "vaultAddress": "0x01e81ea8e9c55a8c7192fb99bd70b20191ecd396",
-      "name": "Bepolia Foundation Vault #6",
-      "protocol": "HUB",
-      "categories": ["foundation"],
-      "url": "https://bepolia.hub.berachain.com/vaults/0x668b25f09D1f505b774bb5F686874c401EE22730"
     }
   ]
 }
