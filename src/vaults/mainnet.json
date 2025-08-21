@@ -1268,7 +1268,7 @@
       "vaultAddress": "0xEC54b5D168e7128bC1f06d12ef0e5aB6F4c59ed9",
       "name": "Wizzwoods - WIZZ | WBERA",
       "protocol": "HUB",
-      "categories": ["defi/amm"],
+      "categories": ["gamefi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1744809769/vaults/xoeztwkfwreatd1zfjco.png",
       "url": "https://hub.berachain.com/pools/0x1b7B061091BD2C900723107889Fe44F825d6C92100020000000000000000010c/details/",
       "description": "Acquired by depositing liquidity into the Wizzwoods - WIZZ|WBERA Pool on Hub",
