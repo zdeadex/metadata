@@ -4,6 +4,7 @@
   "categories": [
     {
       "slug": "defi",
+      "name": "DeFi",
       "subcategories": [
         {
           "slug": "amm"
@@ -15,7 +16,8 @@
           "slug": "lending"
         },
         {
-          "slug": "liquid-staking"
+          "slug": "liquid-staking",
+          "name": "Liquid Staking"
         },
         {
           "slug": "yield"
@@ -27,7 +29,8 @@
           "slug": "options"
         },
         {
-          "slug": "dex-agg"
+          "slug": "dex-agg",
+          "name": "DEX Aggregators"
         }
       ]
     },

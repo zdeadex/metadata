@@ -21,6 +21,11 @@
             "type": "string",
             "minLength": 1
           },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "For UI purposes, this might change in the future."
+          },
           "description": {
             "type": "string",
             "minLength": 1,
