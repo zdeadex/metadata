@@ -2581,6 +2581,18 @@
       "description": "Acquired by depositing liquidity into the OpenState - osBGT | sWBERA Pool on Kodiak",
       "owner": "OpenState",
       "action": "Stake osBGT / sWBERA"
+    },
+    {
+      "stakingTokenAddress": "0xc2605ed80880bd6b1523d52aef8d624ed468a935",
+      "vaultAddress": "0x3d1c173460fa24e53d68b31c39d85d874348ed8b",
+      "name": "LP-iBGT on Pendle",
+      "protocol": "Pendle",
+      "categories": ["defi"],
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6b23f69f-2641-4bf0-87c2-8924a2d68a59.svg",
+      "url": "https://app.pendle.finance/trade/pools/0x02293d88656860a840ed457d38f51e3e6bee8461/zap/in?chain=bera",
+      "description": "Acquired by depositing liquidity into the Pendle - iBERA | iBGT Pool on Kodiak",
+      "owner": "Infrared",
+      "action": "Stake iBERA / iBGT"
     }
   ]
 }
