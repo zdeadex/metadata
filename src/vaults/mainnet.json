@@ -587,14 +587,14 @@
       "action": "Stake stBGT / WBERA"
     },
     {
-      "stakingTokenAddress": "0x01cbf8BF3dA700A1196FDCe3f4B5B441F1A013E5",
+      "stakingTokenAddress": "0x36FA291f4A4Ae41e4be2a979136EBd7eb97950E7",
       "vaultAddress": "0xf3BDf754B4691286090090D601f77384dA9FB721",
-      "name": "Beradrome $LOCKS/BERA vault",
-      "protocol": "Kodiak",
+      "name": "Beradrome LOCKS/BERA Vault",
+      "protocol": "Beradrome",
       "categories": ["defi"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746541685/vaults/wy69tcudpjlzyktsqgeg.png",
-      "url": "https://kodiak.finance/",
-      "description": "Acquired by depositing liquidity into the Goldilocks - LOCKS | BERA Pool on Kodiak",
+      "url": "https://www.beradrome.com/farms/0x74A38Bfeedd95f65cbBF72eEDf01EAC77778bcF9",
+      "description": "Acquired by depositing liquidity into the Goldilocks - LOCKS | BERA Pool on Kodiak and subsequently staking on Beradrome",
       "owner": "Goldilocks DAO",
       "action": "Stake LOCKS / BERA"
     },
