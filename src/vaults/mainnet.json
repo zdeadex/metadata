@@ -526,7 +526,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1742854063/reward-vaults/icons/jc7moazw8aeobb4sxbcz.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xe416c064946112c1626d6700d1081a750b1b1dd7000200000000000000000008",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xe416c064946112c1626d6700d1081a750b1b1dd7000200000000000000000008",
       "description": "Acquired by depositing liquidity into the Smilee - NECT | wgBERA Pool on BurrBear",
       "owner": "Smilee",
       "action": "Stake NECT / wgBERA"
@@ -550,7 +550,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743021065/tokens/nvpwbuegvulkccjmg0lm.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0x567f32e86be3e3963cdbc1887b5043b701f113d9000000000000000000000006",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0x567f32e86be3e3963cdbc1887b5043b701f113d9000000000000000000000006",
       "description": "The stable pool wgBERA-BERA, including the official Liquid Staking Token from Smilee Finance.",
       "owner": "Smilee",
       "action": "Stake WBERA / wgBERA"
@@ -1005,7 +1005,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1743429746/tokens/ejojqpuicz5nvimiyjzq.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23000000000000000000000004",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xd10e65a5f8ca6f835f2b1832e37cf150fb955f23000000000000000000000004",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | HONEY Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / USDC.e / HONEY"
@@ -1737,7 +1737,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x9BC3D407D930910a7aF515D473Ce9633624C1574.jpg",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xac8a437d1e6905e419431662aead90fb04ac300800020000000000000000000f",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xac8a437d1e6905e419431662aead90fb04ac300800020000000000000000000f",
       "description": "Acquired by depositing liquidity into the BURR | wgBERA Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake BURR | wgBERA"
@@ -1881,7 +1881,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x8bdB29E48874A96123CfC79a8F1d2672f0CB6295.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0x718e92b415b8c59797801fc8b132339483349d2800020000000000000000001a",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0x718e92b415b8c59797801fc8b132339483349d2800020000000000000000001a",
       "description": "Acquired by depositing liquidity into the NECT | COIN Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / COIN"
@@ -1893,7 +1893,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x7686449526A1b3d63105d379f60360D1D5a604b9.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0x2395483d2f96a26afc80e7cc3454ea59311cef0800020000000000000000001b",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0x2395483d2f96a26afc80e7cc3454ea59311cef0800020000000000000000001b",
       "description": "Acquired by depositing liquidity into the NECT | iCOIN Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / iCOIN"
@@ -1905,7 +1905,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x0377b0D9c7851fF807cB2488986F862ddBF4e97f.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0x8213bb9c018edc0295b177278aeaa1a704f123ab000200000000000000000018",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0x8213bb9c018edc0295b177278aeaa1a704f123ab000200000000000000000018",
       "description": "Acquired by depositing liquidity into the NECT | NVDA Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / NVDA"
@@ -1917,7 +1917,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0xBF1DE39e1FA3AE820b0961F33F87B037221F095e.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0x10990bf8c7cbc045ed482ed83dc44cbcda23ca23000200000000000000000019",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0x10990bf8c7cbc045ed482ed83dc44cbcda23ca23000200000000000000000019",
       "description": "Acquired by depositing liquidity into the NECT | iNVDA Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / iNVDA"
@@ -1929,7 +1929,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1746534606/vaults/0x576374e222ec51608f9631f074536B9f897d2638.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xcbef1b65399065c2de2c495971e90466ff38f2d000000000000000000000001e",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xcbef1b65399065c2de2c495971e90466ff38f2d000000000000000000000001e",
       "description": "Acquired by depositing liquidity into the WBTC | SolvBTC | xSolvBTC Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake WBTC / SolvBTC / xSolvBTC"
@@ -2133,7 +2133,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750294929/vaults/0x6fD82191550c53414B1d4cE982a8424CE039697B.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xb34fca9739249578d93a22ce02bf7fad277bad35000000000000000000000013",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xb34fca9739249578d93a22ce02bf7fad277bad35000000000000000000000013",
       "description": "Acquired by depositing liquidity into the NECT | USDC.e | USD₮0 | HONEY Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake NECT / USDC.e / USD₮0 / HONEY"
@@ -2145,7 +2145,7 @@
       "protocol": "BurrBear",
       "categories": ["defi/amm"],
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1750883916/vaults/0xf326CB487D9542a0c43b7c6C9a252fa626403023.png",
-      "url": "https://app.burrbear.io/#/berachain/pool/0xc4c039178a79e614609e592d7689ecb3107758b1000200000000000000000020",
+      "url": "https://app.burrbear.io/pools/berachain/v2/0xc4c039178a79e614609e592d7689ecb3107758b1000200000000000000000020",
       "description": "Acquired by depositing liquidity into the BURR | NECT Pool on BurrBear",
       "owner": "BurrBear",
       "action": "Stake BURR / NECT"
