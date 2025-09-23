@@ -526,13 +526,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
-      "name": "Reservoir Stablecoin",
-      "symbol": "rUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 80094,
       "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
       "name": "USDe",
       "symbol": "USDe",
