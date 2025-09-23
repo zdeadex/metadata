@@ -1131,7 +1131,7 @@
       "symbol": "PRG",
       "name": "Porridge",
       "decimals": 18,
-      "logoURI": null,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xbf2e152f460090ace91a456e3dee5acf703f27ad.png",
       "tags": []
     },
     {
@@ -1140,7 +1140,7 @@
       "symbol": "xfatBERA",
       "name": "Extra FatBERA",
       "decimals": 18,
-      "logoURI": null,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xcac89b3f94ed6bab04113884deee2a55293c2dd7.jpg",
       "tags": []
     },
     {
@@ -1176,7 +1176,7 @@
       "symbol": "QIA",
       "name": "Quod In Altum",
       "decimals": 18,
-      "logoURI": null,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0x41fc191d145307667ea3e50f244b78de9cddf53f.png",
       "tags": []
     },
     {
@@ -1213,6 +1213,15 @@
       "name": "Wrapped SOL",
       "decimals": 9,
       "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xb7e448e5677d212b8c8da7d6312e8afc49800466",
+      "symbol": "LOCKS",
+      "name": "Goldilocks DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/metadata/refs/heads/main/src/assets/tokens/0xb7e448e5677d212b8c8da7d6312e8afc49800466.png",
       "tags": []
     }
   ]
