@@ -1115,6 +1115,105 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1755195875/tokens/0x8C9807d681EC113700841A9DAC09Bb30D616fC75.png",
       "decimals": 18,
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0000382fbb422b4f593931fc6f2d25cc16600000",
+      "symbol": "ZERO",
+      "name": "Zero",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xbf2e152f460090ace91a456e3dee5acf703f27ad",
+      "symbol": "PRG",
+      "name": "Porridge",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xcac89b3f94ed6bab04113884deee2a55293c2dd7",
+      "symbol": "xfatBERA",
+      "name": "Extra FatBERA",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead",
+      "symbol": "BREAD",
+      "name": "Bread",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x7e768f47dfdd5dae874aac233f1bc5817137e453",
+      "symbol": "yBGT",
+      "name": "Bearn BGT",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f",
+      "symbol": "AIBERA",
+      "name": "HoneyFun AI",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x41fc191d145307667ea3e50f244b78de9cddf53f",
+      "symbol": "QIA",
+      "name": "Quod In Altum",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "rUSD",
+      "name": "Reservoir Stablecoin",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0",
+      "symbol": "eWBERA-4",
+      "name": "EVK Vault eWBERA-4",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+      "symbol": "OOGA",
+      "name": "Ooga Token",
+      "decimals": 18,
+      "logoURI": null,
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x225b86198ba36321a8a840291416aed62494043f",
+      "symbol": "SOL",
+      "name": "Wrapped SOL",
+      "decimals": 9,
+      "logoURI": null,
+      "tags": []
     }
   ]
 }
