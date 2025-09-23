@@ -1187,7 +1187,6 @@
       "symbol": "eWBERA-4",
       "name": "EVK Vault eWBERA-4",
       "decimals": 18,
-      "logoURI": null,
       "tags": []
     },
     {
@@ -1196,7 +1195,7 @@
       "symbol": "OOGA",
       "name": "Ooga Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1758659724/tokens/0x009af46df68db0e76bfe9ea35663f6ed17877956.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1758661267/tokens/0x009af46df68db0e76bfe9ea35663f6ed17877956.png",
       "tags": []
     },
     {
