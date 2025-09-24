@@ -1183,14 +1183,6 @@
     },
     {
       "chainId": 80094,
-      "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0",
-      "symbol": "eWBERA-4",
-      "name": "EVK Vault eWBERA-4",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 80094,
       "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
       "symbol": "OOGA",
       "name": "Ooga Token",
