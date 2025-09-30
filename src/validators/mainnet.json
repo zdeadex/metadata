@@ -4,10 +4,10 @@
   "validators": [
     {
       "id": "0xa3539ca28e0fd74d2a3c4c552740be77d6914cad2d8ec16583492cc57e8cfa358c62e31cc9106b1700cc169962855a6f",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/L0vd.svg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1759246417/src/validators/mainnet/gn3aklkrebsa2jgcorxi.png",
       "name": "L0vd",
       "description": "Professional validator, staking and infrastructure provider. More than 50 networks contributed. With L0ve.",
-      "website": "https://chain-services.l0vd.com",
+      "website": "https://l0vd.com",
       "twitter": "https://x.com/L0vdstaking"
     },
     {
