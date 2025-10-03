@@ -1207,6 +1207,24 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1758659726/tokens/0xb7e448e5677d212b8c8da7d6312e8afc49800466.png",
       "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0x054d3bdb73d8e6e2ab24733d78353a7bc565a95b",
+      "symbol": "STICKY eWBERA-4-wgBERA",
+      "name": "Sticky Vault eWBERA-4-wgBERA-0.05%",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
+    },
+    {
+      "chainId": 80094,
+      "address": "0xe409272355d32a3dfcdde888ca275ac33146b854",
+      "symbol": "STICKY NECT-HONEY",
+      "name": "Sticky Vault NECT-HONEY-0.01%",
+      "decimals": 18,
+      "logoURI": "",
+      "tags": []
     }
   ]
 }
